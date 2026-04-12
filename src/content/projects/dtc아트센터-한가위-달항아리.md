@@ -2,7 +2,7 @@
 title: '한가위 달항아리'
 titleEn: ''
 slug: 'dtc아트센터-한가위-달항아리'
-year: 2023
+year: 2024
 organization: 'DTC아트센터'
 organizationEn: ''
 sector: 'museum'
@@ -14,7 +14,7 @@ collaboration: 'solo'
 description: |
   [프로젝트 설명 작성]
 featured: true
-draft: true
+draft: false
 deliverables:
   - item: '공간그래픽'
   - item: '인쇄물'

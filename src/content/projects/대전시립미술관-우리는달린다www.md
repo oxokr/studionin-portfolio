@@ -2,7 +2,7 @@
 title: '우리는달린다WWW'
 titleEn: ''
 slug: '대전시립미술관-우리는달린다www'
-year: 2023
+year: 2022
 organization: '대전시립미술관'
 organizationEn: ''
 sector: 'museum'
@@ -16,7 +16,7 @@ collaboration: 'solo'
 description: |
   [프로젝트 설명 작성]
 featured: true
-draft: true
+draft: false
 deliverables:
   - item: '도록'
   - item: '사인물'

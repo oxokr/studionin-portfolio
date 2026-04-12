@@ -2,7 +2,7 @@
 title: '뗀석기in용호동'
 titleEn: ''
 slug: '대전선사박물관-뗀석기in용호동'
-year: 2023
+year: 2026
 organization: '대전선사박물관'
 organizationEn: ''
 sector: 'museum'
@@ -14,7 +14,7 @@ collaboration: 'solo'
 description: |
   [프로젝트 설명 작성]
 featured: true
-draft: true
+draft: false
 deliverables:
   - item: 'Print'
 credits:

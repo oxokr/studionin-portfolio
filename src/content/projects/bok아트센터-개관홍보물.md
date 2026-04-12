@@ -2,7 +2,7 @@
 title: '개관홍보물'
 titleEn: ''
 slug: 'bok아트센터-개관홍보물'
-year: 2023
+year: 2019
 organization: 'bok아트센터'
 organizationEn: ''
 sector: 'museum'
@@ -14,7 +14,7 @@ collaboration: 'solo'
 description: |
   [프로젝트 설명 작성]
 featured: true
-draft: true
+draft: false
 deliverables:
   - item: '내부사인물'
   - item: '목업소스'

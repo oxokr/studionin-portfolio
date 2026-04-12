@@ -2,7 +2,7 @@
 title: '유근영개인전'
 titleEn: ''
 slug: 'dtc아트센터-유근영개인전'
-year: 2023
+year: 2025
 organization: 'DTC아트센터'
 organizationEn: ''
 sector: 'museum'
@@ -14,7 +14,7 @@ collaboration: 'solo'
 description: |
   [프로젝트 설명 작성]
 featured: true
-draft: true
+draft: false
 deliverables:
   - item: 'Print'
 credits:

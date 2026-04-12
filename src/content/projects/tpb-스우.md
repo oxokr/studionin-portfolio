@@ -2,7 +2,7 @@
 title: '스우'
 titleEn: ''
 slug: 'tpb-스우'
-year: 2023
+year: 2021
 organization: 'Tpb'
 organizationEn: ''
 sector: 'commercial'
@@ -15,7 +15,7 @@ collaboration: 'solo'
 description: |
   [프로젝트 설명 작성]
 featured: true
-draft: true
+draft: false
 deliverables:
   - item: '계약서'
   - item: '공간'

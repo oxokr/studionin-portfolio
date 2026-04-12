@@ -2,7 +2,7 @@
 title: '시중유화 화중유시'
 titleEn: ''
 slug: 'dtc아트센터-시중유화-화중유시'
-year: 2023
+year: 2024
 organization: 'DTC아트센터'
 organizationEn: ''
 sector: 'museum'
@@ -14,7 +14,7 @@ collaboration: 'solo'
 description: |
   [프로젝트 설명 작성]
 featured: true
-draft: true
+draft: false
 deliverables:
   - item: '나태주토크쇼'
   - item: '명제표'

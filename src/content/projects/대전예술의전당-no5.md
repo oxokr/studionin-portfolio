@@ -2,7 +2,7 @@
 title: 'No.5'
 titleEn: ''
 slug: '대전예술의전당-no5'
-year: 2023
+year: 2020
 organization: '대전예술의전당'
 organizationEn: ''
 sector: 'performing-arts'
@@ -15,7 +15,7 @@ collaboration: 'solo'
 description: |
   [프로젝트 설명 작성]
 featured: true
-draft: true
+draft: false
 deliverables:
   - item: '인쇄'
   - item: '자료'

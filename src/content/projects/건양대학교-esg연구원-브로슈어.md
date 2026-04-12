@@ -2,7 +2,7 @@
 title: 'ESG연구원 브로슈어'
 titleEn: ''
 slug: '건양대학교-esg연구원-브로슈어'
-year: 2023
+year: 2022
 organization: '건양대학교'
 organizationEn: ''
 sector: 'commercial'
@@ -14,7 +14,7 @@ collaboration: 'solo'
 description: |
   [프로젝트 설명 작성]
 featured: true
-draft: true
+draft: false
 deliverables:
   - item: '브로슈어'
   - item: '시안'

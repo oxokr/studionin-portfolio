@@ -2,7 +2,7 @@
 title: '토마토BI_디자인애로해결지원'
 titleEn: ''
 slug: '애니토마토-토마토bi_디자인애로해결지원'
-year: 2023
+year: 2025
 organization: '애니토마토'
 organizationEn: ''
 sector: 'commercial'
@@ -14,7 +14,7 @@ collaboration: 'solo'
 description: |
   [프로젝트 설명 작성]
 featured: true
-draft: true
+draft: false
 deliverables:
   - item: 'BI'
   - item: '예시서류'

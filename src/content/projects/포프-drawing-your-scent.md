@@ -2,7 +2,7 @@
 title: 'DRAWING YOUR SCENT'
 titleEn: ''
 slug: '포프-drawing-your-scent'
-year: 2023
+year: 2024
 organization: '포프'
 organizationEn: ''
 sector: 'commercial'
@@ -15,7 +15,7 @@ collaboration: 'solo'
 description: |
   [프로젝트 설명 작성]
 featured: true
-draft: true
+draft: false
 deliverables:
   - item: '메뉴얼'
   - item: '소스'

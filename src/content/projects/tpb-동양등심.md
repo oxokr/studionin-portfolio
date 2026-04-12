@@ -2,7 +2,7 @@
 title: '동양등심'
 titleEn: ''
 slug: 'tpb-동양등심'
-year: 2023
+year: 2024
 organization: 'Tpb'
 organizationEn: ''
 sector: 'commercial'
@@ -16,7 +16,7 @@ collaboration: 'solo'
 description: |
   [프로젝트 설명 작성]
 featured: true
-draft: true
+draft: false
 deliverables:
   - item: '공간'
   - item: '레퍼런스'

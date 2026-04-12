@@ -2,7 +2,7 @@
 title: 'err.look vol0'
 titleEn: ''
 slug: '얼룩-errlook-vol0'
-year: 2023
+year: 2020
 organization: '얼룩'
 organizationEn: ''
 sector: 'self-initiated'
@@ -15,7 +15,7 @@ collaboration: 'solo'
 description: |
   [프로젝트 설명 작성]
 featured: true
-draft: true
+draft: false
 deliverables:
   - item: '매거진'
   - item: '서류'
