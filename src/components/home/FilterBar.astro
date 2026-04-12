@@ -1,0 +1,141 @@
+---
+interface Props {
+  types: string[];
+  sectors: string[];
+  lang?: 'ko' | 'en';
+}
+
+const { types, sectors, lang = 'ko' } = Astro.props;
+
+const typeLabels: Record<string, Record<string, string>> = {
+  exhibition: { ko: 'Exhibition', en: 'Exhibition' },
+  editorial: { ko: 'Editorial', en: 'Editorial' },
+  identity: { ko: 'Identity', en: 'Identity' },
+  space: { ko: 'Space', en: 'Space' },
+  branding: { ko: 'Branding', en: 'Branding' },
+};
+
+const sectorLabels: Record<string, Record<string, string>> = {
+  museum: { ko: 'Museum', en: 'Museum' },
+  'performing-arts': { ko: 'Performing Arts', en: 'Performing Arts' },
+  public: { ko: 'Public', en: 'Public' },
+  commercial: { ko: 'Commercial', en: 'Commercial' },
+  artist: { ko: 'Artist', en: 'Artist' },
+  'self-initiated': { ko: 'Self-initiated', en: 'Self-initiated' },
+};
+---
+
+<div class="filter-bar" id="filter-bar">
+  <div class="container">
+    <div class="filter-row">
+      <span class="filter-row__label">Type</span>
+      <button class="filter-btn is-active" data-filter="type" data-value="all">
+        All
+      </button>
+      {
+        types.map((type) => (
+          <button class="filter-btn" data-filter="type" data-value={type}>
+            {typeLabels[type]?.[lang] ?? type}
+          </button>
+        ))
+      }
+    </div>
+    <div class="filter-row">
+      <span class="filter-row__label">Sector</span>
+      <button
+        class="filter-btn is-active"
+        data-filter="sector"
+        data-value="all"
+      >
+        All
+      </button>
+      {
+        sectors.map((sector) => (
+          <button class="filter-btn" data-filter="sector" data-value={sector}>
+            {sectorLabels[sector]?.[lang] ?? sector}
+          </button>
+        ))
+      }
+    </div>
+  </div>
+</div>
+
+<script>
+  const filterBar = document.getElementById('filter-bar');
+  if (filterBar) {
+    let activeType = 'all';
+    let activeSector = 'all';
+
+    const cards = document.querySelectorAll<HTMLElement>('.project-card');
+    const buttons = filterBar.querySelectorAll<HTMLButtonElement>('.filter-btn');
+
+    function applyFilters() {
+      cards.forEach((card) => {
+        const cardTypes = card.dataset.type?.split(' ') ?? [];
+        const cardSector = card.dataset.sector ?? '';
+
+        const matchType =
+          activeType === 'all' || cardTypes.includes(activeType);
+        const matchSector =
+          activeSector === 'all' || cardSector === activeSector;
+
+        card.classList.toggle('is-hidden', !(matchType && matchSector));
+      });
+
+      // Update URL
+      const params = new URLSearchParams();
+      if (activeType !== 'all') params.set('type', activeType);
+      if (activeSector !== 'all') params.set('sector', activeSector);
+      const qs = params.toString();
+      history.replaceState(
+        null,
+        '',
+        qs ? `${window.location.pathname}?${qs}` : window.location.pathname
+      );
+    }
+
+    buttons.forEach((btn) => {
+      btn.addEventListener('click', () => {
+        const filterGroup = btn.dataset.filter!;
+        const value = btn.dataset.value!;
+
+        if (filterGroup === 'type') activeType = value;
+        if (filterGroup === 'sector') activeSector = value;
+
+        // Update active states
+        buttons.forEach((b) => {
+          if (b.dataset.filter === filterGroup) {
+            b.classList.toggle('is-active', b.dataset.value === value);
+          }
+        });
+
+        applyFilters();
+      });
+    });
+
+    // Read URL params on load
+    const params = new URLSearchParams(window.location.search);
+    const initType = params.get('type');
+    const initSector = params.get('sector');
+
+    if (initType) {
+      activeType = initType;
+      buttons.forEach((b) => {
+        if (b.dataset.filter === 'type') {
+          b.classList.toggle('is-active', b.dataset.value === initType);
+        }
+      });
+    }
+
+    if (initSector) {
+      activeSector = initSector;
+      buttons.forEach((b) => {
+        if (b.dataset.filter === 'sector') {
+          b.classList.toggle('is-active', b.dataset.value === initSector);
+        }
+      });
+    }
+
+    if (initType || initSector) applyFilters();
+  }
+</script>

@@ -1,0 +1,248 @@
+/* ===================================
+   Project Grid — 2-3-2 Rhythm
+   =================================== */
+
+.project-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: var(--grid-gap);
+}
+
+@media (min-width: 768px) {
+  .project-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (min-width: 1024px) {
+  .project-grid {
+    grid-template-columns: repeat(12, 1fr);
+  }
+
+  /* 2-3-2 rhythm pattern via nth-child */
+  /* Module: 7 items → row(2) + row(3) + row(2) */
+
+  /* Row 1: items 1,2 → 6col each */
+  .project-grid > :nth-child(7n + 1) {
+    grid-column: span 6;
+  }
+  .project-grid > :nth-child(7n + 2) {
+    grid-column: span 6;
+  }
+
+  /* Row 2: items 3,4,5 → 4col each */
+  .project-grid > :nth-child(7n + 3) {
+    grid-column: span 4;
+  }
+  .project-grid > :nth-child(7n + 4) {
+    grid-column: span 4;
+  }
+  .project-grid > :nth-child(7n + 5) {
+    grid-column: span 4;
+  }
+
+  /* Row 3: items 6,7 → 6col each */
+  .project-grid > :nth-child(7n + 6) {
+    grid-column: span 6;
+  }
+  .project-grid > :nth-child(7n) {
+    grid-column: span 6;
+  }
+}
+
+/* ===================================
+   Project Card
+   =================================== */
+
+.project-card {
+  position: relative;
+  overflow: hidden;
+}
+
+.project-card__image-wrap {
+  position: relative;
+  aspect-ratio: 3 / 2;
+  overflow: hidden;
+  background-color: var(--color-gray-100);
+}
+
+.project-card__image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform var(--duration-slow) var(--ease-out);
+}
+
+.project-card:hover .project-card__image {
+  transform: scale(1.02);
+}
+
+.project-card__info {
+  padding-top: var(--space-3);
+}
+
+.project-card__title {
+  font-size: var(--text-base);
+  font-weight: 500;
+  line-height: var(--leading-snug);
+  color: var(--color-black);
+}
+
+.project-card__meta {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  margin-top: var(--space-1);
+  font-size: var(--text-sm);
+  color: var(--color-gray-600);
+}
+
+.project-card__org {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.project-card__year {
+  flex-shrink: 0;
+  margin-left: var(--space-4);
+}
+
+/* ===================================
+   Filter Bar
+   =================================== */
+
+.filter-bar {
+  padding-block: var(--space-5);
+  border-bottom: 1px solid var(--color-gray-200);
+  margin-bottom: var(--space-6);
+}
+
+@media (min-width: 768px) {
+  .filter-bar {
+    padding-block: var(--space-8);
+    margin-bottom: var(--space-8);
+  }
+}
+
+.filter-row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: var(--space-1) var(--space-5);
+}
+
+.filter-row + .filter-row {
+  margin-top: var(--space-3);
+}
+
+.filter-row__label {
+  font-size: var(--text-sm);
+  color: var(--color-gray-400);
+  min-width: 60px;
+  flex-shrink: 0;
+}
+
+.filter-btn {
+  font-size: var(--text-sm);
+  color: var(--color-gray-400);
+  padding: var(--space-1) 0;
+  position: relative;
+  transition: color var(--duration-fast) var(--ease-out);
+}
+
+.filter-btn:hover {
+  color: var(--color-black);
+}
+
+.filter-btn.is-active {
+  color: var(--color-black);
+  font-weight: 600;
+}
+
+.filter-btn.is-active::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 1.5px;
+  background-color: var(--color-black);
+}
+
+/* Hide filtered cards */
+.project-card.is-hidden {
+  display: none;
+}
+
+/* ===================================
+   Gallery Layouts (Project Detail)
+   =================================== */
+
+.gallery {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-4);
+}
+
+@media (min-width: 768px) {
+  .gallery {
+    gap: var(--space-6);
+  }
+}
+
+.gallery__full {
+  width: 100%;
+}
+
+.gallery__full img {
+  width: 100%;
+  height: auto;
+}
+
+.gallery__pair {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: var(--space-4);
+}
+
+@media (min-width: 768px) {
+  .gallery__pair {
+    grid-template-columns: 1fr 1fr;
+    gap: var(--space-6);
+  }
+}
+
+.gallery__pair img {
+  width: 100%;
+  height: auto;
+}
+
+.gallery__caption {
+  margin-top: var(--space-2);
+  font-size: var(--text-xs);
+  color: var(--color-gray-600);
+}
+
+/* ===================================
+   Two-Column Description
+   =================================== */
+
+.description-columns {
+  columns: 1;
+}
+
+@media (min-width: 1024px) {
+  .description-columns {
+    columns: 2;
+    column-gap: var(--space-8);
+  }
+
+  .description-columns p {
+    break-inside: avoid;
+  }
+}
+
+.description-columns p + p {
+  margin-top: var(--space-4);
+}

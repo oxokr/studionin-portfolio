@@ -1,0 +1,159 @@
+---
+import BaseLayout from '../components/layout/BaseLayout.astro';
+---
+
+<BaseLayout title="About" description="스튜디오엔아이엔 소개">
+  <div class="container container--narrow about-page">
+    <!-- Studio Introduction -->
+    <section class="about-section">
+      <p class="about-lead">
+        스튜디오엔아이엔은 전시, 에디토리얼, 공간, 아이덴티티 디자인을 중심으로 활동하는 디자인 스튜디오입니다. 대전을 기반으로 미술관, 공연장, 공공기관, 기업과 협업하며, 각 프로젝트의 맥락에 맞는 시각 체계를 설계합니다.
+      </p>
+    </section>
+
+    <!-- Capabilities -->
+    <section class="about-section">
+      <h2 class="section-label">Capabilities</h2>
+      <dl class="capabilities-list">
+        <div class="capabilities-list__item">
+          <dt>Exhibition</dt>
+          <dd>포스터, 브로슈어, 배너, 사인물, 웨이파인딩 시스템</dd>
+        </div>
+        <div class="capabilities-list__item">
+          <dt>Editorial</dt>
+          <dd>도록, 연구논문집, 연차보고서, 프로그램북</dd>
+        </div>
+        <div class="capabilities-list__item">
+          <dt>Identity</dt>
+          <dd>브랜드 아이덴티티, 로고, 어플리케이션 매뉴얼</dd>
+        </div>
+        <div class="capabilities-list__item">
+          <dt>Space</dt>
+          <dd>환경그래픽, 사이니지 시스템, 공간 디자인</dd>
+        </div>
+        <div class="capabilities-list__item">
+          <dt>Branding</dt>
+          <dd>브랜드 전략, 네이밍, 패키지, 종합 비주얼 아이덴티티</dd>
+        </div>
+      </dl>
+    </section>
+
+    <!-- Selected Clients -->
+    <section class="about-section">
+      <h2 class="section-label">Selected Clients</h2>
+      <div class="client-grid">
+        <div class="client-group">
+          <h3 class="client-group__label">Museum</h3>
+          <p>대전시립미술관, 이응노미술관, 이응노의집, DTC아트센터, 대전선사박물관, 대전시립박물관, 갤러리레오, bok아트센터</p>
+        </div>
+        <div class="client-group">
+          <h3 class="client-group__label">Performing Arts</h3>
+          <p>대전예술의전당, 대전시립연정국악단, 대전문화재단, 대전전통나래관</p>
+        </div>
+        <div class="client-group">
+          <h3 class="client-group__label">Public</h3>
+          <p>국가기록원, 국가기술전략센터, 기초과학연구원, 대전광역시청, 한국에너지기술연구원, 한국연구재단, 문화체육관광부, 해외문화홍보원</p>
+        </div>
+        <div class="client-group">
+          <h3 class="client-group__label">Commercial</h3>
+          <p>ordo, 마숑, 치코네, 스우, 인테그라, 버찌책방, 코리아투모로우</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- Contact -->
+    <section class="about-section">
+      <h2 class="section-label">Contact</h2>
+      <p class="about-contact">
+        studionin.kr@gmail.com<br />
+        대전광역시
+      </p>
+    </section>
+  </div>
+</BaseLayout>
+
+<style>
+  .about-page {
+    padding-top: var(--space-16);
+  }
+
+  .about-section {
+    padding-block: var(--space-10);
+  }
+
+  .about-section + .about-section {
+    border-top: 1px solid var(--color-gray-200);
+  }
+
+  .about-lead {
+    font-size: var(--text-xl);
+    line-height: var(--leading-relaxed);
+    color: var(--color-gray-900);
+    max-width: none;
+  }
+
+  @media (min-width: 1024px) {
+    .about-lead {
+      font-size: var(--text-2xl);
+    }
+  }
+
+  /* Capabilities */
+  .capabilities-list__item {
+    display: flex;
+    gap: var(--space-8);
+    padding-block: var(--space-3);
+    font-size: var(--text-sm);
+  }
+
+  .capabilities-list__item + .capabilities-list__item {
+    border-top: 1px solid var(--color-gray-100);
+  }
+
+  .capabilities-list__item dt {
+    width: 100px;
+    flex-shrink: 0;
+    font-weight: 600;
+    color: var(--color-black);
+  }
+
+  .capabilities-list__item dd {
+    color: var(--color-gray-600);
+  }
+
+  /* Client grid */
+  .client-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: var(--space-6);
+  }
+
+  @media (min-width: 768px) {
+    .client-grid {
+      grid-template-columns: 1fr 1fr;
+    }
+  }
+
+  .client-group__label {
+    font-size: var(--text-xs);
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: var(--tracking-wide);
+    color: var(--color-gray-400);
+    margin-bottom: var(--space-2);
+  }
+
+  .client-group p {
+    font-size: var(--text-sm);
+    color: var(--color-gray-700);
+    line-height: var(--leading-normal);
+    max-width: none;
+  }
+
+  /* Contact */
+  .about-contact {
+    font-size: var(--text-base);
+    line-height: var(--leading-relaxed);
+    color: var(--color-gray-900);
+  }
+</style>

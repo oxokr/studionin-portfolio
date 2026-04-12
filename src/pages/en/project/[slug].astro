@@ -1,0 +1,229 @@
+---
+import BaseLayout from '../../../components/layout/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+  const projects = await getCollection('projects', ({ data }) => !data.draft);
+  return projects.map((project) => ({
+    params: { slug: project.data.slug },
+    props: { project },
+  }));
+}
+
+const { project } = Astro.props;
+const { data } = project;
+
+const allProjects = await getCollection('projects', ({ data }) => {
+  return data.featured && !data.draft;
+});
+const sorted = allProjects.sort((a, b) => {
+  if (a.data.sortOrder !== b.data.sortOrder)
+    return a.data.sortOrder - b.data.sortOrder;
+  return b.data.year - a.data.year;
+});
+
+const currentIndex = sorted.findIndex((p) => p.data.slug === data.slug);
+const prevProject = currentIndex > 0 ? sorted[currentIndex - 1] : null;
+const nextProject =
+  currentIndex < sorted.length - 1 ? sorted[currentIndex + 1] : null;
+
+const typeLabels: Record<string, string> = {
+  exhibition: 'Exhibition',
+  editorial: 'Editorial',
+  identity: 'Identity',
+  space: 'Space',
+  branding: 'Branding',
+};
+
+const sectorLabels: Record<string, string> = {
+  museum: 'Museum',
+  'performing-arts': 'Performing Arts',
+  public: 'Public',
+  commercial: 'Commercial',
+  artist: 'Artist',
+  'self-initiated': 'Self-initiated',
+};
+
+const title = data.titleEn || data.title;
+const org = data.organizationEn || data.organization;
+const desc = data.descriptionEn || data.description;
+---
+
+<BaseLayout lang="en" title={title} description={desc}>
+  <article class="project-detail">
+    <div class:list={['project-hero', data.heroLayout === 'full-bleed' ? 'full-bleed' : 'container']}>
+      <div class="project-hero__placeholder">
+        <span class="project-hero__label">Hero Image</span>
+      </div>
+    </div>
+
+    <div class="container">
+      <header class="project-header">
+        <div class="project-header__titles">
+          <h1 class="project-header__title">{title}</h1>
+        </div>
+        <div class="project-header__meta">
+          <span class="project-header__year">{data.year}</span>
+          <span class="project-header__org">{org}</span>
+        </div>
+      </header>
+
+      <div class="metadata-bar">
+        <div class="metadata-bar__item">
+          <span class="metadata-bar__label">Type</span>
+          <span class="metadata-bar__value">
+            {data.type.map((t: string) => typeLabels[t] || t).join(', ')}
+          </span>
+        </div>
+        <div class="metadata-bar__item">
+          <span class="metadata-bar__label">Sector</span>
+          <span class="metadata-bar__value">{sectorLabels[data.sector] || data.sector}</span>
+        </div>
+        {data.collaboration === 'collaboration' && (
+          <div class="metadata-bar__item">
+            <span class="metadata-bar__label">Collaboration</span>
+            <span class="metadata-bar__value">{data.collaborator || 'Collaboration'}</span>
+          </div>
+        )}
+      </div>
+
+      {desc && (
+        <section class="project-description">
+          <div class="description-columns">
+            {desc.split('\n').filter((p: string) => p.trim()).map((p: string) => (
+              <p>{p}</p>
+            ))}
+          </div>
+        </section>
+      )}
+
+      <section class="project-gallery">
+        <div class="gallery">
+          <div class="gallery__full">
+            <div class="gallery-placeholder"><span>Gallery Image 1</span></div>
+          </div>
+          <div class="gallery__pair">
+            <div class="gallery-placeholder"><span>Gallery Image 2</span></div>
+            <div class="gallery-placeholder"><span>Gallery Image 3</span></div>
+          </div>
+          <div class="gallery__full">
+            <div class="gallery-placeholder"><span>Gallery Image 4</span></div>
+          </div>
+        </div>
+      </section>
+
+      {data.deliverables && data.deliverables.length > 0 && (
+        <section class="project-deliverables">
+          <h4 class="section-label">Deliverables</h4>
+          <ul class="deliverables-list">
+            {data.deliverables.map((d: { item: string; itemEn?: string; spec?: string }) => (
+              <li class="deliverables-list__item">
+                <span class="deliverables-list__name">{d.itemEn || d.item}</span>
+                {d.spec && <span class="deliverables-list__spec">{d.spec}</span>}
+              </li>
+            ))}
+          </ul>
+        </section>
+      )}
+
+      {data.credits && (
+        <section class="project-credits">
+          <h4 class="section-label">Credits</h4>
+          <dl class="credits-list">
+            <div class="credits-list__row"><dt>Design</dt><dd>{data.credits.design}</dd></div>
+            {data.credits.photography && (
+              <div class="credits-list__row"><dt>Photography</dt><dd>{data.credits.photography}</dd></div>
+            )}
+            {data.credits.client && (
+              <div class="credits-list__row"><dt>Client</dt><dd>{data.credits.client}</dd></div>
+            )}
+          </dl>
+        </section>
+      )}
+
+      <nav class="project-nav">
+        {prevProject && (
+          <a href={`/en/project/${prevProject.data.slug}/`} class="project-nav__link project-nav__prev">
+            <span class="project-nav__direction">Previous</span>
+            <span class="project-nav__title">{prevProject.data.titleEn || prevProject.data.title}</span>
+          </a>
+        )}
+        {nextProject && (
+          <a href={`/en/project/${nextProject.data.slug}/`} class="project-nav__link project-nav__next">
+            <span class="project-nav__direction">Next</span>
+            <span class="project-nav__title">{nextProject.data.titleEn || nextProject.data.title}</span>
+          </a>
+        )}
+      </nav>
+    </div>
+  </article>
+</BaseLayout>
+
+<style>
+  .project-hero__placeholder {
+    aspect-ratio: 16 / 9;
+    background-color: var(--color-gray-100);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .project-hero__label { font-size: var(--text-sm); color: var(--color-gray-400); }
+
+  .project-header {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-4);
+    padding-top: var(--space-10);
+    padding-bottom: var(--space-6);
+    border-bottom: 1px solid var(--color-gray-200);
+  }
+  @media (min-width: 768px) {
+    .project-header { flex-direction: row; justify-content: space-between; align-items: flex-start; }
+  }
+  .project-header__title {
+    font-size: var(--text-2xl); font-weight: 700;
+    line-height: var(--leading-tight); letter-spacing: var(--tracking-tight);
+  }
+  @media (min-width: 768px) { .project-header__title { font-size: var(--text-3xl); } }
+  @media (min-width: 1024px) { .project-header__title { font-size: var(--text-4xl); } }
+
+  .project-header__meta { flex-shrink: 0; }
+  @media (min-width: 768px) { .project-header__meta { text-align: right; } }
+  .project-header__year { display: inline; font-size: var(--text-sm); font-weight: 600; }
+  .project-header__org { display: inline; font-size: var(--text-sm); color: var(--color-gray-600); }
+  @media (min-width: 768px) {
+    .project-header__year { display: block; font-size: var(--text-xl); }
+    .project-header__org { display: block; margin-top: var(--space-1); }
+  }
+
+  .metadata-bar { display: flex; flex-wrap: wrap; gap: var(--space-6); padding-block: var(--space-6); border-bottom: 1px solid var(--color-gray-200); }
+  .metadata-bar__label { display: block; font-size: var(--text-xs); color: var(--color-gray-400); text-transform: uppercase; letter-spacing: var(--tracking-wide); margin-bottom: var(--space-1); }
+  .metadata-bar__value { font-size: var(--text-sm); color: var(--color-black); }
+
+  .project-description { padding-block: var(--space-12); }
+  .project-description p { font-size: var(--text-base); line-height: var(--leading-relaxed); color: var(--color-gray-900); }
+  @media (min-width: 1024px) { .project-description p { font-size: var(--text-lg); } }
+
+  .project-gallery { padding-block: var(--space-8); }
+  .gallery-placeholder { aspect-ratio: 3/2; background-color: var(--color-gray-100); display: flex; align-items: center; justify-content: center; font-size: var(--text-sm); color: var(--color-gray-400); }
+
+  .section-label { font-size: var(--text-xs); font-weight: 600; text-transform: uppercase; letter-spacing: var(--tracking-wide); color: var(--color-gray-400); margin-bottom: var(--space-4); }
+
+  .project-deliverables { padding-block: var(--space-8); border-top: 1px solid var(--color-gray-200); }
+  .deliverables-list__item { display: flex; justify-content: space-between; align-items: baseline; padding-block: var(--space-2); font-size: var(--text-sm); }
+  .deliverables-list__item + .deliverables-list__item { border-top: 1px solid var(--color-gray-100); }
+  .deliverables-list__name { color: var(--color-black); font-weight: 500; }
+  .deliverables-list__spec { color: var(--color-gray-600); font-family: var(--font-mono); font-size: var(--text-xs); }
+
+  .project-credits { padding-block: var(--space-8); border-top: 1px solid var(--color-gray-200); }
+  .credits-list__row { display: flex; gap: var(--space-8); padding-block: var(--space-2); font-size: var(--text-sm); }
+  .credits-list__row dt { width: 120px; flex-shrink: 0; color: var(--color-gray-600); }
+  .credits-list__row dd { color: var(--color-black); }
+
+  .project-nav { display: flex; justify-content: space-between; gap: var(--space-8); padding-top: var(--space-12); margin-top: var(--space-12); border-top: 1px solid var(--color-gray-200); }
+  .project-nav__link { display: block; max-width: 50%; }
+  .project-nav__next { margin-left: auto; text-align: right; }
+  .project-nav__direction { display: block; font-size: var(--text-xs); color: var(--color-gray-400); text-transform: uppercase; letter-spacing: var(--tracking-wide); margin-bottom: var(--space-1); }
+  .project-nav__title { font-size: var(--text-base); font-weight: 500; color: var(--color-black); transition: color var(--duration-fast) var(--ease-out); }
+  .project-nav__link:hover .project-nav__title { color: var(--color-gray-600); }
+</style>

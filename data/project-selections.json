@@ -1,0 +1,1710 @@
+[
+  {
+    "orgName": "DTC아트센터",
+    "projectName": "2023DTC아트센터소장품전",
+    "source": "T1",
+    "sector": "museum",
+    "year": 2023,
+    "types": [
+      "exhibition"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "DTC아트센터",
+    "projectName": "불의숨결흙의몸짓",
+    "source": "T1",
+    "sector": "museum",
+    "year": 2026,
+    "types": [
+      "exhibition"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "DTC아트센터",
+    "projectName": "수곡 손대현",
+    "source": "T1",
+    "sector": "museum",
+    "year": 2025,
+    "types": [
+      "exhibition"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "DTC아트센터",
+    "projectName": "시중유화 화중유시",
+    "source": "T1",
+    "sector": "museum",
+    "year": 2024,
+    "types": [
+      "exhibition"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "DTC아트센터",
+    "projectName": "아름다운동행",
+    "source": "T1",
+    "sector": "museum",
+    "year": 2023,
+    "types": [
+      "exhibition"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "DTC아트센터",
+    "projectName": "유근영개인전",
+    "source": "T1",
+    "sector": "museum",
+    "year": 2025,
+    "types": [
+      "exhibition"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "DTC아트센터",
+    "projectName": "자연의터인간의무늬",
+    "source": "T1",
+    "sector": "museum",
+    "year": 2019,
+    "types": [
+      "exhibition"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "DTC아트센터",
+    "projectName": "한가위 달항아리",
+    "source": "T1",
+    "sector": "museum",
+    "year": 2024,
+    "types": [
+      "space"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "Tpb",
+    "projectName": "동양등심",
+    "source": "T1",
+    "sector": "commercial",
+    "year": 2024,
+    "types": [
+      "identity",
+      "branding",
+      "exhibition"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "Tpb",
+    "projectName": "스우",
+    "source": "T1",
+    "sector": "commercial",
+    "year": 2021,
+    "types": [
+      "identity",
+      "exhibition"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "Tpb",
+    "projectName": "치코네",
+    "source": "T1",
+    "sector": "commercial",
+    "year": 2024,
+    "types": [
+      "identity",
+      "branding",
+      "exhibition"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "bok아트센터",
+    "projectName": "개관홍보물",
+    "source": "T1",
+    "sector": "museum",
+    "year": 2019,
+    "types": [
+      "exhibition"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "ordo",
+    "projectName": "ordo",
+    "source": "T1",
+    "sector": "commercial",
+    "year": 2023,
+    "types": [
+      "branding",
+      "identity",
+      "space"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "갤러리레오",
+    "projectName": "여경섭개인전",
+    "source": "T1",
+    "sector": "museum",
+    "year": 2026,
+    "types": [
+      "exhibition"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "건양대학교",
+    "projectName": "ESG브랜드아이덴티티",
+    "source": "T1",
+    "sector": "commercial",
+    "year": 2024,
+    "types": [
+      "identity",
+      "branding"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "건양대학교",
+    "projectName": "ESG연구원 브로슈어",
+    "source": "T1",
+    "sector": "commercial",
+    "year": 2022,
+    "types": [
+      "editorial"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "국가기록원",
+    "projectName": "1층민원실",
+    "source": "T1",
+    "sector": "public",
+    "year": 2026,
+    "types": [
+      "exhibition"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "국가기록원",
+    "projectName": "국가기록원 에코백",
+    "source": "T1",
+    "sector": "public",
+    "year": 2025,
+    "types": [
+      "exhibition"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "국가기록원",
+    "projectName": "국가기록원_월그래픽",
+    "source": "T1",
+    "sector": "public",
+    "year": 2025,
+    "types": [
+      "exhibition"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "국가기술전략센터",
+    "projectName": "NCTS_아이덴티티",
+    "source": "T1",
+    "sector": "public",
+    "year": 2022,
+    "types": [
+      "exhibition"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "기초과학연구원",
+    "projectName": "과학문화센터 배너",
+    "source": "T1",
+    "sector": "public",
+    "year": 2020,
+    "types": [
+      "exhibition"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "기초과학연구원",
+    "projectName": "과학문화센터 사이니지",
+    "source": "T1",
+    "sector": "public",
+    "year": 2019,
+    "types": [
+      "exhibition"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "기초과학연구원",
+    "projectName": "아트인사이언스 과학자의눈",
+    "source": "T1",
+    "sector": "public",
+    "year": 2019,
+    "types": [
+      "editorial",
+      "exhibition",
+      "space"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "기초과학연구원",
+    "projectName": "아트인사이언스 액자",
+    "source": "T1",
+    "sector": "public",
+    "year": 2023,
+    "types": [
+      "exhibition"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "대전MBC",
+    "projectName": "애들은가라",
+    "source": "T1",
+    "sector": "public",
+    "year": 2025,
+    "types": [
+      "exhibition"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "대전광역시청",
+    "projectName": "대전의의료와위생",
+    "source": "T1",
+    "sector": "public",
+    "year": 2021,
+    "types": [
+      "editorial",
+      "exhibition"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "대전광역시청",
+    "projectName": "대전의집",
+    "source": "T1",
+    "sector": "public",
+    "year": 2022,
+    "types": [
+      "editorial",
+      "exhibition"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "대전광역시청",
+    "projectName": "신채호학술대회",
+    "source": "T1",
+    "sector": "public",
+    "year": 2025,
+    "types": [
+      "exhibition"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "대전광역시청",
+    "projectName": "자료수집",
+    "source": "T1",
+    "sector": "public",
+    "year": 2024,
+    "types": [
+      "exhibition"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "대전디자인진흥원",
+    "projectName": "35회대전디자인어워드",
+    "source": "T1",
+    "sector": "public",
+    "year": 2026,
+    "types": [
+      "exhibition"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "대전디자인진흥원",
+    "projectName": "대전디자인페스타",
+    "source": "T1",
+    "sector": "public",
+    "year": 2026,
+    "types": [
+      "exhibition"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "대전선사박물관",
+    "projectName": "거대한돌의비밀",
+    "source": "T1",
+    "sector": "museum",
+    "year": 2024,
+    "types": [
+      "space",
+      "exhibition"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "대전선사박물관",
+    "projectName": "뗀석기in용호동",
+    "source": "T1",
+    "sector": "museum",
+    "year": 2026,
+    "types": [
+      "exhibition"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "대전시립미술관",
+    "projectName": "2021세계유명미술특별전",
+    "source": "T1",
+    "sector": "museum",
+    "year": 2021,
+    "types": [
+      "exhibition"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "대전시립미술관",
+    "projectName": "2024비엔날레",
+    "source": "T1",
+    "sector": "museum",
+    "year": 2024,
+    "types": [
+      "exhibition"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "대전시립미술관",
+    "projectName": "2025연차보고서",
+    "source": "T1",
+    "sector": "museum",
+    "year": 2025,
+    "types": [
+      "exhibition"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "대전시립미술관",
+    "projectName": "DMA 소장품 하이라이트 2024",
+    "source": "T1",
+    "sector": "museum",
+    "year": 2024,
+    "types": [
+      "exhibition",
+      "editorial"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "대전시립미술관",
+    "projectName": "DMA 소장품 하이라이트 2026",
+    "source": "T1",
+    "sector": "museum",
+    "year": 2026,
+    "types": [
+      "exhibition"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "대전시립미술관",
+    "projectName": "개척자들",
+    "source": "T1",
+    "sector": "museum",
+    "year": 2023,
+    "types": [
+      "editorial",
+      "exhibition"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "대전시립미술관",
+    "projectName": "금밟고폴짝",
+    "source": "T1",
+    "sector": "museum",
+    "year": 2025,
+    "types": [
+      "exhibition"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "대전시립미술관",
+    "projectName": "깊고깊은숲으로",
+    "source": "T1",
+    "sector": "museum",
+    "year": 2026,
+    "types": [
+      "exhibition"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "대전시립미술관",
+    "projectName": "딕테x러브포엠",
+    "source": "T1",
+    "sector": "museum",
+    "year": 2023,
+    "types": [
+      "editorial",
+      "exhibition"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "대전시립미술관",
+    "projectName": "먹의시간",
+    "source": "T1",
+    "sector": "museum",
+    "year": 2020,
+    "types": [
+      "editorial",
+      "exhibition"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "대전시립미술관",
+    "projectName": "미래저편에",
+    "source": "T1",
+    "sector": "museum",
+    "year": 2026,
+    "types": [
+      "editorial",
+      "exhibition"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "대전시립미술관",
+    "projectName": "보행자전용도로",
+    "source": "T1",
+    "sector": "museum",
+    "year": 2022,
+    "types": [
+      "space"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "대전시립미술관",
+    "projectName": "수요일은인디고블루",
+    "source": "T1",
+    "sector": "museum",
+    "year": 2021,
+    "types": [
+      "editorial",
+      "exhibition"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "대전시립미술관",
+    "projectName": "수장고공사가림막",
+    "source": "T1",
+    "sector": "museum",
+    "year": 2021,
+    "types": [
+      "exhibition"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "대전시립미술관",
+    "projectName": "스르륵",
+    "source": "T1",
+    "sector": "museum",
+    "year": 2024,
+    "types": [
+      "exhibition",
+      "editorial",
+      "space"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "대전시립미술관",
+    "projectName": "야외작품보호안내사인",
+    "source": "T1",
+    "sector": "museum",
+    "year": 2021,
+    "types": [
+      "space"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "대전시립미술관",
+    "projectName": "열린수장고23.3.개편",
+    "source": "T1",
+    "sector": "museum",
+    "year": 2023,
+    "types": [
+      "editorial",
+      "exhibition"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "대전시립미술관",
+    "projectName": "열린수장고개관전",
+    "source": "T1",
+    "sector": "museum",
+    "year": 2024,
+    "types": [
+      "editorial",
+      "exhibition"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "대전시립미술관",
+    "projectName": "열린수장고개관전도록",
+    "source": "T1",
+    "sector": "museum",
+    "year": 2023,
+    "types": [
+      "exhibition"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "대전시립미술관",
+    "projectName": "열린수장고사이니지",
+    "source": "T1",
+    "sector": "museum",
+    "year": 2022,
+    "types": [
+      "exhibition",
+      "space",
+      "identity"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "대전시립미술관",
+    "projectName": "우리는달린다WWW",
+    "source": "T1",
+    "sector": "museum",
+    "year": 2022,
+    "types": [
+      "editorial",
+      "exhibition",
+      "space"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "대전시립미술관",
+    "projectName": "이중섭전",
+    "source": "T1",
+    "sector": "museum",
+    "year": 2026,
+    "types": [
+      "exhibition"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "대전시립미술관",
+    "projectName": "조각공간퍼즐",
+    "source": "T1",
+    "sector": "museum",
+    "year": 2023,
+    "types": [
+      "editorial",
+      "exhibition"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "대전시립미술관",
+    "projectName": "초록으로 간다",
+    "source": "T1",
+    "sector": "museum",
+    "year": 2023,
+    "types": [
+      "exhibition"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "대전시립미술관",
+    "projectName": "파노라마",
+    "source": "T1",
+    "sector": "museum",
+    "year": 2024,
+    "types": [
+      "editorial",
+      "exhibition"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "대전시립미술관",
+    "projectName": "페르소나",
+    "source": "T1",
+    "sector": "museum",
+    "year": 2022,
+    "types": [
+      "editorial",
+      "exhibition"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "대전시립박물관",
+    "projectName": "꿈생원의 육아일기",
+    "source": "T1",
+    "sector": "museum",
+    "year": 2025,
+    "types": [
+      "exhibition"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "대전시립박물관",
+    "projectName": "마이리틀뮤지엄",
+    "source": "T1",
+    "sector": "museum",
+    "year": 2020,
+    "types": [
+      "exhibition"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "대전시립박물관",
+    "projectName": "산성을 지켜라",
+    "source": "T1",
+    "sector": "museum",
+    "year": 2023,
+    "types": [
+      "branding",
+      "exhibition"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "대전시립박물관",
+    "projectName": "선비, 난세를 살다",
+    "source": "T1",
+    "sector": "museum",
+    "year": 2021,
+    "types": [
+      "editorial",
+      "exhibition"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "대전시립박물관",
+    "projectName": "학술총서10",
+    "source": "T1",
+    "sector": "museum",
+    "year": 2024,
+    "types": [
+      "editorial"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "대전시립박물관",
+    "projectName": "한국전쟁과대전",
+    "source": "T1",
+    "sector": "museum",
+    "year": 2020,
+    "types": [
+      "editorial",
+      "exhibition"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "대전시립연정국악단",
+    "projectName": "2024겨울락콘서트",
+    "source": "T1",
+    "sector": "performing-arts",
+    "year": 2024,
+    "types": [
+      "exhibition",
+      "editorial"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "대전시립연정국악단",
+    "projectName": "2025겨울락콘서트",
+    "source": "T1",
+    "sector": "performing-arts",
+    "year": 2025,
+    "types": [
+      "exhibition"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "대전시립연정국악단",
+    "projectName": "겨울락콘서트",
+    "source": "T1",
+    "sector": "performing-arts",
+    "year": 2023,
+    "types": [
+      "exhibition",
+      "editorial"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "대전시립연정국악단",
+    "projectName": "민요하다",
+    "source": "T1",
+    "sector": "performing-arts",
+    "year": 2022,
+    "types": [
+      "exhibition",
+      "editorial"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "대전시립연정국악단",
+    "projectName": "송년음악회",
+    "source": "T1",
+    "sector": "performing-arts",
+    "year": 2021,
+    "types": [
+      "exhibition",
+      "editorial"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "대전예술의전당",
+    "projectName": "2020그랜드시즌",
+    "source": "T1",
+    "sector": "performing-arts",
+    "year": 2020,
+    "types": [
+      "branding",
+      "editorial",
+      "identity",
+      "exhibition"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "대전예술의전당",
+    "projectName": "2020그랜드시즌_하반기",
+    "source": "T1",
+    "sector": "performing-arts",
+    "year": 2020,
+    "types": [
+      "exhibition",
+      "editorial"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "대전예술의전당",
+    "projectName": "2021그랜드시즌",
+    "source": "T1",
+    "sector": "performing-arts",
+    "year": 2021,
+    "types": [
+      "exhibition"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "대전예술의전당",
+    "projectName": "2022 그랜드시즌",
+    "source": "T1",
+    "sector": "performing-arts",
+    "year": 2022,
+    "types": [
+      "editorial",
+      "exhibition"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "대전예술의전당",
+    "projectName": "2022 썸머뉴아티스트 콘서트",
+    "source": "T1",
+    "sector": "performing-arts",
+    "year": 2022,
+    "types": [
+      "exhibition"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "대전예술의전당",
+    "projectName": "2022회원음악회",
+    "source": "T1",
+    "sector": "performing-arts",
+    "year": 2022,
+    "types": [
+      "exhibition",
+      "editorial"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "대전예술의전당",
+    "projectName": "2023 시즌",
+    "source": "T1",
+    "sector": "performing-arts",
+    "year": 2023,
+    "types": [
+      "exhibition",
+      "editorial"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "대전예술의전당",
+    "projectName": "2024 스프링페스티벌",
+    "source": "T1",
+    "sector": "performing-arts",
+    "year": 2024,
+    "types": [
+      "exhibition"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "대전예술의전당",
+    "projectName": "2024 시즌",
+    "source": "T1",
+    "sector": "performing-arts",
+    "year": 2024,
+    "types": [
+      "exhibition",
+      "editorial"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "대전예술의전당",
+    "projectName": "2025 시즌",
+    "source": "T1",
+    "sector": "performing-arts",
+    "year": 2025,
+    "types": [
+      "exhibition"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "대전예술의전당",
+    "projectName": "2026 시즌",
+    "source": "T1",
+    "sector": "performing-arts",
+    "year": 2026,
+    "types": [
+      "exhibition"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "대전예술의전당",
+    "projectName": "AAPPAC",
+    "source": "T1",
+    "sector": "performing-arts",
+    "year": 2025,
+    "types": [
+      "exhibition"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "대전예술의전당",
+    "projectName": "NDT2",
+    "source": "T1",
+    "sector": "performing-arts",
+    "year": 2023,
+    "types": [
+      "exhibition",
+      "editorial"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "대전예술의전당",
+    "projectName": "NT live",
+    "source": "T1",
+    "sector": "performing-arts",
+    "year": 2022,
+    "types": [
+      "exhibition"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "대전예술의전당",
+    "projectName": "No.5",
+    "source": "T1",
+    "sector": "performing-arts",
+    "year": 2020,
+    "types": [
+      "exhibition",
+      "editorial"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "대전예술의전당",
+    "projectName": "내가가면그게길이지",
+    "source": "T1",
+    "sector": "performing-arts",
+    "year": 2021,
+    "types": [
+      "exhibition"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "대전예술의전당",
+    "projectName": "동양극장2021",
+    "source": "T1",
+    "sector": "performing-arts",
+    "year": 2021,
+    "types": [
+      "exhibition"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "대전예술의전당",
+    "projectName": "로맨틱파트너스콘서트",
+    "source": "T1",
+    "sector": "performing-arts",
+    "year": 2022,
+    "types": [
+      "exhibition"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "대전예술의전당",
+    "projectName": "리사이틀시리즈",
+    "source": "T1",
+    "sector": "performing-arts",
+    "year": 2023,
+    "types": [
+      "exhibition",
+      "branding",
+      "editorial"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "대전예술의전당",
+    "projectName": "베토벤 아벤트",
+    "source": "T1",
+    "sector": "performing-arts",
+    "year": 2020,
+    "types": [
+      "exhibition",
+      "editorial"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "대전예술의전당",
+    "projectName": "스노우쇼",
+    "source": "T1",
+    "sector": "performing-arts",
+    "year": 2023,
+    "types": [
+      "exhibition"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "대전예술의전당",
+    "projectName": "스프링페스티벌",
+    "source": "T1",
+    "sector": "performing-arts",
+    "year": 2021,
+    "types": [
+      "exhibition",
+      "editorial"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "대전예술의전당",
+    "projectName": "아크람칸 정글북",
+    "source": "T1",
+    "sector": "performing-arts",
+    "year": 2022,
+    "types": [
+      "exhibition",
+      "editorial"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "대전예술의전당",
+    "projectName": "야외패널디자인",
+    "source": "T1",
+    "sector": "performing-arts",
+    "year": 2025,
+    "types": [
+      "exhibition"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "대전예술의전당",
+    "projectName": "운명의 힘 재공연",
+    "source": "T1",
+    "sector": "performing-arts",
+    "year": 2024,
+    "types": [
+      "exhibition"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "대전예술의전당",
+    "projectName": "잠들기전심야극장",
+    "source": "T1",
+    "sector": "performing-arts",
+    "year": 2023,
+    "types": [
+      "exhibition"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "대전예술의전당",
+    "projectName": "제작연극 결혼",
+    "source": "T1",
+    "sector": "performing-arts",
+    "year": 2020,
+    "types": [
+      "exhibition",
+      "editorial"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "대전예술의전당",
+    "projectName": "제작연극 멋진신세계",
+    "source": "T1",
+    "sector": "performing-arts",
+    "year": 2023,
+    "types": [
+      "exhibition"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "대전예술의전당",
+    "projectName": "제작연극 파우스트",
+    "source": "T1",
+    "sector": "performing-arts",
+    "year": 2022,
+    "types": [
+      "exhibition"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "대전예술의전당",
+    "projectName": "제작오페라 토스카",
+    "source": "T1",
+    "sector": "performing-arts",
+    "year": 2022,
+    "types": [
+      "exhibition",
+      "editorial"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "대전예술의전당",
+    "projectName": "조수미의 비엔나 왈츠 & 폴카",
+    "source": "T1",
+    "sector": "performing-arts",
+    "year": 2024,
+    "types": [
+      "branding",
+      "exhibition",
+      "editorial"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "대전예술의전당",
+    "projectName": "토스카 갈라콘서트",
+    "source": "T1",
+    "sector": "performing-arts",
+    "year": 2020,
+    "types": [
+      "exhibition"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "대전예술의전당",
+    "projectName": "하얀산",
+    "source": "T1",
+    "sector": "performing-arts",
+    "year": 2022,
+    "types": [
+      "exhibition"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "대전예술의전당",
+    "projectName": "하우스콘서트",
+    "source": "T1",
+    "sector": "performing-arts",
+    "year": 2023,
+    "types": [
+      "editorial",
+      "exhibition"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "대전예술의전당",
+    "projectName": "해피버스데이위크",
+    "source": "T1",
+    "sector": "performing-arts",
+    "year": 2023,
+    "types": [
+      "exhibition"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "대전전통나래관",
+    "projectName": "사라지지않는보물",
+    "source": "T1",
+    "sector": "performing-arts",
+    "year": 2025,
+    "types": [
+      "exhibition"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "박은영작가",
+    "projectName": "색과단어들",
+    "source": "T1",
+    "sector": "artist",
+    "year": 2026,
+    "types": [
+      "exhibition"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "박혜경작가",
+    "projectName": "소리없이다가온것들의진술",
+    "source": "T1",
+    "sector": "artist",
+    "year": 2019,
+    "types": [
+      "editorial",
+      "exhibition"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "신중덕교수님",
+    "projectName": "2024개인전",
+    "source": "T1",
+    "sector": "artist",
+    "year": 2024,
+    "types": [
+      "exhibition"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "애니토마토",
+    "projectName": "2024애니토마토캘린더",
+    "source": "T1",
+    "sector": "commercial",
+    "year": 2024,
+    "types": [
+      "exhibition"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "애니토마토",
+    "projectName": "2026애니토마토캘린더",
+    "source": "T1",
+    "sector": "commercial",
+    "year": 2026,
+    "types": [
+      "exhibition"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "애니토마토",
+    "projectName": "토마토BI_디자인애로해결지원",
+    "source": "T1",
+    "sector": "commercial",
+    "year": 2025,
+    "types": [
+      "identity"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "얼룩",
+    "projectName": "err.look vol0",
+    "source": "T1",
+    "sector": "self-initiated",
+    "year": 2020,
+    "types": [
+      "editorial",
+      "exhibition"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "얼룩",
+    "projectName": "err.look vol1",
+    "source": "T1",
+    "sector": "self-initiated",
+    "year": 2021,
+    "types": [
+      "editorial",
+      "exhibition"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "얼룩",
+    "projectName": "눈페어",
+    "source": "T1",
+    "sector": "self-initiated",
+    "year": 2024,
+    "types": [
+      "exhibition"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "예스빌딩",
+    "projectName": "사이니지",
+    "source": "T1",
+    "sector": "commercial",
+    "year": 2026,
+    "types": [
+      "exhibition"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "이응노미술관",
+    "projectName": "국제심포지엄",
+    "source": "T1",
+    "sector": "museum",
+    "year": 2020,
+    "types": [
+      "exhibition",
+      "editorial"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "이응노미술관",
+    "projectName": "밤에해가있는곳",
+    "source": "T1",
+    "sector": "museum",
+    "year": 2021,
+    "types": [
+      "editorial",
+      "exhibition"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "이응노미술관",
+    "projectName": "종이로 그린 그림",
+    "source": "T1",
+    "sector": "museum",
+    "year": 2020,
+    "types": [
+      "editorial",
+      "exhibition"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "이응노의집",
+    "projectName": "2020 4기 결과자료집",
+    "source": "T1",
+    "sector": "museum",
+    "year": 2020,
+    "types": [
+      "branding"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "이응노의집",
+    "projectName": "2020 학술심포지엄 결과자료집",
+    "source": "T1",
+    "sector": "museum",
+    "year": 2020,
+    "types": [
+      "exhibition"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "이응노의집",
+    "projectName": "고암미술상",
+    "source": "T1",
+    "sector": "museum",
+    "year": 2020,
+    "types": [
+      "exhibition"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "이응노의집",
+    "projectName": "고암의춤",
+    "source": "T1",
+    "sector": "museum",
+    "year": 2021,
+    "types": [
+      "editorial",
+      "exhibition"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "이응노의집",
+    "projectName": "고암이응노아카이브",
+    "source": "T1",
+    "sector": "museum",
+    "year": 2021,
+    "types": [
+      "exhibition",
+      "editorial"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "이응노의집",
+    "projectName": "고암이응노에게경의를 작품공모",
+    "source": "T1",
+    "sector": "museum",
+    "year": 2022,
+    "types": [
+      "exhibition"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "이응노의집",
+    "projectName": "고암이응노의 소모와사생",
+    "source": "T1",
+    "sector": "museum",
+    "year": 2019,
+    "types": [
+      "editorial",
+      "space"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "이응노의집",
+    "projectName": "고암이응노의드로잉",
+    "source": "T1",
+    "sector": "museum",
+    "year": 2024,
+    "types": [
+      "editorial",
+      "branding",
+      "exhibition"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "이응노의집",
+    "projectName": "대나무숲바람이일렁일때",
+    "source": "T1",
+    "sector": "museum",
+    "year": 2024,
+    "types": [
+      "editorial",
+      "exhibition",
+      "branding"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "이응노의집",
+    "projectName": "말과글뜻과몸짓",
+    "source": "T1",
+    "sector": "museum",
+    "year": 2020,
+    "types": [
+      "editorial",
+      "exhibition"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "이응노의집",
+    "projectName": "역대고암미술상 수상작가전",
+    "source": "T1",
+    "sector": "museum",
+    "year": 2021,
+    "types": [
+      "editorial",
+      "exhibition"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "이종우",
+    "projectName": "고목발영",
+    "source": "T1",
+    "sector": "artist",
+    "year": 2025,
+    "types": [
+      "exhibition"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "이종우",
+    "projectName": "자연의활력",
+    "source": "T1",
+    "sector": "artist",
+    "year": 2026,
+    "types": [
+      "exhibition"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "자체프로젝트",
+    "projectName": "마숑",
+    "source": "T1",
+    "sector": "self-initiated",
+    "year": 2023,
+    "types": [
+      "branding",
+      "identity",
+      "space"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "충청남도청",
+    "projectName": "충청남도청열린미술관포럼",
+    "source": "T1",
+    "sector": "public",
+    "year": 2020,
+    "types": [
+      "exhibition",
+      "editorial"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "코리아투모로우",
+    "projectName": "탁상달력",
+    "source": "T1",
+    "sector": "commercial",
+    "year": 2025,
+    "types": [
+      "exhibition"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "포프",
+    "projectName": "DRAWING YOUR SCENT",
+    "source": "T1",
+    "sector": "commercial",
+    "year": 2024,
+    "types": [
+      "branding",
+      "editorial"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "한국에너지기술연구원",
+    "projectName": "eTIP,STED",
+    "source": "T1",
+    "sector": "public",
+    "year": 2023,
+    "types": [
+      "identity"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "한국연구재단",
+    "projectName": "카드뉴스",
+    "source": "T1",
+    "sector": "public",
+    "year": 2024,
+    "types": [
+      "exhibition"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "한국화학연구원",
+    "projectName": "콜드체인안심스티커",
+    "source": "T1",
+    "sector": "public",
+    "year": 2020,
+    "types": [
+      "exhibition"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "한밭도서관",
+    "projectName": "전자자료이용안내서",
+    "source": "T1",
+    "sector": "public",
+    "year": 2025,
+    "types": [
+      "exhibition"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "대전시립미술관",
+    "projectName": "대전비엔날레2022",
+    "source": "T2",
+    "sector": "museum",
+    "year": 2022,
+    "types": [
+      "exhibition",
+      "editorial"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "대전시립미술관",
+    "projectName": "트라우마",
+    "source": "T2",
+    "sector": "museum",
+    "year": 2021,
+    "types": [
+      "exhibition",
+      "editorial"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "대전시립박물관",
+    "projectName": "쏜살탐험대",
+    "source": "T2",
+    "sector": "museum",
+    "year": 2023,
+    "types": [
+      "space",
+      "exhibition"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "대전시립박물관",
+    "projectName": "역사특별전",
+    "source": "T2",
+    "sector": "museum",
+    "year": 2025,
+    "types": [
+      "editorial",
+      "exhibition"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "문화체육관광부",
+    "projectName": "문체부2026캘린더",
+    "source": "T2",
+    "sector": "public",
+    "year": 2026,
+    "types": [
+      "exhibition"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "문화체육관광부",
+    "projectName": "문체부2027캘린더",
+    "source": "T2",
+    "sector": "public",
+    "year": 2027,
+    "types": [
+      "exhibition"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "버찌책방",
+    "projectName": "버찌책방",
+    "source": "T2",
+    "sector": "commercial",
+    "year": 2023,
+    "types": [
+      "branding"
+    ],
+    "include": true
+  },
+  {
+    "orgName": "해외문화홍보원",
+    "projectName": "세계인들이말하는김치",
+    "source": "T2",
+    "sector": "public",
+    "year": 2021,
+    "types": [
+      "exhibition"
+    ],
+    "include": true
+  }
+]

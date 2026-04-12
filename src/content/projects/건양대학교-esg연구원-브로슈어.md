@@ -1,0 +1,26 @@
+---
+title: 'ESG연구원 브로슈어'
+titleEn: ''
+slug: '건양대학교-esg연구원-브로슈어'
+year: 2023
+organization: '건양대학교'
+organizationEn: ''
+sector: 'commercial'
+type:
+  - 'editorial'
+heroLayout: 'content-width'
+sortOrder: 50
+collaboration: 'solo'
+description: |
+  [프로젝트 설명 작성]
+featured: true
+draft: true
+deliverables:
+  - item: '브로슈어'
+  - item: '시안'
+  - item: '자료'
+credits:
+  design: 'studionin'
+  client: '건양대학교'
+# source: T1/건양대학교/ESG연구원 브로슈어
+---

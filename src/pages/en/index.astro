@@ -1,0 +1,49 @@
+---
+import BaseLayout from '../../components/layout/BaseLayout.astro';
+import FilterBar from '../../components/home/FilterBar.astro';
+import ProjectCard from '../../components/home/ProjectCard.astro';
+import { getCollection } from 'astro:content';
+
+const allProjects = await getCollection('projects', ({ data }) => {
+  return data.featured && !data.draft;
+});
+
+const projects = allProjects.sort((a, b) => {
+  if (a.data.sortOrder !== b.data.sortOrder) {
+    return a.data.sortOrder - b.data.sortOrder;
+  }
+  return b.data.year - a.data.year;
+});
+
+const types = ['exhibition', 'editorial', 'identity', 'space', 'branding'];
+const sectors = [
+  'museum',
+  'performing-arts',
+  'public',
+  'commercial',
+  'artist',
+  'self-initiated',
+];
+---
+
+<BaseLayout lang="en" title="studionin" description="Exhibition, Editorial, Space, Identity — studionin">
+  <div class="container">
+    <FilterBar types={types} sectors={sectors} lang="en" />
+
+    <div class="project-grid">
+      {
+        projects.map((project) => (
+          <ProjectCard
+            title={project.data.titleEn || project.data.title}
+            slug={project.data.slug}
+            organization={project.data.organizationEn || project.data.organization}
+            year={project.data.year}
+            type={project.data.type}
+            sector={project.data.sector}
+            lang="en"
+          />
+        ))
+      }
+    </div>
+  </div>
+</BaseLayout>

@@ -1,0 +1,77 @@
+---
+import Header from './Header.astro';
+import Footer from './Footer.astro';
+import '../../styles/global.css';
+import '../../styles/grid.css';
+
+interface Props {
+  title?: string;
+  description?: string;
+  lang?: 'ko' | 'en';
+  ogImage?: string;
+}
+
+const {
+  title = 'studionin',
+  description = '전시, 에디토리얼, 공간, 아이덴티티 — 스튜디오엔아이엔',
+  lang = 'ko',
+  ogImage,
+} = Astro.props;
+
+const siteTitle = title === 'studionin' ? title : `${title} — studionin`;
+---
+
+<!doctype html>
+<html lang={lang}>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content={description} />
+
+    <title>{siteTitle}</title>
+
+    <!-- Pretendard -->
+    <link
+      rel="stylesheet"
+      as="style"
+      crossorigin
+      href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css"
+    />
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+
+    <!-- OG -->
+    <meta property="og:title" content={siteTitle} />
+    <meta property="og:description" content={description} />
+    <meta property="og:type" content="website" />
+    {ogImage && <meta property="og:image" content={ogImage} />}
+  </head>
+
+  <body>
+    <Header lang={lang} />
+
+    <main>
+      <slot />
+    </main>
+
+    <Footer />
+
+    <!-- Scroll fade-in -->
+    <script>
+      const observer = new IntersectionObserver(
+        (entries) => {
+          entries.forEach((entry) => {
+            if (entry.isIntersecting) {
+              entry.target.classList.add('is-visible');
+              observer.unobserve(entry.target);
+            }
+          });
+        },
+        { threshold: 0.1, rootMargin: '0px 0px -40px 0px' }
+      );
+
+      document.querySelectorAll('.fade-in').forEach((el) => observer.observe(el));
+    </script>
+  </body>
+</html>

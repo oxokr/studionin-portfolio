@@ -1,0 +1,72 @@
+---
+import BaseLayout from '../../components/layout/BaseLayout.astro';
+---
+
+<BaseLayout lang="en" title="About" description="About studionin — Exhibition, Editorial, Space, Identity Design Studio">
+  <div class="container container--narrow about-page">
+    <section class="about-section">
+      <p class="about-lead">
+        studionin is a design studio based in Daejeon, South Korea, specializing in exhibition graphics, editorial design, space design, and brand identity. We collaborate with museums, performing arts centers, public institutions, and brands to create visual systems tailored to each project's context.
+      </p>
+    </section>
+
+    <section class="about-section">
+      <h2 class="section-label">Capabilities</h2>
+      <dl class="capabilities-list">
+        <div class="capabilities-list__item"><dt>Exhibition</dt><dd>Posters, brochures, banners, signage, wayfinding systems</dd></div>
+        <div class="capabilities-list__item"><dt>Editorial</dt><dd>Exhibition catalogs, research journals, annual reports, program books</dd></div>
+        <div class="capabilities-list__item"><dt>Identity</dt><dd>Brand identity, logo, application manuals</dd></div>
+        <div class="capabilities-list__item"><dt>Space</dt><dd>Environmental graphics, signage systems, spatial design</dd></div>
+        <div class="capabilities-list__item"><dt>Branding</dt><dd>Brand strategy, naming, packaging, visual identity systems</dd></div>
+      </dl>
+    </section>
+
+    <section class="about-section">
+      <h2 class="section-label">Selected Clients</h2>
+      <div class="client-grid">
+        <div class="client-group">
+          <h3 class="client-group__label">Museum</h3>
+          <p>Daejeon Museum of Art, Ungno Lee Museum, Ungno Lee House, DTC Art Center, Daejeon Prehistory Museum, Daejeon City Museum</p>
+        </div>
+        <div class="client-group">
+          <h3 class="client-group__label">Performing Arts</h3>
+          <p>Daejeon Arts Center, Daejeon Municipal Yeonjeong Gugak Orchestra, Daejeon Cultural Foundation</p>
+        </div>
+        <div class="client-group">
+          <h3 class="client-group__label">Public</h3>
+          <p>National Archives of Korea, NCTS, Institute for Basic Science, Daejeon Metropolitan City, KIER, NRF, MOCT</p>
+        </div>
+        <div class="client-group">
+          <h3 class="client-group__label">Commercial</h3>
+          <p>ordo, Maschon, Chicone, Soo, Integra, Beotchae Bookshop, Korea Tomorrow</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="about-section">
+      <h2 class="section-label">Contact</h2>
+      <p class="about-contact">
+        studionin.kr@gmail.com<br />
+        Daejeon, South Korea
+      </p>
+    </section>
+  </div>
+</BaseLayout>
+
+<style>
+  .about-page { padding-top: var(--space-16); }
+  .about-section { padding-block: var(--space-10); }
+  .about-section + .about-section { border-top: 1px solid var(--color-gray-200); }
+  .about-lead { font-size: var(--text-xl); line-height: var(--leading-relaxed); color: var(--color-gray-900); max-width: none; }
+  @media (min-width: 1024px) { .about-lead { font-size: var(--text-2xl); } }
+  .section-label { font-size: var(--text-xs); font-weight: 600; text-transform: uppercase; letter-spacing: var(--tracking-wide); color: var(--color-gray-400); margin-bottom: var(--space-4); }
+  .capabilities-list__item { display: flex; gap: var(--space-8); padding-block: var(--space-3); font-size: var(--text-sm); }
+  .capabilities-list__item + .capabilities-list__item { border-top: 1px solid var(--color-gray-100); }
+  .capabilities-list__item dt { width: 100px; flex-shrink: 0; font-weight: 600; }
+  .capabilities-list__item dd { color: var(--color-gray-600); }
+  .client-grid { display: grid; grid-template-columns: 1fr; gap: var(--space-6); }
+  @media (min-width: 768px) { .client-grid { grid-template-columns: 1fr 1fr; } }
+  .client-group__label { font-size: var(--text-xs); font-weight: 600; text-transform: uppercase; letter-spacing: var(--tracking-wide); color: var(--color-gray-400); margin-bottom: var(--space-2); }
+  .client-group p { font-size: var(--text-sm); color: var(--color-gray-700); line-height: var(--leading-normal); max-width: none; }
+  .about-contact { font-size: var(--text-base); line-height: var(--leading-relaxed); color: var(--color-gray-900); }
+</style>

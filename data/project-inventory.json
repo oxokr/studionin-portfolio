@@ -1,0 +1,5506 @@
+{
+  "scannedAt": "2026-04-12T15:33:49.692Z",
+  "stats": {
+    "totalOrganizations": 59,
+    "totalProjects": 277,
+    "bySource": {
+      "T1": 234,
+      "T2": 30,
+      "T3": 13
+    }
+  },
+  "organizations": [
+    {
+      "name": "DTC아트센터",
+      "sectorGuess": "museum",
+      "source": "T1",
+      "projectCount": 8,
+      "projects": [
+        {
+          "name": "2023DTC아트센터소장품전",
+          "yearGuess": 2023,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [
+            "사인물",
+            "자료",
+            "포스터"
+          ],
+          "subfolderCount": 3,
+          "suggestedSlug": "dtc-2023dtc"
+        },
+        {
+          "name": "불의숨결흙의몸짓",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 2,
+          "deliverableFolders": [
+            "Digital",
+            "Manual",
+            "Print",
+            "Space"
+          ],
+          "subfolderCount": 6,
+          "suggestedSlug": "dtc"
+        },
+        {
+          "name": "수곡 손대현",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 3,
+          "deliverableFolders": [
+            "Digital",
+            "Manual",
+            "Print",
+            "Space"
+          ],
+          "subfolderCount": 6,
+          "suggestedSlug": "dtc"
+        },
+        {
+          "name": "시중유화 화중유시",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 9,
+          "deliverableFolders": [
+            "나태주토크쇼",
+            "매뉴얼",
+            "명제표",
+            "시화,시",
+            "어플리케이션",
+            "엽서",
+            "자료",
+            "전시장사인물",
+            "초청장",
+            "포스터"
+          ],
+          "subfolderCount": 11,
+          "suggestedSlug": "dtc"
+        },
+        {
+          "name": "아름다운동행",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 5,
+          "deliverableFolders": [
+            "리플렛",
+            "매뉴얼",
+            "자료",
+            "전시장사인물",
+            "포스터"
+          ],
+          "subfolderCount": 6,
+          "suggestedSlug": "dtc"
+        },
+        {
+          "name": "유근영개인전",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 3,
+          "deliverableFolders": [
+            "Digital",
+            "Manual",
+            "Print",
+            "Space"
+          ],
+          "subfolderCount": 6,
+          "suggestedSlug": "dtc"
+        },
+        {
+          "name": "자연의터인간의무늬",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 2,
+          "deliverableFolders": [
+            "리플렛",
+            "매뉴얼",
+            "자료",
+            "포스터"
+          ],
+          "subfolderCount": 4,
+          "suggestedSlug": "dtc"
+        },
+        {
+          "name": "한가위 달항아리",
+          "yearGuess": null,
+          "typesGuess": [
+            "space"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 2,
+          "deliverableFolders": [
+            "공간그래픽",
+            "매뉴얼",
+            "웹",
+            "인쇄물",
+            "자료"
+          ],
+          "subfolderCount": 6,
+          "suggestedSlug": "dtc"
+        }
+      ]
+    },
+    {
+      "name": "Tpb",
+      "sectorGuess": "commercial",
+      "source": "T1",
+      "projectCount": 9,
+      "projects": [
+        {
+          "name": "tpb",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [
+            "흡연실"
+          ],
+          "subfolderCount": 1,
+          "suggestedSlug": "tpb-tpb"
+        },
+        {
+          "name": "동양등심",
+          "yearGuess": null,
+          "typesGuess": [
+            "identity",
+            "branding",
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [
+            "공간",
+            "레퍼런스",
+            "로고",
+            "메뉴",
+            "브랜드",
+            "사인물",
+            "사진",
+            "어플리케이션",
+            "자료",
+            "제작",
+            "집기"
+          ],
+          "subfolderCount": 11,
+          "suggestedSlug": "tpb"
+        },
+        {
+          "name": "명함",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [
+            "인쇄"
+          ],
+          "subfolderCount": 1,
+          "suggestedSlug": "tpb"
+        },
+        {
+          "name": "서류",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [
+            "공문",
+            "디자인등록(특허관련)",
+            "매출수기정산표_스우",
+            "발주거래명세서",
+            "부산용궁사영업신고증",
+            "사업자등록증",
+            "손익시트_샘플",
+            "재직,경력증명서",
+            "통장사본"
+          ],
+          "subfolderCount": 9,
+          "suggestedSlug": "tpb"
+        },
+        {
+          "name": "서체",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [
+            "무료서체",
+            "유료서체"
+          ],
+          "subfolderCount": 2,
+          "suggestedSlug": "tpb"
+        },
+        {
+          "name": "스우",
+          "yearGuess": null,
+          "typesGuess": [
+            "identity",
+            "exhibition"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 5,
+          "deliverableFolders": [
+            "계약서",
+            "공간",
+            "레시피",
+            "로고",
+            "매뉴얼",
+            "모션",
+            "모집공고",
+            "사인물",
+            "서류",
+            "선불카드",
+            "설로인",
+            "시즌기획",
+            "어플리케이션",
+            "외부홍보",
+            "웹_sns",
+            "이미지",
+            "주류",
+            "촬영"
+          ],
+          "subfolderCount": 18,
+          "suggestedSlug": "tpb"
+        },
+        {
+          "name": "우지칸소",
+          "yearGuess": null,
+          "typesGuess": [
+            "identity"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [
+            "로고"
+          ],
+          "subfolderCount": 1,
+          "suggestedSlug": "tpb"
+        },
+        {
+          "name": "치져스",
+          "yearGuess": null,
+          "typesGuess": [
+            "branding",
+            "identity",
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [
+            "메뉴촬영",
+            "미팅자료",
+            "아이덴티티",
+            "전단",
+            "촬영레퍼런스"
+          ],
+          "subfolderCount": 5,
+          "suggestedSlug": "tpb"
+        },
+        {
+          "name": "치코네",
+          "yearGuess": null,
+          "typesGuess": [
+            "identity",
+            "branding",
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [
+            "가맹점",
+            "공간",
+            "굿즈",
+            "레시피",
+            "레퍼런스",
+            "로고타입",
+            "매뉴얼",
+            "매장직원스케줄",
+            "메뉴얼",
+            "발주리스트",
+            "백화점팝업",
+            "사인물",
+            "서류",
+            "어플리케이션",
+            "웹",
+            "웹:SNS",
+            "이미지",
+            "일본",
+            "자료",
+            "제작품",
+            "집기리스트",
+            "치코빵",
+            "캐릭터",
+            "캡슐부스",
+            "콘스텐드",
+            "키오스크",
+            "패키지"
+          ],
+          "subfolderCount": 28,
+          "suggestedSlug": "tpb"
+        }
+      ]
+    },
+    {
+      "name": "bok아트센터",
+      "sectorGuess": "museum",
+      "source": "T1",
+      "projectCount": 1,
+      "projects": [
+        {
+          "name": "개관홍보물",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 4,
+          "deliverableFolders": [
+            "내부사인물",
+            "매뉴얼",
+            "목업소스",
+            "사인물인쇄",
+            "시안",
+            "시안모음",
+            "인쇄",
+            "자료",
+            "좌석배치도",
+            "현수막"
+          ],
+          "subfolderCount": 10,
+          "suggestedSlug": "bok"
+        }
+      ]
+    },
+    {
+      "name": "ordo",
+      "sectorGuess": "commercial",
+      "source": "T1",
+      "projectCount": 11,
+      "projects": [
+        {
+          "name": "BI",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [
+            "시안",
+            "최종"
+          ],
+          "subfolderCount": 2,
+          "suggestedSlug": "ordo-bi"
+        },
+        {
+          "name": "ordo(공유)",
+          "yearGuess": null,
+          "typesGuess": [
+            "identity"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [
+            "BI",
+            "매뉴얼",
+            "어플리케이션",
+            "전용font"
+          ],
+          "subfolderCount": 4,
+          "suggestedSlug": "ordo-ordo"
+        },
+        {
+          "name": "공간",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [
+            "post",
+            "스카시시공매뉴얼",
+            "시안"
+          ],
+          "subfolderCount": 3,
+          "suggestedSlug": "ordo"
+        },
+        {
+          "name": "레퍼런스",
+          "yearGuess": null,
+          "typesGuess": [
+            "space"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [
+            "객실",
+            "그래픽",
+            "로비",
+            "사이니지",
+            "조명",
+            "컬러"
+          ],
+          "subfolderCount": 6,
+          "suggestedSlug": "ordo"
+        },
+        {
+          "name": "사인",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [
+            "소스",
+            "최종"
+          ],
+          "subfolderCount": 2,
+          "suggestedSlug": "ordo"
+        },
+        {
+          "name": "서류",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [],
+          "subfolderCount": 0,
+          "suggestedSlug": "ordo"
+        },
+        {
+          "name": "어플리케이션",
+          "yearGuess": null,
+          "typesGuess": [
+            "branding"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 2,
+          "deliverableFolders": [
+            "도장",
+            "룸넘버링",
+            "매뉴얼",
+            "명함",
+            "비누패키지",
+            "와이파이안내",
+            "원두패키지",
+            "철제스탠드",
+            "카드키",
+            "카드키배경지"
+          ],
+          "subfolderCount": 10,
+          "suggestedSlug": "ordo"
+        },
+        {
+          "name": "이미지",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [
+            "studio n.i.n"
+          ],
+          "subfolderCount": 1,
+          "suggestedSlug": "ordo"
+        },
+        {
+          "name": "자료",
+          "yearGuess": null,
+          "typesGuess": [
+            "space"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [
+            "(구)도면",
+            "공사현장",
+            "리모델링도면",
+            "소스",
+            "스케치업",
+            "최종도면",
+            "현장사진"
+          ],
+          "subfolderCount": 7,
+          "suggestedSlug": "ordo"
+        },
+        {
+          "name": "작업지시서",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [
+            "자료"
+          ],
+          "subfolderCount": 1,
+          "suggestedSlug": "ordo"
+        },
+        {
+          "name": "픽토그램",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [],
+          "subfolderCount": 0,
+          "suggestedSlug": "ordo"
+        }
+      ]
+    },
+    {
+      "name": "갤러리레오",
+      "sectorGuess": "museum",
+      "source": "T1",
+      "projectCount": 1,
+      "projects": [
+        {
+          "name": "여경섭개인전",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 1,
+          "deliverableFolders": [
+            "Digital",
+            "Manual",
+            "Print",
+            "Space"
+          ],
+          "subfolderCount": 6,
+          "suggestedSlug": "project-1776008029670"
+        }
+      ]
+    },
+    {
+      "name": "건양대학교",
+      "sectorGuess": "commercial",
+      "source": "T1",
+      "projectCount": 3,
+      "projects": [
+        {
+          "name": "ESG브랜드아이덴티티",
+          "yearGuess": null,
+          "typesGuess": [
+            "identity",
+            "branding"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [
+            "건양대학교 학교로고",
+            "로고",
+            "메뉴얼",
+            "서류",
+            "아이덴티티메뉴얼",
+            "어플리케이션",
+            "자료"
+          ],
+          "subfolderCount": 8,
+          "suggestedSlug": "esg"
+        },
+        {
+          "name": "ESG연구원 브로슈어",
+          "yearGuess": null,
+          "typesGuess": [
+            "editorial"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 1,
+          "deliverableFolders": [
+            "매뉴얼",
+            "브로슈어",
+            "시안",
+            "자료"
+          ],
+          "subfolderCount": 5,
+          "suggestedSlug": "esg"
+        },
+        {
+          "name": "레오플",
+          "yearGuess": null,
+          "typesGuess": [
+            "identity"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [
+            "레오플 BI",
+            "레오플 카탈로그"
+          ],
+          "subfolderCount": 2,
+          "suggestedSlug": "project-1776008029670"
+        }
+      ]
+    },
+    {
+      "name": "국가기록원",
+      "sectorGuess": "public",
+      "source": "T1",
+      "projectCount": 3,
+      "projects": [
+        {
+          "name": "1층민원실",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 4,
+          "deliverableFolders": [
+            "Digital",
+            "Manual",
+            "Print",
+            "Space"
+          ],
+          "subfolderCount": 6,
+          "suggestedSlug": "1"
+        },
+        {
+          "name": "국가기록원 에코백",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 5,
+          "deliverableFolders": [
+            "Digital",
+            "Manual",
+            "Print",
+            "Space"
+          ],
+          "subfolderCount": 6,
+          "suggestedSlug": "project-1776008029671"
+        },
+        {
+          "name": "국가기록원_월그래픽",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 16,
+          "deliverableFolders": [
+            "Digital",
+            "Manual",
+            "Space"
+          ],
+          "subfolderCount": 5,
+          "suggestedSlug": "project-1776008029671"
+        }
+      ]
+    },
+    {
+      "name": "국가기술전략센터",
+      "sectorGuess": "public",
+      "source": "T1",
+      "projectCount": 1,
+      "projects": [
+        {
+          "name": "NCTS_아이덴티티",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 4,
+          "deliverableFolders": [
+            "매뉴얼",
+            "시안",
+            "자료"
+          ],
+          "subfolderCount": 4,
+          "suggestedSlug": "ncts"
+        }
+      ]
+    },
+    {
+      "name": "금강아트",
+      "sectorGuess": "commercial",
+      "source": "T1",
+      "projectCount": 1,
+      "projects": [
+        {
+          "name": "금강아트브로슈어",
+          "yearGuess": null,
+          "typesGuess": [
+            "editorial"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [
+            "브로슈어",
+            "인쇄",
+            "자료",
+            "편집"
+          ],
+          "subfolderCount": 4,
+          "suggestedSlug": "project-1776008029671"
+        }
+      ]
+    },
+    {
+      "name": "기초과학연구원",
+      "sectorGuess": "public",
+      "source": "T1",
+      "projectCount": 4,
+      "projects": [
+        {
+          "name": "과학문화센터 배너",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 2,
+          "deliverableFolders": [
+            "매뉴얼",
+            "시안",
+            "인쇄",
+            "자료",
+            "최종"
+          ],
+          "subfolderCount": 6,
+          "suggestedSlug": "project-1776008029671"
+        },
+        {
+          "name": "과학문화센터 사이니지",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 1,
+          "deliverableFolders": [
+            "레퍼런스",
+            "매뉴얼",
+            "서류",
+            "소스",
+            "현장사진"
+          ],
+          "subfolderCount": 5,
+          "suggestedSlug": "project-1776008029671"
+        },
+        {
+          "name": "아트인사이언스 과학자의눈",
+          "yearGuess": null,
+          "typesGuess": [
+            "editorial",
+            "exhibition",
+            "space"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 15,
+          "deliverableFolders": [
+            "도록",
+            "레퍼런스",
+            "리플릿",
+            "매뉴얼",
+            "소스",
+            "스케치업",
+            "스티커",
+            "어플리케이션",
+            "영상",
+            "외부사인물",
+            "자료",
+            "전시사인물",
+            "포스터"
+          ],
+          "subfolderCount": 13,
+          "suggestedSlug": "project-1776008029671"
+        },
+        {
+          "name": "아트인사이언스 액자",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [
+            "명제표",
+            "서류",
+            "액자",
+            "인쇄",
+            "자료"
+          ],
+          "subfolderCount": 5,
+          "suggestedSlug": "project-1776008029671"
+        }
+      ]
+    },
+    {
+      "name": "논산시BI",
+      "sectorGuess": "public",
+      "source": "T1",
+      "projectCount": 3,
+      "projects": [
+        {
+          "name": "매뉴얼",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [],
+          "subfolderCount": 0,
+          "suggestedSlug": "bi"
+        },
+        {
+          "name": "자료",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [
+            "레퍼런스",
+            "정아철"
+          ],
+          "subfolderCount": 2,
+          "suggestedSlug": "bi"
+        },
+        {
+          "name": "작업파일",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [
+            "에스키스"
+          ],
+          "subfolderCount": 2,
+          "suggestedSlug": "bi"
+        }
+      ]
+    },
+    {
+      "name": "대전MBC",
+      "sectorGuess": "public",
+      "source": "T1",
+      "projectCount": 1,
+      "projects": [
+        {
+          "name": "애들은가라",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 3,
+          "deliverableFolders": [
+            "Digital",
+            "Manual",
+            "Print",
+            "Space"
+          ],
+          "subfolderCount": 6,
+          "suggestedSlug": "mbc"
+        }
+      ]
+    },
+    {
+      "name": "대전광역시청",
+      "sectorGuess": "public",
+      "source": "T1",
+      "projectCount": 4,
+      "projects": [
+        {
+          "name": "대전의의료와위생",
+          "yearGuess": null,
+          "typesGuess": [
+            "editorial",
+            "exhibition"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 8,
+          "deliverableFolders": [
+            "레퍼런스",
+            "매뉴얼",
+            "소스",
+            "어플리케이션",
+            "자료",
+            "자료집",
+            "주소록",
+            "포스터"
+          ],
+          "subfolderCount": 8,
+          "suggestedSlug": "project-1776008029672"
+        },
+        {
+          "name": "대전의집",
+          "yearGuess": null,
+          "typesGuess": [
+            "editorial",
+            "exhibition"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 5,
+          "deliverableFolders": [
+            "매뉴얼",
+            "어플리케이션",
+            "자료",
+            "자료집",
+            "주소록",
+            "포스터"
+          ],
+          "subfolderCount": 7,
+          "suggestedSlug": "project-1776008029672"
+        },
+        {
+          "name": "신채호학술대회",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 6,
+          "deliverableFolders": [
+            "Digital",
+            "Manual",
+            "Print",
+            "Space"
+          ],
+          "subfolderCount": 6,
+          "suggestedSlug": "project-1776008029672"
+        },
+        {
+          "name": "자료수집",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 5,
+          "deliverableFolders": [
+            "매뉴얼",
+            "사인물",
+            "인쇄물",
+            "자료"
+          ],
+          "subfolderCount": 5,
+          "suggestedSlug": "project-1776008029672"
+        }
+      ]
+    },
+    {
+      "name": "대전디자인진흥원",
+      "sectorGuess": "public",
+      "source": "T1",
+      "projectCount": 2,
+      "projects": [
+        {
+          "name": "35회대전디자인어워드",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [
+            "Digital",
+            "Manual",
+            "Print",
+            "Space"
+          ],
+          "subfolderCount": 6,
+          "suggestedSlug": "35"
+        },
+        {
+          "name": "대전디자인페스타",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [
+            "Digital",
+            "Manual",
+            "Print",
+            "Space"
+          ],
+          "subfolderCount": 6,
+          "suggestedSlug": "project-1776008029672"
+        }
+      ]
+    },
+    {
+      "name": "대전문화재단",
+      "sectorGuess": "performing-arts",
+      "source": "T1",
+      "projectCount": 1,
+      "projects": [
+        {
+          "name": "무형유산의전승과지속",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [
+            "자료",
+            "작업파일"
+          ],
+          "subfolderCount": 2,
+          "suggestedSlug": "project-1776008029672"
+        }
+      ]
+    },
+    {
+      "name": "대전선사박물관",
+      "sectorGuess": "museum",
+      "source": "T1",
+      "projectCount": 2,
+      "projects": [
+        {
+          "name": "거대한돌의비밀",
+          "yearGuess": null,
+          "typesGuess": [
+            "space",
+            "exhibition"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 16,
+          "deliverableFolders": [
+            "가구",
+            "공간그래픽",
+            "공간디자인",
+            "굿즈",
+            "매뉴얼",
+            "영상",
+            "외부사인물",
+            "웹",
+            "인쇄물",
+            "자료",
+            "카페트",
+            "캐릭터디자인"
+          ],
+          "subfolderCount": 13,
+          "suggestedSlug": "project-1776008029673"
+        },
+        {
+          "name": "뗀석기in용호동",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 30,
+          "deliverableFolders": [
+            "Digital",
+            "Manual",
+            "Print",
+            "Space"
+          ],
+          "subfolderCount": 6,
+          "suggestedSlug": "in"
+        }
+      ]
+    },
+    {
+      "name": "대전시립미술관",
+      "sectorGuess": "museum",
+      "source": "T1",
+      "projectCount": 38,
+      "projects": [
+        {
+          "name": "2019소장품연구논문집",
+          "yearGuess": 2019,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 2,
+          "deliverableFolders": [
+            "매뉴얼",
+            "서류",
+            "시안",
+            "인쇄",
+            "자료",
+            "최종"
+          ],
+          "subfolderCount": 7,
+          "suggestedSlug": "2019"
+        },
+        {
+          "name": "2020대전비엔날레",
+          "yearGuess": 2020,
+          "typesGuess": [
+            "editorial"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [
+            "대전비엔날레",
+            "대전비엔날레 자료집"
+          ],
+          "subfolderCount": 2,
+          "suggestedSlug": "2020"
+        },
+        {
+          "name": "2020소장품연구논문집",
+          "yearGuess": 2020,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 3,
+          "deliverableFolders": [
+            "링크",
+            "매뉴얼",
+            "서류",
+            "시안",
+            "인쇄",
+            "자료",
+            "최종"
+          ],
+          "subfolderCount": 8,
+          "suggestedSlug": "2020"
+        },
+        {
+          "name": "2021세계유명미술특별전",
+          "yearGuess": 2021,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [
+            "레퍼런스",
+            "자료",
+            "포스터"
+          ],
+          "subfolderCount": 3,
+          "suggestedSlug": "2021"
+        },
+        {
+          "name": "2021소장품연구논문집",
+          "yearGuess": 2021,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [
+            "시안",
+            "인쇄",
+            "자료",
+            "작업파일"
+          ],
+          "subfolderCount": 4,
+          "suggestedSlug": "2021"
+        },
+        {
+          "name": "2021탁상용달력",
+          "yearGuess": 2021,
+          "typesGuess": [
+            "branding"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [
+            " 최종",
+            "레퍼런스",
+            "서류",
+            "시안",
+            "인쇄",
+            "자료",
+            "패키지"
+          ],
+          "subfolderCount": 7,
+          "suggestedSlug": "2021"
+        },
+        {
+          "name": "2022소장품연구논문집",
+          "yearGuess": 2022,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [
+            "인쇄",
+            "자료",
+            "작업파일"
+          ],
+          "subfolderCount": 3,
+          "suggestedSlug": "2022"
+        },
+        {
+          "name": "2023소장품연구논문집",
+          "yearGuess": 2023,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [
+            "인쇄물",
+            "자료"
+          ],
+          "subfolderCount": 2,
+          "suggestedSlug": "2023"
+        },
+        {
+          "name": "2024비엔날레",
+          "yearGuess": 2024,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 27,
+          "deliverableFolders": [
+            "매뉴얼",
+            "분할원본",
+            "외부사인",
+            "포스터"
+          ],
+          "subfolderCount": 5,
+          "suggestedSlug": "2024"
+        },
+        {
+          "name": "2024소장품연구논문집",
+          "yearGuess": 2024,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [
+            "Digital",
+            "Manual",
+            "Print",
+            "Space"
+          ],
+          "subfolderCount": 6,
+          "suggestedSlug": "2024"
+        },
+        {
+          "name": "2025연차보고서",
+          "yearGuess": 2025,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [
+            "Digital",
+            "Manual",
+            "Print"
+          ],
+          "subfolderCount": 5,
+          "suggestedSlug": "2025"
+        },
+        {
+          "name": "23.8열린수장고소책자재인쇄",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [
+            "시안",
+            "인쇄",
+            "작업파일"
+          ],
+          "subfolderCount": 3,
+          "suggestedSlug": "238"
+        },
+        {
+          "name": "DMA 소장품 하이라이트 2024",
+          "yearGuess": 2024,
+          "typesGuess": [
+            "exhibition",
+            "editorial"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 10,
+          "deliverableFolders": [
+            "매뉴얼",
+            "명제표",
+            "소책자",
+            "어플리케이션",
+            "자료",
+            "포스터"
+          ],
+          "subfolderCount": 7,
+          "suggestedSlug": "dma-2024"
+        },
+        {
+          "name": "DMA 소장품 하이라이트 2026",
+          "yearGuess": 2026,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 5,
+          "deliverableFolders": [
+            "Digital",
+            "Manual",
+            "Print",
+            "Space"
+          ],
+          "subfolderCount": 6,
+          "suggestedSlug": "dma-2026"
+        },
+        {
+          "name": "개척자들",
+          "yearGuess": null,
+          "typesGuess": [
+            "editorial",
+            "exhibition"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 9,
+          "deliverableFolders": [
+            "매뉴얼",
+            "소책자",
+            "어플리케이션",
+            "자료",
+            "전시장사인물",
+            "포스터"
+          ],
+          "subfolderCount": 7,
+          "suggestedSlug": "project-1776008029674"
+        },
+        {
+          "name": "금밟고폴짝",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 21,
+          "deliverableFolders": [
+            "Digital",
+            "Manual",
+            "Print",
+            "Space"
+          ],
+          "subfolderCount": 6,
+          "suggestedSlug": "project-1776008029674"
+        },
+        {
+          "name": "깊고깊은숲으로",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 5,
+          "deliverableFolders": [
+            "Digital",
+            "Manual",
+            "Print",
+            "Space"
+          ],
+          "subfolderCount": 6,
+          "suggestedSlug": "project-1776008029674"
+        },
+        {
+          "name": "딕테x러브포엠",
+          "yearGuess": null,
+          "typesGuess": [
+            "editorial",
+            "exhibition"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 9,
+          "deliverableFolders": [
+            "매뉴얼",
+            "소책자",
+            "어플리케이션",
+            "자료",
+            "전시장사인물",
+            "포스터"
+          ],
+          "subfolderCount": 7,
+          "suggestedSlug": "x"
+        },
+        {
+          "name": "먹의시간",
+          "yearGuess": null,
+          "typesGuess": [
+            "editorial",
+            "exhibition"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 14,
+          "deliverableFolders": [
+            "광고",
+            "도록",
+            "레퍼런스",
+            "리플릿",
+            "매뉴얼",
+            "사인물",
+            "서류",
+            "소스",
+            "어플리케이션",
+            "자료",
+            "초청장",
+            "포스터"
+          ],
+          "subfolderCount": 12,
+          "suggestedSlug": "project-1776008029675"
+        },
+        {
+          "name": "문화재청",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [
+            "시안",
+            "인쇄",
+            "자료",
+            "작업파일"
+          ],
+          "subfolderCount": 4,
+          "suggestedSlug": "project-1776008029675"
+        },
+        {
+          "name": "미래저편에",
+          "yearGuess": null,
+          "typesGuess": [
+            "editorial",
+            "exhibition"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 26,
+          "deliverableFolders": [
+            "도록",
+            "매뉴얼",
+            "소스",
+            "소책자",
+            "어플리케이션",
+            "외부사인물",
+            "자료",
+            "전시장사인물",
+            "초대권",
+            "초청장",
+            "포스터"
+          ],
+          "subfolderCount": 12,
+          "suggestedSlug": "project-1776008029675"
+        },
+        {
+          "name": "보행자전용도로",
+          "yearGuess": null,
+          "typesGuess": [
+            "space"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 1,
+          "deliverableFolders": [
+            "매뉴얼",
+            "인쇄",
+            "픽토그램"
+          ],
+          "subfolderCount": 4,
+          "suggestedSlug": "project-1776008029676"
+        },
+        {
+          "name": "수요일은인디고블루",
+          "yearGuess": null,
+          "typesGuess": [
+            "editorial",
+            "exhibition"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 27,
+          "deliverableFolders": [
+            "공통자료",
+            "도록",
+            "리플렛",
+            "매뉴얼",
+            "사인물",
+            "소스",
+            "수요일은인디고블루인쇄홍보물",
+            "어플리케이션",
+            "초청장",
+            "포스터"
+          ],
+          "subfolderCount": 10,
+          "suggestedSlug": "project-1776008029676"
+        },
+        {
+          "name": "수장고공사가림막",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 7,
+          "deliverableFolders": [
+            "매뉴얼",
+            "목업소스",
+            "소스",
+            "시안",
+            "인쇄",
+            "자료",
+            "최종"
+          ],
+          "subfolderCount": 7,
+          "suggestedSlug": "project-1776008029676"
+        },
+        {
+          "name": "스르륵",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition",
+            "editorial",
+            "space"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [
+            "곡면벤치",
+            "그래픽사인물",
+            "도록",
+            "디자인용역제출pdf",
+            "레퍼런스",
+            "리플렛",
+            "매뉴얼",
+            "명제표",
+            "빔프로젝터",
+            "서류",
+            "스르륵도록",
+            "스르륵미래 전경",
+            "스케치업",
+            "스티커",
+            "어플리케이션",
+            "일러스트",
+            "자료",
+            "체험지",
+            "초청장",
+            "타이포",
+            "포스터"
+          ],
+          "subfolderCount": 21,
+          "suggestedSlug": "project-1776008029676"
+        },
+        {
+          "name": "안내입간판",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 1,
+          "deliverableFolders": [
+            "매뉴얼",
+            "작업파일",
+            "제작"
+          ],
+          "subfolderCount": 3,
+          "suggestedSlug": "project-1776008029676"
+        },
+        {
+          "name": "야외작품보호안내사인",
+          "yearGuess": null,
+          "typesGuess": [
+            "space"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 5,
+          "deliverableFolders": [
+            "매뉴얼",
+            "스케치업",
+            "시안",
+            "안내사인",
+            "인쇄",
+            "자료",
+            "평판인쇄"
+          ],
+          "subfolderCount": 7,
+          "suggestedSlug": "project-1776008029676"
+        },
+        {
+          "name": "열린수장고23.10.개편",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [
+            "명제표",
+            "운영시간배너"
+          ],
+          "subfolderCount": 2,
+          "suggestedSlug": "2310"
+        },
+        {
+          "name": "열린수장고23.3.개편",
+          "yearGuess": null,
+          "typesGuess": [
+            "editorial",
+            "exhibition"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 3,
+          "deliverableFolders": [
+            "매뉴얼",
+            "소책자",
+            "어플리케이션",
+            "전시장사인물"
+          ],
+          "subfolderCount": 4,
+          "suggestedSlug": "233"
+        },
+        {
+          "name": "열린수장고개관전",
+          "yearGuess": null,
+          "typesGuess": [
+            "editorial",
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [
+            "도록",
+            "매뉴얼",
+            "소스",
+            "소책자",
+            "어플리케이션",
+            "임시포스터",
+            "전시장사인물",
+            "초청장",
+            "포스터",
+            "현수막"
+          ],
+          "subfolderCount": 10,
+          "suggestedSlug": "project-1776008029676"
+        },
+        {
+          "name": "열린수장고개관전도록",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 2,
+          "deliverableFolders": [
+            "매뉴얼",
+            "시안",
+            "인쇄",
+            "자료",
+            "작업파일"
+          ],
+          "subfolderCount": 6,
+          "suggestedSlug": "project-1776008029676"
+        },
+        {
+          "name": "열린수장고사이니지",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition",
+            "space",
+            "identity"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 26,
+          "deliverableFolders": [
+            "매뉴얼",
+            "맵",
+            "명제표",
+            "사이니지",
+            "스케치업",
+            "아이덴티티",
+            "어플리케이션",
+            "자료",
+            "참고문헌",
+            "피난안내도",
+            "픽토그램"
+          ],
+          "subfolderCount": 11,
+          "suggestedSlug": "project-1776008029677"
+        },
+        {
+          "name": "우리는달린다WWW",
+          "yearGuess": null,
+          "typesGuess": [
+            "editorial",
+            "exhibition",
+            "space"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 6,
+          "deliverableFolders": [
+            "도록",
+            "매뉴얼",
+            "사인물",
+            "소책자",
+            "어플리케이션",
+            "자료",
+            "전시장_스케치업",
+            "포스터"
+          ],
+          "subfolderCount": 9,
+          "suggestedSlug": "www"
+        },
+        {
+          "name": "이중섭전",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [
+            "Digital",
+            "Manual",
+            "Print",
+            "Space"
+          ],
+          "subfolderCount": 6,
+          "suggestedSlug": "project-1776008029677"
+        },
+        {
+          "name": "조각공간퍼즐",
+          "yearGuess": null,
+          "typesGuess": [
+            "editorial",
+            "exhibition"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 8,
+          "deliverableFolders": [
+            "도록",
+            "리플렛",
+            "매뉴얼",
+            "명제표",
+            "어플리케이션",
+            "에스키스",
+            "자료",
+            "전시장사인물",
+            "초청장",
+            "테스트",
+            "포스터"
+          ],
+          "subfolderCount": 11,
+          "suggestedSlug": "project-1776008029677"
+        },
+        {
+          "name": "초록으로 간다",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 7,
+          "deliverableFolders": [
+            "리플렛",
+            "매뉴얼",
+            "명제표",
+            "어플리케이션",
+            "자료",
+            "전시장사인물",
+            "포스터"
+          ],
+          "subfolderCount": 7,
+          "suggestedSlug": "project-1776008029677"
+        },
+        {
+          "name": "파노라마",
+          "yearGuess": null,
+          "typesGuess": [
+            "editorial",
+            "exhibition"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 19,
+          "deliverableFolders": [
+            "도록",
+            "매뉴얼",
+            "명제표",
+            "사인물",
+            "소책자",
+            "어플리케이션",
+            "자료",
+            "포스터"
+          ],
+          "subfolderCount": 9,
+          "suggestedSlug": "project-1776008029677"
+        },
+        {
+          "name": "페르소나",
+          "yearGuess": null,
+          "typesGuess": [
+            "editorial",
+            "exhibition"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 9,
+          "deliverableFolders": [
+            "도록",
+            "매뉴얼",
+            "사인물",
+            "소스",
+            "소책자",
+            "어플리케이션",
+            "자료",
+            "작업파일",
+            "초청장",
+            "포스터",
+            "합성글꼴"
+          ],
+          "subfolderCount": 11,
+          "suggestedSlug": "project-1776008029677"
+        }
+      ]
+    },
+    {
+      "name": "대전시립박물관",
+      "sectorGuess": "museum",
+      "source": "T1",
+      "projectCount": 8,
+      "projects": [
+        {
+          "name": "꿈생원의 육아일기",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 13,
+          "deliverableFolders": [
+            "Digital",
+            "Manual",
+            "Print",
+            "Space"
+          ],
+          "subfolderCount": 6,
+          "suggestedSlug": "project-1776008029677"
+        },
+        {
+          "name": "마이리틀뮤지엄",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 2,
+          "deliverableFolders": [
+            "레퍼런스",
+            "매뉴얼",
+            "서류",
+            "소스",
+            "스티커",
+            "시안",
+            "인쇄",
+            "자료",
+            "최종"
+          ],
+          "subfolderCount": 10,
+          "suggestedSlug": "project-1776008029678"
+        },
+        {
+          "name": "산성을 지켜라",
+          "yearGuess": null,
+          "typesGuess": [
+            "branding",
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [
+            "메뉴얼",
+            "어플리케이션",
+            "자료",
+            "체험지",
+            "포스터"
+          ],
+          "subfolderCount": 6,
+          "suggestedSlug": "project-1776008029678"
+        },
+        {
+          "name": "선비, 난세를 살다",
+          "yearGuess": null,
+          "typesGuess": [
+            "editorial",
+            "exhibition"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 9,
+          "deliverableFolders": [
+            "도록",
+            "레퍼런스",
+            "리플렛",
+            "매뉴얼",
+            "설문지",
+            "소스",
+            "어플리케이션",
+            "자료",
+            "포스터"
+          ],
+          "subfolderCount": 9,
+          "suggestedSlug": "project-1776008029678"
+        },
+        {
+          "name": "제주오현전",
+          "yearGuess": null,
+          "typesGuess": [
+            "editorial"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [
+            "도록"
+          ],
+          "subfolderCount": 1,
+          "suggestedSlug": "project-1776008029678"
+        },
+        {
+          "name": "판",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [],
+          "subfolderCount": 0,
+          "suggestedSlug": "project-1776008029678"
+        },
+        {
+          "name": "학술총서10",
+          "yearGuess": null,
+          "typesGuess": [
+            "editorial"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 2,
+          "deliverableFolders": [
+            "매뉴얼",
+            "인쇄",
+            "자료",
+            "학술총서"
+          ],
+          "subfolderCount": 4,
+          "suggestedSlug": "10"
+        },
+        {
+          "name": "한국전쟁과대전",
+          "yearGuess": null,
+          "typesGuess": [
+            "editorial",
+            "exhibition"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 6,
+          "deliverableFolders": [
+            "도록",
+            "레퍼런스",
+            "리플릿",
+            "매뉴얼",
+            "사인물",
+            "서류",
+            "소스",
+            "어플리케이션",
+            "자료",
+            "포스터"
+          ],
+          "subfolderCount": 10,
+          "suggestedSlug": "project-1776008029678"
+        }
+      ]
+    },
+    {
+      "name": "대전시립연정국악단",
+      "sectorGuess": "performing-arts",
+      "source": "T1",
+      "projectCount": 5,
+      "projects": [
+        {
+          "name": "2024겨울락콘서트",
+          "yearGuess": 2024,
+          "typesGuess": [
+            "exhibition",
+            "editorial"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 7,
+          "deliverableFolders": [
+            "리플렛",
+            "매뉴얼",
+            "소스",
+            "어플리케이션",
+            "일러스트",
+            "자료",
+            "포스터",
+            "프로그램북"
+          ],
+          "subfolderCount": 9,
+          "suggestedSlug": "2024"
+        },
+        {
+          "name": "2025겨울락콘서트",
+          "yearGuess": 2025,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 4,
+          "deliverableFolders": [
+            "Digital",
+            "Manual",
+            "Print",
+            "Space"
+          ],
+          "subfolderCount": 6,
+          "suggestedSlug": "2025"
+        },
+        {
+          "name": "겨울락콘서트",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition",
+            "editorial"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 6,
+          "deliverableFolders": [
+            "리플렛",
+            "매뉴얼",
+            "소스",
+            "어플리케이션",
+            "일러스트",
+            "자료",
+            "포스터",
+            "프로그램북"
+          ],
+          "subfolderCount": 9,
+          "suggestedSlug": "project-1776008029678"
+        },
+        {
+          "name": "민요하다",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition",
+            "editorial"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 5,
+          "deliverableFolders": [
+            "리플렛",
+            "매뉴얼",
+            "소스",
+            "어플리케이션",
+            "자료",
+            "포스터",
+            "프로그램북"
+          ],
+          "subfolderCount": 7,
+          "suggestedSlug": "project-1776008029678"
+        },
+        {
+          "name": "송년음악회",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition",
+            "editorial"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 9,
+          "deliverableFolders": [
+            "리플렛",
+            "매뉴얼",
+            "어플리케이션",
+            "자료",
+            "포스터",
+            "프로그램북"
+          ],
+          "subfolderCount": 6,
+          "suggestedSlug": "project-1776008029678"
+        }
+      ]
+    },
+    {
+      "name": "대전예술의전당",
+      "sectorGuess": "performing-arts",
+      "source": "T1",
+      "projectCount": 41,
+      "projects": [
+        {
+          "name": "2020그랜드시즌",
+          "yearGuess": 2020,
+          "typesGuess": [
+            "branding",
+            "editorial",
+            "identity",
+            "exhibition"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 11,
+          "deliverableFolders": [
+            "그랜드시즌 패키지봉투",
+            "레퍼런스",
+            "매뉴얼",
+            "시즌북",
+            "아이덴티티",
+            "어플리케이션",
+            "자료",
+            "전단",
+            "포스터"
+          ],
+          "subfolderCount": 10,
+          "suggestedSlug": "2020"
+        },
+        {
+          "name": "2020그랜드시즌_하반기",
+          "yearGuess": 2020,
+          "typesGuess": [
+            "exhibition",
+            "editorial"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 6,
+          "deliverableFolders": [
+            "레퍼런스",
+            "매뉴얼",
+            "소스",
+            "어플리케이션",
+            "자료",
+            "포스터",
+            "프로그램북"
+          ],
+          "subfolderCount": 7,
+          "suggestedSlug": "2020"
+        },
+        {
+          "name": "2021그랜드시즌",
+          "yearGuess": 2021,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 5,
+          "deliverableFolders": [
+            "레퍼런스",
+            "리플릿",
+            "매뉴얼",
+            "사인물",
+            "소스",
+            "어플리케이션",
+            "자료",
+            "포스터"
+          ],
+          "subfolderCount": 8,
+          "suggestedSlug": "2021"
+        },
+        {
+          "name": "2022 그랜드시즌",
+          "yearGuess": 2022,
+          "typesGuess": [
+            "editorial",
+            "exhibition"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 6,
+          "deliverableFolders": [
+            "레퍼런스",
+            "매뉴얼",
+            "시안",
+            "시즌북",
+            "어플리케이션",
+            "에스키스",
+            "자료",
+            "포스터"
+          ],
+          "subfolderCount": 8,
+          "suggestedSlug": "2022"
+        },
+        {
+          "name": "2022 썸머뉴아티스트 콘서트",
+          "yearGuess": 2022,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 3,
+          "deliverableFolders": [
+            "리플렛",
+            "매뉴얼",
+            "소스",
+            "어플리케이션",
+            "자료",
+            "포스터"
+          ],
+          "subfolderCount": 6,
+          "suggestedSlug": "2022"
+        },
+        {
+          "name": "2022회원음악회",
+          "yearGuess": 2022,
+          "typesGuess": [
+            "exhibition",
+            "editorial"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 1,
+          "deliverableFolders": [
+            "리플렛",
+            "매뉴얼",
+            "어플리케이션",
+            "자료",
+            "포스터",
+            "프로그램북"
+          ],
+          "subfolderCount": 6,
+          "suggestedSlug": "2022"
+        },
+        {
+          "name": "2023 시즌",
+          "yearGuess": 2023,
+          "typesGuess": [
+            "exhibition",
+            "editorial"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 16,
+          "deliverableFolders": [
+            "매뉴얼",
+            "사인물",
+            "소스",
+            "시즌북",
+            "어플리케이션",
+            "포스터"
+          ],
+          "subfolderCount": 6,
+          "suggestedSlug": "2023"
+        },
+        {
+          "name": "2024 스프링페스티벌",
+          "yearGuess": 2024,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 8,
+          "deliverableFolders": [
+            "리플렛",
+            "매뉴얼",
+            "소스",
+            "어플리케이션",
+            "자료",
+            "팸플릿",
+            "포스터"
+          ],
+          "subfolderCount": 8,
+          "suggestedSlug": "2024"
+        },
+        {
+          "name": "2024 시즌",
+          "yearGuess": 2024,
+          "typesGuess": [
+            "exhibition",
+            "editorial"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 14,
+          "deliverableFolders": [
+            "매뉴얼",
+            "무빙 포스터",
+            "사인물",
+            "소스",
+            "시즌북",
+            "앰블럼",
+            "어플리케이션",
+            "자료",
+            "포스터"
+          ],
+          "subfolderCount": 10,
+          "suggestedSlug": "2024"
+        },
+        {
+          "name": "2025 시즌",
+          "yearGuess": 2025,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 15,
+          "deliverableFolders": [
+            "Digital",
+            "Manual",
+            "Print",
+            "Space"
+          ],
+          "subfolderCount": 6,
+          "suggestedSlug": "2025"
+        },
+        {
+          "name": "2026 시즌",
+          "yearGuess": 2026,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 10,
+          "deliverableFolders": [
+            "Digital",
+            "Manual",
+            "Print",
+            "Space"
+          ],
+          "subfolderCount": 6,
+          "suggestedSlug": "2026"
+        },
+        {
+          "name": "AAPPAC",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 1,
+          "deliverableFolders": [
+            "Digital",
+            "Manual",
+            "Print",
+            "Space"
+          ],
+          "subfolderCount": 6,
+          "suggestedSlug": "aappac"
+        },
+        {
+          "name": "NDT2",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition",
+            "editorial"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 3,
+          "deliverableFolders": [
+            "리플렛",
+            "매뉴얼",
+            "어플리케이션",
+            "자료",
+            "포스터",
+            "프로그램북"
+          ],
+          "subfolderCount": 7,
+          "suggestedSlug": "ndt2"
+        },
+        {
+          "name": "NT live",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 2,
+          "deliverableFolders": [
+            "리플렛",
+            "매뉴얼",
+            "어플리케이션",
+            "인쇄",
+            "자료",
+            "포스터"
+          ],
+          "subfolderCount": 6,
+          "suggestedSlug": "nt-live"
+        },
+        {
+          "name": "No.5",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition",
+            "editorial"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 2,
+          "deliverableFolders": [
+            "매뉴얼",
+            "어플리케이션",
+            "인쇄",
+            "자료",
+            "전단",
+            "포스터",
+            "프로그램북"
+          ],
+          "subfolderCount": 7,
+          "suggestedSlug": "no5"
+        },
+        {
+          "name": "내가가면그게길이지",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 3,
+          "deliverableFolders": [
+            "리플렛",
+            "매뉴얼",
+            "목업",
+            "어플리케이션",
+            "자료",
+            "포스터"
+          ],
+          "subfolderCount": 6,
+          "suggestedSlug": "project-1776008029680"
+        },
+        {
+          "name": "대전예술의전당일러스트",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [
+            "대전예당외관일러스트(공유)",
+            "레퍼런스",
+            "예당이미지자료"
+          ],
+          "subfolderCount": 3,
+          "suggestedSlug": "project-1776008029680"
+        },
+        {
+          "name": "동양극장2021",
+          "yearGuess": 2021,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 4,
+          "deliverableFolders": [
+            "리플렛",
+            "매뉴얼",
+            "어플리케이션",
+            "자료",
+            "포스터"
+          ],
+          "subfolderCount": 6,
+          "suggestedSlug": "2021"
+        },
+        {
+          "name": "로맨틱파트너스콘서트",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 1,
+          "deliverableFolders": [
+            "리플렛",
+            "매뉴얼",
+            "어플리케이션",
+            "자료",
+            "포스터"
+          ],
+          "subfolderCount": 5,
+          "suggestedSlug": "project-1776008029680"
+        },
+        {
+          "name": "리사이틀시리즈",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition",
+            "branding",
+            "editorial"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [
+            "리플렛",
+            "메뉴얼",
+            "소스",
+            "어플리케이션",
+            "에스키스",
+            "자료",
+            "포스터",
+            "프로그램북"
+          ],
+          "subfolderCount": 8,
+          "suggestedSlug": "project-1776008029680"
+        },
+        {
+          "name": "법인회원가입안내",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 3,
+          "deliverableFolders": [
+            "매뉴얼",
+            "시안",
+            "인쇄",
+            "자료",
+            "작업파일"
+          ],
+          "subfolderCount": 5,
+          "suggestedSlug": "project-1776008029680"
+        },
+        {
+          "name": "베토벤 아벤트",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition",
+            "editorial"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 4,
+          "deliverableFolders": [
+            "매뉴얼",
+            "소스",
+            "어플리케이션",
+            "오디션공고",
+            "인쇄",
+            "자료",
+            "전단",
+            "포스터",
+            "프로그램북"
+          ],
+          "subfolderCount": 9,
+          "suggestedSlug": "project-1776008029680"
+        },
+        {
+          "name": "서식류",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 1,
+          "deliverableFolders": [
+            "레퍼런스",
+            "매뉴얼",
+            "서류",
+            "인쇄",
+            "자료",
+            "최종파일"
+          ],
+          "subfolderCount": 7,
+          "suggestedSlug": "project-1776008029680"
+        },
+        {
+          "name": "스노우쇼",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 7,
+          "deliverableFolders": [
+            "리플렛",
+            "매뉴얼",
+            "어플리케이션",
+            "엽서",
+            "자료",
+            "포스터"
+          ],
+          "subfolderCount": 6,
+          "suggestedSlug": "project-1776008029680"
+        },
+        {
+          "name": "스프링페스티벌",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition",
+            "editorial"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 5,
+          "deliverableFolders": [
+            "매뉴얼",
+            "소스",
+            "어플리케이션",
+            "인쇄",
+            "자료",
+            "전단",
+            "최종시안",
+            "포스터",
+            "프로그램북"
+          ],
+          "subfolderCount": 9,
+          "suggestedSlug": "project-1776008029681"
+        },
+        {
+          "name": "아크람칸 정글북",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition",
+            "editorial"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 1,
+          "deliverableFolders": [
+            "리플렛",
+            "매뉴얼",
+            "어플리케이션",
+            "자료",
+            "포스터",
+            "프로그램북"
+          ],
+          "subfolderCount": 6,
+          "suggestedSlug": "project-1776008029681"
+        },
+        {
+          "name": "야외패널디자인",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 6,
+          "deliverableFolders": [
+            "Manual",
+            "Print",
+            "Space"
+          ],
+          "subfolderCount": 5,
+          "suggestedSlug": "project-1776008029681"
+        },
+        {
+          "name": "운명의 힘",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [
+            "시안",
+            "웹배너",
+            "인쇄",
+            "자료",
+            "작업파일"
+          ],
+          "subfolderCount": 5,
+          "suggestedSlug": "project-1776008029681"
+        },
+        {
+          "name": "운명의 힘 재공연",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 15,
+          "deliverableFolders": [
+            "리플렛",
+            "매뉴얼",
+            "사인물",
+            "어플리케이션",
+            "자료",
+            "팸플릿",
+            "포스터",
+            "포스터v2"
+          ],
+          "subfolderCount": 9,
+          "suggestedSlug": "project-1776008029681"
+        },
+        {
+          "name": "잠들기전심야극장",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 12,
+          "deliverableFolders": [
+            "레퍼런스",
+            "리플렛",
+            "매뉴얼",
+            "어플리케이션",
+            "자료",
+            "포스터"
+          ],
+          "subfolderCount": 7,
+          "suggestedSlug": "project-1776008029681"
+        },
+        {
+          "name": "제작연극 결혼",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition",
+            "editorial"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 6,
+          "deliverableFolders": [
+            "레퍼런스",
+            "매뉴얼",
+            "소스",
+            "어플리케이션",
+            "인쇄",
+            "자료",
+            "전단",
+            "포스터",
+            "프로그램북"
+          ],
+          "subfolderCount": 9,
+          "suggestedSlug": "project-1776008029681"
+        },
+        {
+          "name": "제작연극 멋진신세계",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 6,
+          "deliverableFolders": [
+            "리플렛",
+            "매뉴얼",
+            "무빙포스터",
+            "사인물",
+            "소스",
+            "어플리케이션",
+            "영상업체 공유용",
+            "자료",
+            "팸플릿",
+            "포스터"
+          ],
+          "subfolderCount": 11,
+          "suggestedSlug": "project-1776008029681"
+        },
+        {
+          "name": "제작연극 파우스트",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 2,
+          "deliverableFolders": [
+            "리플렛",
+            "매뉴얼",
+            "어플리케이션",
+            "자료",
+            "팸플릿",
+            "포스터"
+          ],
+          "subfolderCount": 6,
+          "suggestedSlug": "project-1776008029681"
+        },
+        {
+          "name": "제작오페라 토스카",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition",
+            "editorial"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 3,
+          "deliverableFolders": [
+            "리플렛",
+            "매뉴얼",
+            "소스",
+            "어플리케이션",
+            "자료",
+            "포스터",
+            "프로그램북"
+          ],
+          "subfolderCount": 7,
+          "suggestedSlug": "project-1776008029682"
+        },
+        {
+          "name": "조수미의 비엔나 왈츠 & 폴카",
+          "yearGuess": null,
+          "typesGuess": [
+            "branding",
+            "exhibition",
+            "editorial"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [
+            "메뉴얼",
+            "어플리케이션",
+            "자료",
+            "자료조사",
+            "포스터",
+            "프로그램북"
+          ],
+          "subfolderCount": 6,
+          "suggestedSlug": "project-1776008029682"
+        },
+        {
+          "name": "토스카 갈라콘서트",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 1,
+          "deliverableFolders": [
+            "리플릿",
+            "매뉴얼",
+            "어플리케이션",
+            "자료",
+            "포스터"
+          ],
+          "subfolderCount": 5,
+          "suggestedSlug": "project-1776008029682"
+        },
+        {
+          "name": "토스카 오디션공고",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 2,
+          "deliverableFolders": [
+            "내보내기",
+            "매뉴얼",
+            "시안",
+            "자료"
+          ],
+          "subfolderCount": 5,
+          "suggestedSlug": "project-1776008029682"
+        },
+        {
+          "name": "프레스코화",
+          "yearGuess": null,
+          "typesGuess": [
+            "editorial"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [
+            "어플리케이션",
+            "프로그램북"
+          ],
+          "subfolderCount": 2,
+          "suggestedSlug": "project-1776008029682"
+        },
+        {
+          "name": "하얀산",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 4,
+          "deliverableFolders": [
+            "레퍼런스",
+            "리플렛",
+            "매뉴얼",
+            "어플리케이션",
+            "일러스트",
+            "자료",
+            "포스터"
+          ],
+          "subfolderCount": 7,
+          "suggestedSlug": "project-1776008029682"
+        },
+        {
+          "name": "하우스콘서트",
+          "yearGuess": null,
+          "typesGuess": [
+            "editorial",
+            "exhibition"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 2,
+          "deliverableFolders": [
+            "매뉴얼",
+            "소책자",
+            "포스터"
+          ],
+          "subfolderCount": 4,
+          "suggestedSlug": "project-1776008029682"
+        },
+        {
+          "name": "해피버스데이위크",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 13,
+          "deliverableFolders": [
+            "리플렛",
+            "매뉴얼",
+            "사인물",
+            "어플리케이션",
+            "자료",
+            "초청장",
+            "팜플렛",
+            "포스터"
+          ],
+          "subfolderCount": 9,
+          "suggestedSlug": "project-1776008029682"
+        }
+      ]
+    },
+    {
+      "name": "대전전통나래관",
+      "sectorGuess": "performing-arts",
+      "source": "T1",
+      "projectCount": 1,
+      "projects": [
+        {
+          "name": "사라지지않는보물",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 9,
+          "deliverableFolders": [
+            "Digital",
+            "Manual",
+            "Print",
+            "Space"
+          ],
+          "subfolderCount": 6,
+          "suggestedSlug": "project-1776008029682"
+        }
+      ]
+    },
+    {
+      "name": "더그룹",
+      "sectorGuess": "commercial",
+      "source": "T1",
+      "projectCount": 7,
+      "projects": [
+        {
+          "name": "메뉴얼",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [],
+          "subfolderCount": 0,
+          "suggestedSlug": "project-1776008029682"
+        },
+        {
+          "name": "목업",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [],
+          "subfolderCount": 0,
+          "suggestedSlug": "project-1776008029682"
+        },
+        {
+          "name": "시안",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [],
+          "subfolderCount": 0,
+          "suggestedSlug": "project-1776008029682"
+        },
+        {
+          "name": "인쇄",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [],
+          "subfolderCount": 0,
+          "suggestedSlug": "project-1776008029682"
+        },
+        {
+          "name": "자료",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [
+            "220518 자료",
+            "225030 자료"
+          ],
+          "subfolderCount": 2,
+          "suggestedSlug": "project-1776008029682"
+        },
+        {
+          "name": "작업파일",
+          "yearGuess": null,
+          "typesGuess": [
+            "editorial"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [
+            "더그룹_도록최종 폴더"
+          ],
+          "subfolderCount": 1,
+          "suggestedSlug": "project-1776008029682"
+        },
+        {
+          "name": "포스터",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [],
+          "subfolderCount": 0,
+          "suggestedSlug": "project-1776008029682"
+        }
+      ]
+    },
+    {
+      "name": "똑똑도독",
+      "sectorGuess": "commercial",
+      "source": "T1",
+      "projectCount": 2,
+      "projects": [
+        {
+          "name": "어플리케이션",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [
+            "전단"
+          ],
+          "subfolderCount": 1,
+          "suggestedSlug": "project-1776008029682"
+        },
+        {
+          "name": "이미지",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [
+            "까까"
+          ],
+          "subfolderCount": 1,
+          "suggestedSlug": "project-1776008029683"
+        }
+      ]
+    },
+    {
+      "name": "롯데자이언츠",
+      "sectorGuess": "commercial",
+      "source": "T1",
+      "projectCount": 1,
+      "projects": [
+        {
+          "name": "스케치",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [],
+          "subfolderCount": 0,
+          "suggestedSlug": "project-1776008029683"
+        }
+      ]
+    },
+    {
+      "name": "박은영작가",
+      "sectorGuess": "artist",
+      "source": "T1",
+      "projectCount": 1,
+      "projects": [
+        {
+          "name": "색과단어들",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 8,
+          "deliverableFolders": [
+            "Digital",
+            "Manual",
+            "Print",
+            "Space"
+          ],
+          "subfolderCount": 6,
+          "suggestedSlug": "project-1776008029683"
+        }
+      ]
+    },
+    {
+      "name": "박혜경작가",
+      "sectorGuess": "artist",
+      "source": "T1",
+      "projectCount": 1,
+      "projects": [
+        {
+          "name": "소리없이다가온것들의진술",
+          "yearGuess": null,
+          "typesGuess": [
+            "editorial",
+            "exhibition"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 3,
+          "deliverableFolders": [
+            "도록",
+            "매뉴얼",
+            "엽서",
+            "인쇄",
+            "자료"
+          ],
+          "subfolderCount": 6,
+          "suggestedSlug": "project-1776008029683"
+        }
+      ]
+    },
+    {
+      "name": "스물하나",
+      "sectorGuess": "commercial",
+      "source": "T1",
+      "projectCount": 3,
+      "projects": [
+        {
+          "name": "공간",
+          "yearGuess": null,
+          "typesGuess": [
+            "space"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [
+            "스케치업",
+            "스케치업_내보내기"
+          ],
+          "subfolderCount": 2,
+          "suggestedSlug": "project-1776008029683"
+        },
+        {
+          "name": "사인물",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [
+            "오픈예정배너"
+          ],
+          "subfolderCount": 1,
+          "suggestedSlug": "project-1776008029683"
+        },
+        {
+          "name": "자료",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [],
+          "subfolderCount": 0,
+          "suggestedSlug": "project-1776008029683"
+        }
+      ]
+    },
+    {
+      "name": "신중덕교수님",
+      "sectorGuess": "artist",
+      "source": "T1",
+      "projectCount": 5,
+      "projects": [
+        {
+          "name": "2024개인전",
+          "yearGuess": 2024,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 2,
+          "deliverableFolders": [
+            "매뉴얼",
+            "시안",
+            "신중덕개인전2024_fin 폴더",
+            "인쇄",
+            "촬영fin"
+          ],
+          "subfolderCount": 6,
+          "suggestedSlug": "2024"
+        },
+        {
+          "name": "211002",
+          "yearGuess": 2110,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [
+            "jpg",
+            "tiff"
+          ],
+          "subfolderCount": 2,
+          "suggestedSlug": "211002"
+        },
+        {
+          "name": "221004",
+          "yearGuess": 2210,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [],
+          "subfolderCount": 0,
+          "suggestedSlug": "221004"
+        },
+        {
+          "name": "221004촬영",
+          "yearGuess": 2210,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [],
+          "subfolderCount": 0,
+          "suggestedSlug": "221004"
+        },
+        {
+          "name": "241015",
+          "yearGuess": 2410,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [
+            "보정본",
+            "소스"
+          ],
+          "subfolderCount": 2,
+          "suggestedSlug": "241015"
+        }
+      ]
+    },
+    {
+      "name": "애니토마토",
+      "sectorGuess": "commercial",
+      "source": "T1",
+      "projectCount": 3,
+      "projects": [
+        {
+          "name": "2024애니토마토캘린더",
+          "yearGuess": 2024,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 3,
+          "deliverableFolders": [
+            "매뉴얼",
+            "시안",
+            "인쇄",
+            "자료",
+            "자료(에스키스)",
+            "작업파일"
+          ],
+          "subfolderCount": 6,
+          "suggestedSlug": "2024"
+        },
+        {
+          "name": "2026애니토마토캘린더",
+          "yearGuess": 2026,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 6,
+          "deliverableFolders": [
+            "Digital",
+            "Manual",
+            "Print",
+            "Space"
+          ],
+          "subfolderCount": 6,
+          "suggestedSlug": "2026"
+        },
+        {
+          "name": "토마토BI_디자인애로해결지원",
+          "yearGuess": null,
+          "typesGuess": [
+            "identity"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [
+            "BI",
+            "어플리케이션",
+            "예시서류",
+            "제출서류"
+          ],
+          "subfolderCount": 4,
+          "suggestedSlug": "bi"
+        }
+      ]
+    },
+    {
+      "name": "얼룩",
+      "sectorGuess": "self-initiated",
+      "source": "T1",
+      "projectCount": 4,
+      "projects": [
+        {
+          "name": "err.look vol0",
+          "yearGuess": null,
+          "typesGuess": [
+            "editorial",
+            "exhibition"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 2,
+          "deliverableFolders": [
+            "매거진",
+            "매뉴얼",
+            "서류",
+            "소스",
+            "스티커",
+            "엘피포스터",
+            "자료"
+          ],
+          "subfolderCount": 7,
+          "suggestedSlug": "errlook-vol0"
+        },
+        {
+          "name": "err.look vol1",
+          "yearGuess": null,
+          "typesGuess": [
+            "editorial",
+            "exhibition"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 8,
+          "deliverableFolders": [
+            "굿즈",
+            "매거진",
+            "매뉴얼",
+            "서류",
+            "소스",
+            "얼룩공유폴더",
+            "포스터"
+          ],
+          "subfolderCount": 7,
+          "suggestedSlug": "errlook-vol1"
+        },
+        {
+          "name": "눈페어",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [
+            "디피레퍼런스",
+            "자료",
+            "출력"
+          ],
+          "subfolderCount": 3,
+          "suggestedSlug": "project-1776008029684"
+        },
+        {
+          "name": "브랜드개발",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [
+            "얼룩"
+          ],
+          "subfolderCount": 1,
+          "suggestedSlug": "project-1776008029684"
+        }
+      ]
+    },
+    {
+      "name": "에이트",
+      "sectorGuess": "commercial",
+      "source": "T1",
+      "projectCount": 1,
+      "projects": [
+        {
+          "name": "매뉴얼",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [],
+          "subfolderCount": 0,
+          "suggestedSlug": "project-1776008029684"
+        }
+      ]
+    },
+    {
+      "name": "예스빌딩",
+      "sectorGuess": "commercial",
+      "source": "T1",
+      "projectCount": 3,
+      "projects": [
+        {
+          "name": "로고(예스브레드)",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [
+            "예스브레드 3차 수정",
+            "예스브레드 최종 out Folder"
+          ],
+          "subfolderCount": 2,
+          "suggestedSlug": "project-1776008029684"
+        },
+        {
+          "name": "사이니지",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [
+            "시안",
+            "인쇄",
+            "인쇄v2"
+          ],
+          "subfolderCount": 3,
+          "suggestedSlug": "project-1776008029684"
+        },
+        {
+          "name": "자료",
+          "yearGuess": null,
+          "typesGuess": [
+            "identity"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [
+            "예스빌딩 입주자로고"
+          ],
+          "subfolderCount": 1,
+          "suggestedSlug": "project-1776008029684"
+        }
+      ]
+    },
+    {
+      "name": "유성구청",
+      "sectorGuess": "public",
+      "source": "T1",
+      "projectCount": 1,
+      "projects": [
+        {
+          "name": "유성국화축제엽서",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [
+            "엽서"
+          ],
+          "subfolderCount": 1,
+          "suggestedSlug": "project-1776008029684"
+        }
+      ]
+    },
+    {
+      "name": "육공소",
+      "sectorGuess": "commercial",
+      "source": "T1",
+      "projectCount": 1,
+      "projects": [
+        {
+          "name": "사인물",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [],
+          "subfolderCount": 0,
+          "suggestedSlug": "project-1776008029684"
+        }
+      ]
+    },
+    {
+      "name": "이응노미술관",
+      "sectorGuess": "museum",
+      "source": "T1",
+      "projectCount": 3,
+      "projects": [
+        {
+          "name": "국제심포지엄",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition",
+            "editorial"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 8,
+          "deliverableFolders": [
+            "레퍼런스",
+            "매뉴얼",
+            "사인물",
+            "서류",
+            "소스",
+            "어플리케이션",
+            "에코백",
+            "웹초청장",
+            "자료",
+            "자료집",
+            "포스터"
+          ],
+          "subfolderCount": 11,
+          "suggestedSlug": "project-1776008029684"
+        },
+        {
+          "name": "밤에해가있는곳",
+          "yearGuess": null,
+          "typesGuess": [
+            "editorial",
+            "exhibition"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 9,
+          "deliverableFolders": [
+            "공통자료",
+            "도록",
+            "리플릿",
+            "매뉴얼",
+            "어플리케이션",
+            "조형물",
+            "초청장",
+            "포스터"
+          ],
+          "subfolderCount": 8,
+          "suggestedSlug": "project-1776008029684"
+        },
+        {
+          "name": "종이로 그린 그림",
+          "yearGuess": null,
+          "typesGuess": [
+            "editorial",
+            "exhibition"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 11,
+          "deliverableFolders": [
+            "도록",
+            "레퍼런스",
+            "리플렛",
+            "매뉴얼",
+            "서류",
+            "소스",
+            "어플리케이션",
+            "자료",
+            "초청장",
+            "포스터"
+          ],
+          "subfolderCount": 10,
+          "suggestedSlug": "project-1776008029684"
+        }
+      ]
+    },
+    {
+      "name": "이응노의집",
+      "sectorGuess": "museum",
+      "source": "T1",
+      "projectCount": 16,
+      "projects": [
+        {
+          "name": "2020 4기 결과자료집",
+          "yearGuess": 2020,
+          "typesGuess": [
+            "branding"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [
+            "1117 자료",
+            "메뉴얼",
+            "시안",
+            "인쇄",
+            "자료",
+            "자료정리",
+            "작업파일"
+          ],
+          "subfolderCount": 8,
+          "suggestedSlug": "2020-4"
+        },
+        {
+          "name": "2020 학술심포지엄 결과자료집",
+          "yearGuess": 2020,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [
+            "시안",
+            "에스키스",
+            "인쇄",
+            "자료",
+            "작업파일"
+          ],
+          "subfolderCount": 6,
+          "suggestedSlug": "2020"
+        },
+        {
+          "name": "고암미술상",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 4,
+          "deliverableFolders": [
+            "qr코드",
+            "레퍼런스",
+            "매뉴얼",
+            "서류",
+            "소스",
+            "시안",
+            "어플리케이션",
+            "자료",
+            "최종"
+          ],
+          "subfolderCount": 10,
+          "suggestedSlug": "project-1776008029685"
+        },
+        {
+          "name": "고암의춤",
+          "yearGuess": null,
+          "typesGuess": [
+            "editorial",
+            "exhibition"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 7,
+          "deliverableFolders": [
+            "광고",
+            "도록",
+            "리플렛",
+            "매뉴얼",
+            "명제표",
+            "사인물",
+            "어플리케이션",
+            "자료",
+            "자료집",
+            "초청장",
+            "포스터"
+          ],
+          "subfolderCount": 11,
+          "suggestedSlug": "project-1776008029685"
+        },
+        {
+          "name": "고암이응노아카이브",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition",
+            "editorial"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 4,
+          "deliverableFolders": [
+            "매뉴얼",
+            "사인물",
+            "소책자",
+            "아크릴쇼케이스",
+            "어플리케이션",
+            "영상",
+            "자료",
+            "포스터"
+          ],
+          "subfolderCount": 8,
+          "suggestedSlug": "project-1776008029685"
+        },
+        {
+          "name": "고암이응노에게경의를 작품공모",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 1,
+          "deliverableFolders": [
+            "매뉴얼",
+            "시안",
+            "자료",
+            "최종"
+          ],
+          "subfolderCount": 4,
+          "suggestedSlug": "project-1776008029685"
+        },
+        {
+          "name": "고암이응노의 소모와사생",
+          "yearGuess": null,
+          "typesGuess": [
+            "editorial",
+            "space"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 2,
+          "deliverableFolders": [
+            "도록",
+            "레퍼런스",
+            "매뉴얼",
+            "소스",
+            "스케치업",
+            "어플리케이션",
+            "연표",
+            "연표제작",
+            "전시"
+          ],
+          "subfolderCount": 9,
+          "suggestedSlug": "project-1776008029685"
+        },
+        {
+          "name": "고암이응노의드로잉",
+          "yearGuess": null,
+          "typesGuess": [
+            "editorial",
+            "branding",
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [
+            "도록",
+            "메뉴얼",
+            "명제표",
+            "사인물",
+            "소책자",
+            "어플리케이션",
+            "자료",
+            "포스터"
+          ],
+          "subfolderCount": 9,
+          "suggestedSlug": "project-1776008029685"
+        },
+        {
+          "name": "대나무숲바람이일렁일때",
+          "yearGuess": null,
+          "typesGuess": [
+            "editorial",
+            "exhibition",
+            "branding"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [
+            "도록",
+            "리플렛",
+            "메뉴얼",
+            "명제표",
+            "사인물",
+            "자료",
+            "포스터"
+          ],
+          "subfolderCount": 8,
+          "suggestedSlug": "project-1776008029685"
+        },
+        {
+          "name": "디아섹",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [
+            "인쇄"
+          ],
+          "subfolderCount": 1,
+          "suggestedSlug": "project-1776008029685"
+        },
+        {
+          "name": "말과글뜻과몸짓",
+          "yearGuess": null,
+          "typesGuess": [
+            "editorial",
+            "exhibition"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 6,
+          "deliverableFolders": [
+            "도록",
+            "레퍼런스",
+            "리플렛",
+            "매뉴얼",
+            "사인물",
+            "소스",
+            "어플리케이션",
+            "자료",
+            "촬영링크"
+          ],
+          "subfolderCount": 9,
+          "suggestedSlug": "project-1776008029685"
+        },
+        {
+          "name": "사진대지",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [],
+          "subfolderCount": 0,
+          "suggestedSlug": "project-1776008029685"
+        },
+        {
+          "name": "사진으로보는연보",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [
+            "레퍼런스",
+            "인쇄",
+            "자료",
+            "최종"
+          ],
+          "subfolderCount": 4,
+          "suggestedSlug": "project-1776008029685"
+        },
+        {
+          "name": "역대고암미술상 수상작가전",
+          "yearGuess": null,
+          "typesGuess": [
+            "editorial",
+            "exhibition"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 5,
+          "deliverableFolders": [
+            "도록",
+            "리플릿",
+            "매뉴얼",
+            "명제표",
+            "사인물",
+            "심포지엄",
+            "어플리케이션",
+            "자료",
+            "촬영"
+          ],
+          "subfolderCount": 9,
+          "suggestedSlug": "project-1776008029685"
+        },
+        {
+          "name": "이응노의집 홍보소책자",
+          "yearGuess": null,
+          "typesGuess": [
+            "branding"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [
+            "메뉴얼",
+            "인쇄",
+            "자료",
+            "작업파일"
+          ],
+          "subfolderCount": 5,
+          "suggestedSlug": "project-1776008029685"
+        },
+        {
+          "name": "이응노의집_도록모음",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [],
+          "subfolderCount": 0,
+          "suggestedSlug": "project-1776008029685"
+        }
+      ]
+    },
+    {
+      "name": "이종우",
+      "sectorGuess": "artist",
+      "source": "T1",
+      "projectCount": 2,
+      "projects": [
+        {
+          "name": "고목발영",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 2,
+          "deliverableFolders": [
+            "Digital",
+            "Manual",
+            "Print"
+          ],
+          "subfolderCount": 5,
+          "suggestedSlug": "project-1776008029686"
+        },
+        {
+          "name": "자연의활력",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [
+            "Digital",
+            "Manual",
+            "Print"
+          ],
+          "subfolderCount": 5,
+          "suggestedSlug": "project-1776008029686"
+        }
+      ]
+    },
+    {
+      "name": "인테그라",
+      "sectorGuess": "commercial",
+      "source": "T1",
+      "projectCount": 6,
+      "projects": [
+        {
+          "name": "공유용",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [
+            "인테그라"
+          ],
+          "subfolderCount": 1,
+          "suggestedSlug": "project-1776008029686"
+        },
+        {
+          "name": "매뉴얼",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [
+            "eps",
+            "소스",
+            "시안",
+            "작업파일"
+          ],
+          "subfolderCount": 5,
+          "suggestedSlug": "project-1776008029686"
+        },
+        {
+          "name": "서류",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [],
+          "subfolderCount": 0,
+          "suggestedSlug": "project-1776008029686"
+        },
+        {
+          "name": "어플리케이션",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [
+            "사인"
+          ],
+          "subfolderCount": 1,
+          "suggestedSlug": "project-1776008029686"
+        },
+        {
+          "name": "자료",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [],
+          "subfolderCount": 0,
+          "suggestedSlug": "project-1776008029686"
+        },
+        {
+          "name": "작업파일",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [
+            "에스키스"
+          ],
+          "subfolderCount": 1,
+          "suggestedSlug": "project-1776008029686"
+        }
+      ]
+    },
+    {
+      "name": "임동식작가님",
+      "sectorGuess": "artist",
+      "source": "T1",
+      "projectCount": 1,
+      "projects": [
+        {
+          "name": "200410",
+          "yearGuess": 2004,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [],
+          "subfolderCount": 0,
+          "suggestedSlug": "200410"
+        }
+      ]
+    },
+    {
+      "name": "자체프로젝트",
+      "sectorGuess": "self-initiated",
+      "source": "T1",
+      "projectCount": 11,
+      "projects": [
+        {
+          "name": "김봄",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [
+            "싫은네가"
+          ],
+          "subfolderCount": 1,
+          "suggestedSlug": "project-1776008029686"
+        },
+        {
+          "name": "다이빙로그",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [
+            "태훈400로그 폴더"
+          ],
+          "subfolderCount": 1,
+          "suggestedSlug": "project-1776008029686"
+        },
+        {
+          "name": "마숑",
+          "yearGuess": null,
+          "typesGuess": [
+            "branding",
+            "identity",
+            "space"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 4,
+          "deliverableFolders": [
+            "230301_메뉴촬영원본",
+            "SNS",
+            "bi",
+            "가맹계약서",
+            "가맹점",
+            "견적서",
+            "공간",
+            "매뉴얼",
+            "배달의민족",
+            "브랜드북",
+            "사이니지",
+            "서류",
+            "어플리케이션",
+            "에스키스",
+            "영상",
+            "외부홍보",
+            "이미지",
+            "자료",
+            "홈페이지"
+          ],
+          "subfolderCount": 19,
+          "suggestedSlug": "project-1776008029686"
+        },
+        {
+          "name": "아꽁빠뉴",
+          "yearGuess": null,
+          "typesGuess": [
+            "branding"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [
+            "메뉴얼",
+            "시안",
+            "인쇄",
+            "자료",
+            "작업파일",
+            "종이백"
+          ],
+          "subfolderCount": 6,
+          "suggestedSlug": "project-1776008029687"
+        },
+        {
+          "name": "오드리",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [],
+          "subfolderCount": 0,
+          "suggestedSlug": "project-1776008029687"
+        },
+        {
+          "name": "이노폴리스 광고 바레이션 폴더 2",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [
+            "300*150",
+            "300*180",
+            "300*250",
+            "728*90",
+            "Document fonts",
+            "Links",
+            "시안",
+            "영상",
+            "이전 광고 참조"
+          ],
+          "subfolderCount": 9,
+          "suggestedSlug": "2"
+        },
+        {
+          "name": "작가미상",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [
+            "명함"
+          ],
+          "subfolderCount": 1,
+          "suggestedSlug": "project-1776008029687"
+        },
+        {
+          "name": "재원청첩장",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [
+            "레퍼런스",
+            "매뉴얼",
+            "봉투",
+            "시안",
+            "인쇄",
+            "자료"
+          ],
+          "subfolderCount": 6,
+          "suggestedSlug": "project-1776008029687"
+        },
+        {
+          "name": "조은란작가석사청구전",
+          "yearGuess": null,
+          "typesGuess": [
+            "editorial",
+            "branding",
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [
+            "도록",
+            "메뉴얼",
+            "목업",
+            "시안",
+            "엽서명함",
+            "자료"
+          ],
+          "subfolderCount": 6,
+          "suggestedSlug": "project-1776008029687"
+        },
+        {
+          "name": "팬톤잉크라벨링",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [],
+          "subfolderCount": 0,
+          "suggestedSlug": "project-1776008029687"
+        },
+        {
+          "name": "히피디피",
+          "yearGuess": null,
+          "typesGuess": [
+            "identity"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [
+            "bi",
+            "공간"
+          ],
+          "subfolderCount": 2,
+          "suggestedSlug": "project-1776008029687"
+        }
+      ]
+    },
+    {
+      "name": "지원케미칼",
+      "sectorGuess": "commercial",
+      "source": "T1",
+      "projectCount": 6,
+      "projects": [
+        {
+          "name": "BI",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [
+            "에스키스"
+          ],
+          "subfolderCount": 1,
+          "suggestedSlug": "bi"
+        },
+        {
+          "name": "mockup",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [],
+          "subfolderCount": 0,
+          "suggestedSlug": "mockup"
+        },
+        {
+          "name": "메뉴얼",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [],
+          "subfolderCount": 0,
+          "suggestedSlug": "project-1776008029687"
+        },
+        {
+          "name": "명함",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [],
+          "subfolderCount": 0,
+          "suggestedSlug": "project-1776008029687"
+        },
+        {
+          "name": "어플리케이션(가상)",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [],
+          "subfolderCount": 0,
+          "suggestedSlug": "project-1776008029687"
+        },
+        {
+          "name": "자료",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [],
+          "subfolderCount": 0,
+          "suggestedSlug": "project-1776008029687"
+        }
+      ]
+    },
+    {
+      "name": "충청남도청",
+      "sectorGuess": "public",
+      "source": "T1",
+      "projectCount": 1,
+      "projects": [
+        {
+          "name": "충청남도청열린미술관포럼",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition",
+            "editorial"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 7,
+          "deliverableFolders": [
+            "레퍼런스",
+            "매뉴얼",
+            "사인물",
+            "서류",
+            "소스",
+            "어플리케이션",
+            "자료",
+            "자료집",
+            "포스터"
+          ],
+          "subfolderCount": 9,
+          "suggestedSlug": "project-1776008029688"
+        }
+      ]
+    },
+    {
+      "name": "코리아투모로우",
+      "sectorGuess": "commercial",
+      "source": "T1",
+      "projectCount": 1,
+      "projects": [
+        {
+          "name": "탁상달력",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 3,
+          "deliverableFolders": [
+            "매뉴얼",
+            "자료"
+          ],
+          "subfolderCount": 2,
+          "suggestedSlug": "project-1776008029688"
+        }
+      ]
+    },
+    {
+      "name": "파인드블루",
+      "sectorGuess": "commercial",
+      "source": "T1",
+      "projectCount": 1,
+      "projects": [
+        {
+          "name": "티셔츠",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [
+            "ai",
+            "매뉴얼"
+          ],
+          "subfolderCount": 3,
+          "suggestedSlug": "project-1776008029688"
+        }
+      ]
+    },
+    {
+      "name": "포프",
+      "sectorGuess": "commercial",
+      "source": "T1",
+      "projectCount": 1,
+      "projects": [
+        {
+          "name": "DRAWING YOUR SCENT",
+          "yearGuess": null,
+          "typesGuess": [
+            "branding",
+            "editorial"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [
+            "메뉴얼",
+            "소스",
+            "소책자",
+            "자료"
+          ],
+          "subfolderCount": 5,
+          "suggestedSlug": "drawing-your-scent"
+        }
+      ]
+    },
+    {
+      "name": "한국에너지기술연구원",
+      "sectorGuess": "public",
+      "source": "T1",
+      "projectCount": 1,
+      "projects": [
+        {
+          "name": "eTIP,STED",
+          "yearGuess": null,
+          "typesGuess": [
+            "identity"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 3,
+          "deliverableFolders": [
+            "bi",
+            "매뉴얼",
+            "자료",
+            "최종납품"
+          ],
+          "subfolderCount": 5,
+          "suggestedSlug": "etipsted"
+        }
+      ]
+    },
+    {
+      "name": "한국연구재단",
+      "sectorGuess": "public",
+      "source": "T1",
+      "projectCount": 1,
+      "projects": [
+        {
+          "name": "카드뉴스",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [
+            "권오병교수",
+            "이정민교수",
+            "카드뉴스템플릿"
+          ],
+          "subfolderCount": 3,
+          "suggestedSlug": "project-1776008029688"
+        }
+      ]
+    },
+    {
+      "name": "한국화학연구원",
+      "sectorGuess": "public",
+      "source": "T1",
+      "projectCount": 1,
+      "projects": [
+        {
+          "name": "콜드체인안심스티커",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 4,
+          "deliverableFolders": [
+            "내보내기",
+            "뉴스레터",
+            "매뉴얼",
+            "시안",
+            "외부사인물",
+            "자료",
+            "최종"
+          ],
+          "subfolderCount": 8,
+          "suggestedSlug": "project-1776008029688"
+        }
+      ]
+    },
+    {
+      "name": "한밭도서관",
+      "sectorGuess": "public",
+      "source": "T1",
+      "projectCount": 1,
+      "projects": [
+        {
+          "name": "전자자료이용안내서",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 1,
+          "deliverableFolders": [
+            "Digital",
+            "Manual",
+            "Print"
+          ],
+          "subfolderCount": 5,
+          "suggestedSlug": "project-1776008029688"
+        }
+      ]
+    },
+    {
+      "name": "UST",
+      "sectorGuess": "public",
+      "source": "T2",
+      "projectCount": 6,
+      "projects": [
+        {
+          "name": "mockup",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [
+            "포토샵"
+          ],
+          "subfolderCount": 1,
+          "suggestedSlug": "ust-mockup"
+        },
+        {
+          "name": "레퍼런스",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [
+            "보고서",
+            "학교 관련"
+          ],
+          "subfolderCount": 2,
+          "suggestedSlug": "ust"
+        },
+        {
+          "name": "매뉴얼",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [],
+          "subfolderCount": 0,
+          "suggestedSlug": "ust"
+        },
+        {
+          "name": "시안",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [],
+          "subfolderCount": 0,
+          "suggestedSlug": "ust"
+        },
+        {
+          "name": "자료",
+          "yearGuess": null,
+          "typesGuess": [
+            "editorial",
+            "identity"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [
+            "0727_ust브로슈어_원본정리",
+            "0903수정사항",
+            "2020 UST Brochure(국영문)",
+            "210722_공유",
+            "210730 2차원고",
+            "210804 원고",
+            "210805 원고",
+            "210805_공유",
+            "210823_사진 공유",
+            "210825_공유",
+            "210907_샘플사진 공유",
+            "UST로고",
+            "UST사진 (1)",
+            "UST연보_QR코드",
+            "[Ⅱ-2] 대표교수 사진 및 동의서",
+            "[Ⅱ-2] 브로슈어 내용 수정 사항",
+            "셔터스톡",
+            "수정사항0823",
+            "엔아이엔_파트2"
+          ],
+          "subfolderCount": 19,
+          "suggestedSlug": "ust"
+        },
+        {
+          "name": "편집",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [
+            "UST2021연보_최종한글폴더",
+            "내지레이아웃",
+            "표지"
+          ],
+          "subfolderCount": 3,
+          "suggestedSlug": "ust"
+        }
+      ]
+    },
+    {
+      "name": "고해상요청",
+      "sectorGuess": "commercial",
+      "source": "T2",
+      "projectCount": 1,
+      "projects": [
+        {
+          "name": "Tak",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [],
+          "subfolderCount": 0,
+          "suggestedSlug": "tak"
+        }
+      ]
+    },
+    {
+      "name": "대전시립미술관",
+      "sectorGuess": "museum",
+      "source": "T2",
+      "projectCount": 3,
+      "projects": [
+        {
+          "name": "대전비엔날레2022",
+          "yearGuess": 2022,
+          "typesGuess": [
+            "exhibition",
+            "editorial"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 26,
+          "deliverableFolders": [
+            "가이드북",
+            "디지털출력(샘플)",
+            "리플렛",
+            "맜살작가",
+            "매뉴얼",
+            "미래도시도록",
+            "소스",
+            "시티프로젝트 리플렛",
+            "어린이리플렛",
+            "어플리케이션",
+            "외부사인물",
+            "자료",
+            "자료집",
+            "전시장사인물",
+            "초대권",
+            "초청장",
+            "포스터",
+            "합성글꼴"
+          ],
+          "subfolderCount": 18,
+          "suggestedSlug": "2022"
+        },
+        {
+          "name": "목업",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [
+            "책"
+          ],
+          "subfolderCount": 1,
+          "suggestedSlug": "project-1776008029689"
+        },
+        {
+          "name": "트라우마",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition",
+            "editorial"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 19,
+          "deliverableFolders": [
+            "VIP초청장",
+            "가이드북",
+            "공통자료",
+            "도록",
+            "매뉴얼",
+            "명제표",
+            "사인물",
+            "서류",
+            "시안",
+            "어플리케이션",
+            "자료집",
+            "전시장사인물",
+            "초대권",
+            "초청장",
+            "콜로퀴엄자료집",
+            "포스터",
+            "퓰리쳐사진전 어플리케이션"
+          ],
+          "subfolderCount": 17,
+          "suggestedSlug": "project-1776008029689"
+        }
+      ]
+    },
+    {
+      "name": "대전시립박물관",
+      "sectorGuess": "museum",
+      "source": "T2",
+      "projectCount": 5,
+      "projects": [
+        {
+          "name": "거대한돌의비밀",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [
+            "영상디자인",
+            "캐릭터디자인"
+          ],
+          "subfolderCount": 2,
+          "suggestedSlug": "project-1776008029689"
+        },
+        {
+          "name": "꿈생원의육아일기",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [
+            "서류(보안)"
+          ],
+          "subfolderCount": 1,
+          "suggestedSlug": "project-1776008029689"
+        },
+        {
+          "name": "시간탐험대",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [
+            "공간"
+          ],
+          "subfolderCount": 1,
+          "suggestedSlug": "project-1776008029689"
+        },
+        {
+          "name": "쏜살탐험대",
+          "yearGuess": null,
+          "typesGuess": [
+            "space",
+            "exhibition"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 11,
+          "deliverableFolders": [
+            "공간",
+            "공간그래픽",
+            "공사",
+            "구조물",
+            "매뉴얼",
+            "모션",
+            "무빙포스터",
+            "블록",
+            "서류(보안)",
+            "시공도면",
+            "시차",
+            "어플리케이션",
+            "자료",
+            "체험사운드",
+            "체험지",
+            "캐릭터",
+            "포스터"
+          ],
+          "subfolderCount": 17,
+          "suggestedSlug": "project-1776008029690"
+        },
+        {
+          "name": "역사특별전",
+          "yearGuess": null,
+          "typesGuess": [
+            "editorial",
+            "exhibition"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 14,
+          "deliverableFolders": [
+            "공간연출",
+            "기획",
+            "도록",
+            "매뉴얼",
+            "서류(보안)",
+            "소스",
+            "소책자",
+            "어플리케이션",
+            "영상",
+            "자료",
+            "챗봇_오류",
+            "포스터"
+          ],
+          "subfolderCount": 13,
+          "suggestedSlug": "project-1776008029690"
+        }
+      ]
+    },
+    {
+      "name": "문화체육관광부",
+      "sectorGuess": "public",
+      "source": "T2",
+      "projectCount": 2,
+      "projects": [
+        {
+          "name": "문체부2026캘린더",
+          "yearGuess": 2026,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 17,
+          "deliverableFolders": [
+            "Digital",
+            "Manual",
+            "Print"
+          ],
+          "subfolderCount": 5,
+          "suggestedSlug": "2026"
+        },
+        {
+          "name": "문체부2027캘린더",
+          "yearGuess": 2027,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 2,
+          "deliverableFolders": [
+            "Digital",
+            "Manual",
+            "Print"
+          ],
+          "subfolderCount": 5,
+          "suggestedSlug": "2027"
+        }
+      ]
+    },
+    {
+      "name": "버찌책방",
+      "sectorGuess": "commercial",
+      "source": "T2",
+      "projectCount": 10,
+      "projects": [
+        {
+          "name": "BI",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [
+            "최종공유용"
+          ],
+          "subfolderCount": 2,
+          "suggestedSlug": "bi"
+        },
+        {
+          "name": "공간이미지",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [],
+          "subfolderCount": 0,
+          "suggestedSlug": "project-1776008029690"
+        },
+        {
+          "name": "매뉴얼",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [
+            "제작가이드"
+          ],
+          "subfolderCount": 1,
+          "suggestedSlug": "project-1776008029690"
+        },
+        {
+          "name": "버찌책방공유폴더",
+          "yearGuess": null,
+          "typesGuess": [
+            "identity"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [
+            "BI",
+            "각대봉투",
+            "마스킹테이프",
+            "박스테이프",
+            "배포용책갈피",
+            "볼펜",
+            "쇼핑백",
+            "일상생활",
+            "지류"
+          ],
+          "subfolderCount": 9,
+          "suggestedSlug": "project-1776008029690"
+        },
+        {
+          "name": "사이니지",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [
+            "레퍼런스",
+            "사인소스"
+          ],
+          "subfolderCount": 2,
+          "suggestedSlug": "project-1776008029690"
+        },
+        {
+          "name": "서류(보안)",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [
+            "견적서",
+            "디자인결과물",
+            "성과사례집-버찌책방"
+          ],
+          "subfolderCount": 3,
+          "suggestedSlug": "project-1776008029690"
+        },
+        {
+          "name": "어플리케이션",
+          "yearGuess": null,
+          "typesGuess": [
+            "branding"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [
+            "SNS",
+            "명함",
+            "박스테이프",
+            "사인",
+            "에코백",
+            "엔아이엔제작물품",
+            "유산지",
+            "인쇄파일",
+            "일상생활",
+            "책갈피",
+            "책방가이드",
+            "책한잔커피한권",
+            "카드",
+            "컵",
+            "판매용굿즈",
+            "화분패키지"
+          ],
+          "subfolderCount": 16,
+          "suggestedSlug": "project-1776008029690"
+        },
+        {
+          "name": "자료",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [
+            "시공사 전달"
+          ],
+          "subfolderCount": 1,
+          "suggestedSlug": "project-1776008029690"
+        },
+        {
+          "name": "작업지시서",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [
+            "자료"
+          ],
+          "subfolderCount": 1,
+          "suggestedSlug": "project-1776008029690"
+        },
+        {
+          "name": "전시",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [
+            "4월_이유출판"
+          ],
+          "subfolderCount": 1,
+          "suggestedSlug": "project-1776008029690"
+        }
+      ]
+    },
+    {
+      "name": "한국에너지기술연구원",
+      "sectorGuess": "public",
+      "source": "T2",
+      "projectCount": 1,
+      "projects": [
+        {
+          "name": "eTIP,STED",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 2,
+          "deliverableFolders": [
+            "매뉴얼",
+            "자료",
+            "최종납품"
+          ],
+          "subfolderCount": 3,
+          "suggestedSlug": "etipsted"
+        }
+      ]
+    },
+    {
+      "name": "한국연구재단",
+      "sectorGuess": "public",
+      "source": "T2",
+      "projectCount": 1,
+      "projects": [
+        {
+          "name": "카드뉴스",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [],
+          "subfolderCount": 0,
+          "suggestedSlug": "project-1776008029691"
+        }
+      ]
+    },
+    {
+      "name": "해외문화홍보원",
+      "sectorGuess": "public",
+      "source": "T2",
+      "projectCount": 1,
+      "projects": [
+        {
+          "name": "세계인들이말하는김치",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": true,
+          "pdfCount": 7,
+          "deliverableFolders": [
+            "레퍼런스",
+            "매뉴얼",
+            "소스",
+            "시안",
+            "인쇄",
+            "자료",
+            "편집"
+          ],
+          "subfolderCount": 8,
+          "suggestedSlug": "project-1776008029691"
+        }
+      ]
+    },
+    {
+      "name": "2024대전비엔날레",
+      "sectorGuess": "commercial",
+      "source": "T3",
+      "projectCount": 13,
+      "projects": [
+        {
+          "name": "00 공유용",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [
+            "01 Poster",
+            "02 Leaflet",
+            "03 Video",
+            "04 3D resource",
+            "99 Font"
+          ],
+          "subfolderCount": 5,
+          "suggestedSlug": "2024-00"
+        },
+        {
+          "name": "감사용",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [
+            "2024비엔날레_계약모음",
+            "노네임",
+            "무명사",
+            "새이름",
+            "슬로먼트",
+            "엔아이엔"
+          ],
+          "subfolderCount": 6,
+          "suggestedSlug": "2024"
+        },
+        {
+          "name": "공간그래픽",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [
+            "개막식",
+            "렌더링",
+            "명제표",
+            "바닥그래픽",
+            "배너",
+            "벽면그래픽",
+            "본관외",
+            "소스",
+            "아카이브좌대",
+            "연표",
+            "전시안내판,A1배너",
+            "허니콤보드"
+          ],
+          "subfolderCount": 12,
+          "suggestedSlug": "2024"
+        },
+        {
+          "name": "공간디자인",
+          "yearGuess": null,
+          "typesGuess": [
+            "space"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [
+            "맵핑",
+            "스케치업",
+            "엔스케이프(24비엔날레)",
+            "캐드"
+          ],
+          "subfolderCount": 4,
+          "suggestedSlug": "2024"
+        },
+        {
+          "name": "굿즈",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [
+            "01 짐색",
+            "02 메모지",
+            "03 그립톡",
+            "04 페이퍼나이프",
+            "05 스태프티셔츠",
+            "99 기타",
+            "99 발주"
+          ],
+          "subfolderCount": 7,
+          "suggestedSlug": "2024"
+        },
+        {
+          "name": "서류(보안)",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [
+            "견적서"
+          ],
+          "subfolderCount": 1,
+          "suggestedSlug": "2024"
+        },
+        {
+          "name": "설정",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [
+            "AkzidGrtskNext"
+          ],
+          "subfolderCount": 1,
+          "suggestedSlug": "2024"
+        },
+        {
+          "name": "아이덴티티 리소스",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [
+            "00 사과 png",
+            "3D 리소스",
+            "타이틀 리소스",
+            "폰트 및 글꼴 세팅"
+          ],
+          "subfolderCount": 4,
+          "suggestedSlug": "2024"
+        },
+        {
+          "name": "영상",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [
+            "개막식",
+            "공유",
+            "기타 촬영본",
+            "모션포스터",
+            "수어영상",
+            "아카이브",
+            "유튜브",
+            "음악",
+            "이전",
+            "티징",
+            "파사드"
+          ],
+          "subfolderCount": 11,
+          "suggestedSlug": "2024"
+        },
+        {
+          "name": "외부 사이니지",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [
+            "가로등배너",
+            "가로현수막(게시대,게릴라)",
+            "공간오십오깃발배너",
+            "링크",
+            "미술관뒷쪽현수막",
+            "버스",
+            "버스승강장",
+            "시청 전광판 홍보",
+            "시청엘레베이터",
+            "언덕배너",
+            "외벽현수막",
+            "철재스탠드배너"
+          ],
+          "subfolderCount": 12,
+          "suggestedSlug": "2024"
+        },
+        {
+          "name": "웹",
+          "yearGuess": null,
+          "typesGuess": [
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [
+            "99 이미지",
+            "99 이미지 (제안용)",
+            "99 이전",
+            "SNS (공유)",
+            "광고 (아이즈)",
+            "모바일초청장"
+          ],
+          "subfolderCount": 6,
+          "suggestedSlug": "2024"
+        },
+        {
+          "name": "인쇄물",
+          "yearGuess": null,
+          "typesGuess": [
+            "editorial",
+            "exhibition"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [
+            "광고물",
+            "도록",
+            "리플렛",
+            "소책자",
+            "초대권",
+            "초청장",
+            "포스터"
+          ],
+          "subfolderCount": 7,
+          "suggestedSlug": "2024"
+        },
+        {
+          "name": "자료",
+          "yearGuess": null,
+          "typesGuess": [
+            "editorial",
+            "identity"
+          ],
+          "hasPdfs": false,
+          "pdfCount": 0,
+          "deliverableFolders": [
+            "00 도록 원고",
+            "10.14.텍스트",
+            "10.16.텍스트",
+            "10.17.최종텍스트",
+            "10.17.텍스트",
+            "240926_원고",
+            "대전과학에술비엔날레_BI_표준매뉴얼_ver2024",
+            "쉬운 전시말_수정1",
+            "아카이브섹션"
+          ],
+          "subfolderCount": 9,
+          "suggestedSlug": "2024"
+        }
+      ]
+    }
+  ]
+}
