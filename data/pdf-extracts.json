@@ -1,0 +1,926 @@
+[
+  {
+    "org": "DTC아트센터",
+    "project": "불의숨결흙의몸짓",
+    "pdf": "불의숨결흙의몸짓_브리프_v1.0.pdf",
+    "deliverables": [],
+    "textLength": 362
+  },
+  {
+    "org": "DTC아트센터",
+    "project": "수곡 손대현",
+    "pdf": "손대현초대전_매뉴얼_v1.0.pdf",
+    "deliverables": [],
+    "textLength": 750
+  },
+  {
+    "org": "DTC아트센터",
+    "project": "시중유화 화중유시",
+    "pdf": "나태주토크쇼_매뉴얼_v1.0.pdf",
+    "deliverables": [],
+    "textLength": 272
+  },
+  {
+    "org": "DTC아트센터",
+    "project": "아름다운동행",
+    "pdf": "아름다운동행_리플렛 매뉴얼v1.pdf",
+    "deliverables": [
+      {
+        "item": "A5",
+        "spec": "148 x 210mm / 16p"
+      }
+    ],
+    "textLength": 331
+  },
+  {
+    "org": "DTC아트센터",
+    "project": "유근영개인전",
+    "pdf": "유근영초대전_매뉴얼_v1.0.pdf",
+    "deliverables": [],
+    "textLength": 181
+  },
+  {
+    "org": "DTC아트센터",
+    "project": "자연의터인간의무늬",
+    "pdf": "dtc_자연의터인간의무늬_리플렛매뉴얼.pdf",
+    "deliverables": [],
+    "textLength": 348
+  },
+  {
+    "org": "DTC아트센터",
+    "project": "한가위 달항아리",
+    "pdf": "한가위달항아리_매뉴얼_v1.0.pdf",
+    "deliverables": [],
+    "textLength": 249
+  },
+  {
+    "org": "Tpb",
+    "project": "스우",
+    "pdf": "swoo_manual02.pdf",
+    "deliverables": [],
+    "textLength": 1602
+  },
+  {
+    "org": "bok아트센터",
+    "project": "개관홍보물",
+    "pdf": "bok아트센터리플릿3종_매뉴얼001.pdf",
+    "deliverables": [
+      {
+        "item": "Cycling | 2019-11 |",
+        "spec": "15×10cm | 화선지에 먹"
+      },
+      {
+        "item": "Cycling | 2019-40 |",
+        "spec": "24×18cm | 화선지에 먹"
+      },
+      {
+        "item": "Cycling | 2019-19 |",
+        "spec": "77x103cm | 화선지에 먹"
+      },
+      {
+        "item": "Cycling | 2019-25 |",
+        "spec": "33×24cm | 화선지에 먹"
+      },
+      {
+        "item": "Cycling | 2019-13 |",
+        "spec": "34×34cm | 화선지에 먹"
+      }
+    ],
+    "textLength": 12279
+  },
+  {
+    "org": "갤러리레오",
+    "project": "여경섭개인전",
+    "pdf": "여경섭개인전_브리프v1.0.pdf",
+    "deliverables": [
+      {
+        "item": "diasec",
+        "spec": "50×50cm"
+      },
+      {
+        "item": "Lazarus를",
+        "spec": "23x16cm 종이 페이스트 미디엄을 바른"
+      },
+      {
+        "item": "횃불은 꺼지고 신상은 폭풍속으로",
+        "spec": "23x16cm 종이 페이스트 미디엄을 바른"
+      }
+    ],
+    "textLength": 64358
+  },
+  {
+    "org": "건양대학교",
+    "project": "ESG연구원 브로슈어",
+    "pdf": "ESG연구원_브로슈어매뉴얼v1.pdf",
+    "deliverables": [
+      {
+        "item": "28p /",
+        "spec": "250x180mm"
+      }
+    ],
+    "textLength": 63
+  },
+  {
+    "org": "국가기록원",
+    "project": "1층민원실",
+    "pdf": "대전기록정보센터전시공간_브리프_v1.0.pdf",
+    "deliverables": [],
+    "textLength": 1340
+  },
+  {
+    "org": "국가기록원",
+    "project": "국가기록원 에코백",
+    "pdf": "국가기록원_에코백_v3.0.pdf",
+    "deliverables": [],
+    "textLength": 565
+  },
+  {
+    "org": "국가기록원",
+    "project": "국가기록원_월그래픽",
+    "pdf": "국가기록원_조명 및 모니터 배선도.pdf",
+    "deliverables": [],
+    "textLength": 42
+  },
+  {
+    "org": "국가기술전략센터",
+    "project": "NCTS_아이덴티티",
+    "pdf": "NCTS BI_매뉴얼v1.pdf",
+    "deliverables": [],
+    "textLength": 290
+  },
+  {
+    "org": "기초과학연구원",
+    "project": "과학문화센터 배너",
+    "pdf": "과학문화센터배너_매뉴얼001.pdf",
+    "deliverables": [],
+    "textLength": 3104
+  },
+  {
+    "org": "기초과학연구원",
+    "project": "과학문화센터 사이니지",
+    "pdf": "과학문화센터_사이니지매뉴얼001.pdf",
+    "deliverables": [],
+    "textLength": 981
+  },
+  {
+    "org": "기초과학연구원",
+    "project": "아트인사이언스 과학자의눈",
+    "pdf": "아트인사이언스_공간구성001.pdf",
+    "deliverables": [],
+    "textLength": 306
+  },
+  {
+    "org": "대전MBC",
+    "project": "애들은가라",
+    "pdf": "애들은가라_레퍼런스제안서.pdf",
+    "deliverables": [],
+    "textLength": 806
+  },
+  {
+    "org": "대전광역시청",
+    "project": "대전의의료와위생",
+    "pdf": "대전의의료와위생_매뉴얼v1.pdf",
+    "deliverables": [],
+    "textLength": 3122
+  },
+  {
+    "org": "대전광역시청",
+    "project": "대전의집",
+    "pdf": "대전의집_매뉴얼v1.pdf",
+    "deliverables": [],
+    "textLength": 1289
+  },
+  {
+    "org": "대전광역시청",
+    "project": "신채호학술대회",
+    "pdf": "교차하는시선들_브리프v1.0.pdf",
+    "deliverables": [],
+    "textLength": 1702
+  },
+  {
+    "org": "대전광역시청",
+    "project": "자료수집",
+    "pdf": "대전시청자료수집_매뉴얼_v1.0.pdf",
+    "deliverables": [],
+    "textLength": 1987
+  },
+  {
+    "org": "대전선사박물관",
+    "project": "거대한돌의비밀",
+    "pdf": "거대한돌의비밀_기념품매뉴얼_v1.0.pdf",
+    "deliverables": [
+      {
+        "item": "배경지_",
+        "spec": "60×60mm"
+      }
+    ],
+    "textLength": 379
+  },
+  {
+    "org": "대전선사박물관",
+    "project": "뗀석기in용호동",
+    "pdf": "뗀석기_그리드스케치_v1.0.pdf",
+    "deliverables": [],
+    "textLength": 1
+  },
+  {
+    "org": "대전시립미술관",
+    "project": "2024비엔날레",
+    "pdf": "2024비엔날레_가로등배너매뉴얼.pdf",
+    "deliverables": [],
+    "textLength": 40
+  },
+  {
+    "org": "대전시립미술관",
+    "project": "DMA 소장품 하이라이트 2024",
+    "pdf": "DMA소장품하이라이트_매뉴얼_v1.0.pdf",
+    "deliverables": [],
+    "textLength": 270
+  },
+  {
+    "org": "대전시립미술관",
+    "project": "DMA 소장품 하이라이트 2026",
+    "pdf": "DMA소장품하이라이트26_브리프_v1.0.pdf",
+    "deliverables": [],
+    "textLength": 872
+  },
+  {
+    "org": "대전시립미술관",
+    "project": "개척자들",
+    "pdf": "개척자들_매뉴얼v1.pdf",
+    "deliverables": [],
+    "textLength": 588
+  },
+  {
+    "org": "대전시립미술관",
+    "project": "금밟고폴짝",
+    "pdf": "금밟고폴짝_도록매뉴얼_v1.0.pdf",
+    "deliverables": [],
+    "textLength": 141
+  },
+  {
+    "org": "대전시립미술관",
+    "project": "깊고깊은숲으로",
+    "pdf": "깊고깊은숲으로_브리프_v1.0.pdf",
+    "deliverables": [],
+    "textLength": 759
+  },
+  {
+    "org": "대전시립미술관",
+    "project": "딕테x러브포엠",
+    "pdf": "딕테x러브포엠_매뉴얼v1.pdf",
+    "deliverables": [],
+    "textLength": 1942
+  },
+  {
+    "org": "대전시립미술관",
+    "project": "먹의시간",
+    "pdf": "201126먹의시간_매뉴얼001.pdf",
+    "deliverables": [],
+    "textLength": 783
+  },
+  {
+    "org": "대전시립미술관",
+    "project": "미래저편에",
+    "pdf": "231031미래저편에_매뉴얼.pdf",
+    "deliverables": [],
+    "textLength": 10808
+  },
+  {
+    "org": "대전시립미술관",
+    "project": "보행자전용도로",
+    "pdf": "보행자전용도로사이니지_매뉴얼v1.pdf",
+    "deliverables": [],
+    "textLength": 132
+  },
+  {
+    "org": "대전시립미술관",
+    "project": "수요일은인디고블루",
+    "pdf": "수요일은인디고블루_도록매뉴얼v1.pdf",
+    "deliverables": [],
+    "textLength": 355
+  },
+  {
+    "org": "대전시립미술관",
+    "project": "수장고공사가림막",
+    "pdf": "개방형수장고공사가벽_매뉴얼001.pdf",
+    "deliverables": [],
+    "textLength": 15552
+  },
+  {
+    "org": "대전시립미술관",
+    "project": "야외작품보호안내사인",
+    "pdf": "야외조각작품사이니지_견적의뢰.pdf",
+    "deliverables": [],
+    "textLength": 302
+  },
+  {
+    "org": "대전시립미술관",
+    "project": "열린수장고23.3.개편",
+    "pdf": "열린수장고_전시장사인물매뉴얼v1.pdf",
+    "deliverables": [
+      {
+        "item": "도입부 글",
+        "spec": "2850x900 / 연표 5590x2040mm / 시트컷팅 HS1703 / 검정포맥스 3T 위 실사출력 부착"
+      },
+      {
+        "item": "연표",
+        "spec": "5590x2040mm / 시트컷팅 HS1703 / 검정포맥스 3T 위 실사출력 부착"
+      }
+    ],
+    "textLength": 12014
+  },
+  {
+    "org": "대전시립미술관",
+    "project": "열린수장고개관전도록",
+    "pdf": "열린수장고도록_매뉴얼v1.pdf",
+    "deliverables": [],
+    "textLength": 201
+  },
+  {
+    "org": "대전시립미술관",
+    "project": "열린수장고사이니지",
+    "pdf": "열린수장고_관람안내v1.pdf",
+    "deliverables": [],
+    "textLength": 928
+  },
+  {
+    "org": "대전시립미술관",
+    "project": "우리는달린다WWW",
+    "pdf": "우리는달린다WWW_매뉴얼v2.pdf",
+    "deliverables": [],
+    "textLength": 701
+  },
+  {
+    "org": "대전시립미술관",
+    "project": "조각공간퍼즐",
+    "pdf": "조각공간퍼즐_도록매뉴얼v1.pdf",
+    "deliverables": [],
+    "textLength": 109
+  },
+  {
+    "org": "대전시립미술관",
+    "project": "초록으로 간다",
+    "pdf": "초록으로간다_매뉴얼v1.pdf",
+    "deliverables": [],
+    "textLength": 394
+  },
+  {
+    "org": "대전시립미술관",
+    "project": "파노라마",
+    "pdf": "파노라마,DMA소장품하이라이트_사인물등매뉴얼_v2.0.pdf",
+    "deliverables": [],
+    "textLength": 11256
+  },
+  {
+    "org": "대전시립미술관",
+    "project": "페르소나",
+    "pdf": "페르소나_도록표지매뉴얼v1.pdf",
+    "deliverables": [],
+    "textLength": 189
+  },
+  {
+    "org": "대전시립박물관",
+    "project": "꿈생원의 육아일기",
+    "pdf": "꿈생원의육아일기_브리프_v1.0.pdf",
+    "deliverables": [],
+    "textLength": 4443
+  },
+  {
+    "org": "대전시립박물관",
+    "project": "마이리틀뮤지엄",
+    "pdf": "2020마이리틀뮤지엄_매뉴얼001.pdf",
+    "deliverables": [],
+    "textLength": 36
+  },
+  {
+    "org": "대전시립박물관",
+    "project": "선비, 난세를 살다",
+    "pdf": "선비난세를살다_매뉴얼v1.pdf",
+    "deliverables": [],
+    "textLength": 461
+  },
+  {
+    "org": "대전시립박물관",
+    "project": "학술총서10",
+    "pdf": "창원유씨기증유물_매뉴얼_v1.0.pdf",
+    "deliverables": [],
+    "textLength": 48
+  },
+  {
+    "org": "대전시립박물관",
+    "project": "한국전쟁과대전",
+    "pdf": "한국전쟁과대전_도록cover매뉴얼.pdf",
+    "deliverables": [
+      {
+        "item": "cover",
+        "spec": "185×245mm / 앤틱블랙 230g / 안료박(노랑)"
+      }
+    ],
+    "textLength": 230
+  },
+  {
+    "org": "대전시립연정국악단",
+    "project": "2024겨울락콘서트",
+    "pdf": "겨울락콘서트_가로등배너매뉴얼_v1.0.pdf",
+    "deliverables": [],
+    "textLength": 250
+  },
+  {
+    "org": "대전시립연정국악단",
+    "project": "2025겨울락콘서트",
+    "pdf": "2025겨울樂콘서트_브리프v1.0.pdf",
+    "deliverables": [],
+    "textLength": 896
+  },
+  {
+    "org": "대전시립연정국악단",
+    "project": "겨울락콘서트",
+    "pdf": "겨울락콘서트_매뉴얼v1.pdf",
+    "deliverables": [],
+    "textLength": 950
+  },
+  {
+    "org": "대전시립연정국악단",
+    "project": "민요하다",
+    "pdf": "민요하다_매뉴얼v1.pdf",
+    "deliverables": [],
+    "textLength": 1100
+  },
+  {
+    "org": "대전시립연정국악단",
+    "project": "송년음악회",
+    "pdf": "송년음악회_매뉴얼.pdf",
+    "deliverables": [],
+    "textLength": 892
+  },
+  {
+    "org": "대전예술의전당",
+    "project": "2020그랜드시즌",
+    "pdf": "2020그랜드시즌_가로등배너매뉴얼001.pdf",
+    "deliverables": [],
+    "textLength": 4779
+  },
+  {
+    "org": "대전예술의전당",
+    "project": "2020그랜드시즌_하반기",
+    "pdf": "2020하반기라인업_포토존매뉴얼.pdf",
+    "deliverables": [],
+    "textLength": 7356
+  },
+  {
+    "org": "대전예술의전당",
+    "project": "2021그랜드시즌",
+    "pdf": "2021그랜드시즌_매뉴얼001.pdf",
+    "deliverables": [],
+    "textLength": 2993
+  },
+  {
+    "org": "대전예술의전당",
+    "project": "2022 그랜드시즌",
+    "pdf": "2022그랜드시즌_매뉴얼v1.pdf",
+    "deliverables": [],
+    "textLength": 2178
+  },
+  {
+    "org": "대전예술의전당",
+    "project": "2022 썸머뉴아티스트 콘서트",
+    "pdf": "2022썸머뉴아티스트_매뉴얼v1.pdf",
+    "deliverables": [],
+    "textLength": 346
+  },
+  {
+    "org": "대전예술의전당",
+    "project": "2022회원음악회",
+    "pdf": "2022회원음악회_매뉴얼v1.pdf",
+    "deliverables": [],
+    "textLength": 1056
+  },
+  {
+    "org": "대전예술의전당",
+    "project": "2023 시즌",
+    "pdf": "대전예당23시즌_매뉴얼v1.pdf",
+    "deliverables": [],
+    "textLength": 2794
+  },
+  {
+    "org": "대전예술의전당",
+    "project": "2024 스프링페스티벌",
+    "pdf": "24스프링페스티벌_매뉴얼_v1.0.pdf",
+    "deliverables": [],
+    "textLength": 1860
+  },
+  {
+    "org": "대전예술의전당",
+    "project": "2024 시즌",
+    "pdf": "2024시즌_매뉴얼v1.pdf",
+    "deliverables": [],
+    "textLength": 2765
+  },
+  {
+    "org": "대전예술의전당",
+    "project": "2025 시즌",
+    "pdf": "AAPPAC열주기둥_매뉴얼_v1.0.pdf",
+    "deliverables": [],
+    "textLength": 511
+  },
+  {
+    "org": "대전예술의전당",
+    "project": "2026 시즌",
+    "pdf": "대전예당2026시즌_브리프v1.0.pdf",
+    "deliverables": [],
+    "textLength": 9217
+  },
+  {
+    "org": "대전예술의전당",
+    "project": "AAPPAC",
+    "pdf": "AAPPAC2025_매뉴얼_v1.0.pdf",
+    "deliverables": [],
+    "textLength": 725
+  },
+  {
+    "org": "대전예술의전당",
+    "project": "NDT2",
+    "pdf": "NDT2_매뉴얼v1.pdf",
+    "deliverables": [
+      {
+        "item": "인도면",
+        "spec": "2500×500mm 차도면 2700×1000mm"
+      }
+    ],
+    "textLength": 1411
+  },
+  {
+    "org": "대전예술의전당",
+    "project": "NT live",
+    "pdf": "NTLive시라노드베르주라크_매뉴얼v1.pdf",
+    "deliverables": [],
+    "textLength": 1182
+  },
+  {
+    "org": "대전예술의전당",
+    "project": "No.5",
+    "pdf": "No5포스터_매뉴얼001.pdf",
+    "deliverables": [],
+    "textLength": 1867
+  },
+  {
+    "org": "대전예술의전당",
+    "project": "내가가면그게길이지",
+    "pdf": "내가가면그게길이지_매뉴얼v1.pdf",
+    "deliverables": [],
+    "textLength": 594
+  },
+  {
+    "org": "대전예술의전당",
+    "project": "동양극장2021",
+    "pdf": "동양극장2021_리플렛매뉴얼v1.pdf",
+    "deliverables": [],
+    "textLength": 10674
+  },
+  {
+    "org": "대전예술의전당",
+    "project": "로맨틱파트너스콘서트",
+    "pdf": "로맨틱파트너스콘서트_매뉴얼v1.pdf",
+    "deliverables": [],
+    "textLength": 1210
+  },
+  {
+    "org": "대전예술의전당",
+    "project": "베토벤 아벤트",
+    "pdf": "베토벤아벤트리플릿_매뉴얼001.pdf",
+    "deliverables": [],
+    "textLength": 2847
+  },
+  {
+    "org": "대전예술의전당",
+    "project": "스노우쇼",
+    "pdf": "스노우쇼_리플렛,엽서매뉴얼v1.pdf",
+    "deliverables": [],
+    "textLength": 8408
+  },
+  {
+    "org": "대전예술의전당",
+    "project": "스프링페스티벌",
+    "pdf": "스프링페스티벌_개별포스터매뉴얼001.pdf",
+    "deliverables": [],
+    "textLength": 2070
+  },
+  {
+    "org": "대전예술의전당",
+    "project": "아크람칸 정글북",
+    "pdf": "정글북_매뉴얼v1.pdf",
+    "deliverables": [],
+    "textLength": 3249
+  },
+  {
+    "org": "대전예술의전당",
+    "project": "야외패널디자인",
+    "pdf": "대전예당야외패널3차_매뉴얼_v1.0.pdf",
+    "deliverables": [],
+    "textLength": 972
+  },
+  {
+    "org": "대전예술의전당",
+    "project": "운명의 힘 재공연",
+    "pdf": "운명의힘_매뉴얼_v1.0.pdf",
+    "deliverables": [],
+    "textLength": 1434
+  },
+  {
+    "org": "대전예술의전당",
+    "project": "잠들기전심야극장",
+    "pdf": "잠들기전심야극장_가로등 배너 매뉴얼v1.pdf",
+    "deliverables": [],
+    "textLength": 337
+  },
+  {
+    "org": "대전예술의전당",
+    "project": "제작연극 결혼",
+    "pdf": "부산문화회관_제작연극결혼리플릿_매뉴얼001.pdf",
+    "deliverables": [],
+    "textLength": 2389
+  },
+  {
+    "org": "대전예술의전당",
+    "project": "제작연극 멋진신세계",
+    "pdf": "멋진신세계_리플렛매뉴얼v1.pdf",
+    "deliverables": [],
+    "textLength": 213
+  },
+  {
+    "org": "대전예술의전당",
+    "project": "제작연극 파우스트",
+    "pdf": "파우스트_매뉴얼v1.pdf",
+    "deliverables": [],
+    "textLength": 1145
+  },
+  {
+    "org": "대전예술의전당",
+    "project": "제작오페라 토스카",
+    "pdf": "제작오페라토스카_매뉴얼v1.pdf",
+    "deliverables": [],
+    "textLength": 1301
+  },
+  {
+    "org": "대전예술의전당",
+    "project": "토스카 갈라콘서트",
+    "pdf": "토스카갈라콘서트_매뉴얼001.pdf",
+    "deliverables": [],
+    "textLength": 1793
+  },
+  {
+    "org": "대전예술의전당",
+    "project": "하얀산",
+    "pdf": "하얀산_매뉴얼v1.pdf",
+    "deliverables": [],
+    "textLength": 469
+  },
+  {
+    "org": "대전예술의전당",
+    "project": "하우스콘서트",
+    "pdf": "하우스콘서트_매뉴얼v1.pdf",
+    "deliverables": [],
+    "textLength": 1364
+  },
+  {
+    "org": "대전예술의전당",
+    "project": "해피버스데이위크",
+    "pdf": "개관20주년_버스매뉴얼v1.pdf",
+    "deliverables": [],
+    "textLength": 593
+  },
+  {
+    "org": "대전전통나래관",
+    "project": "사라지지않는보물",
+    "pdf": "빔프로젝터설치위치.pdf",
+    "deliverables": [],
+    "textLength": 273
+  },
+  {
+    "org": "박은영작가",
+    "project": "색과단어들",
+    "pdf": "색과단어들_도록v2.0.pdf",
+    "deliverables": [],
+    "textLength": 2057
+  },
+  {
+    "org": "박혜경작가",
+    "project": "소리없이다가온것들의진술",
+    "pdf": "박혜경개인전_엽서_매뉴얼001.pdf",
+    "deliverables": [],
+    "textLength": 215
+  },
+  {
+    "org": "신중덕교수님",
+    "project": "2024개인전",
+    "pdf": "신중덕교수님만화경_매뉴얼_v1.0.pdf",
+    "deliverables": [],
+    "textLength": 85
+  },
+  {
+    "org": "애니토마토",
+    "project": "2024애니토마토캘린더",
+    "pdf": "2024애니토마토캘린더.pdf",
+    "deliverables": [],
+    "textLength": 2859
+  },
+  {
+    "org": "애니토마토",
+    "project": "2026애니토마토캘린더",
+    "pdf": "2026애니토마토일력_브리프v1.0.pdf",
+    "deliverables": [],
+    "textLength": 1376
+  },
+  {
+    "org": "얼룩",
+    "project": "err.look vol0",
+    "pdf": "err.look_manual001.pdf",
+    "deliverables": [],
+    "textLength": 2312
+  },
+  {
+    "org": "얼룩",
+    "project": "err.look vol1",
+    "pdf": "errlook1호_cover매뉴얼v1.pdf",
+    "deliverables": [],
+    "textLength": 520
+  },
+  {
+    "org": "이응노미술관",
+    "project": "국제심포지엄",
+    "pdf": "이응노미술관국제심포지엄_매뉴얼004.pdf",
+    "deliverables": [],
+    "textLength": 2291
+  },
+  {
+    "org": "이응노미술관",
+    "project": "밤에해가있는곳",
+    "pdf": "밤에해가있는곳_매뉴얼A-1.pdf",
+    "deliverables": [],
+    "textLength": 474
+  },
+  {
+    "org": "이응노미술관",
+    "project": "종이로 그린 그림",
+    "pdf": "이응노,종이로그린그림_매뉴얼001.pdf",
+    "deliverables": [],
+    "textLength": 465
+  },
+  {
+    "org": "이응노의집",
+    "project": "고암미술상",
+    "pdf": "고암미술상작가공모_매뉴얼001.pdf",
+    "deliverables": [],
+    "textLength": 1259
+  },
+  {
+    "org": "이응노의집",
+    "project": "고암의춤",
+    "pdf": "고암의춤_매뉴얼v1.pdf",
+    "deliverables": [],
+    "textLength": 284
+  },
+  {
+    "org": "이응노의집",
+    "project": "고암이응노아카이브",
+    "pdf": "아카이브_매뉴얼v1.pdf",
+    "deliverables": [],
+    "textLength": 133
+  },
+  {
+    "org": "이응노의집",
+    "project": "고암이응노에게경의를 작품공모",
+    "pdf": "고암이응노에게경의를_매뉴얼v1.pdf",
+    "deliverables": [],
+    "textLength": 89
+  },
+  {
+    "org": "이응노의집",
+    "project": "고암이응노의 소모와사생",
+    "pdf": "이응노의소묘와사생_전시장매뉴얼001.pdf",
+    "deliverables": [],
+    "textLength": 1261
+  },
+  {
+    "org": "이응노의집",
+    "project": "말과글뜻과몸짓",
+    "pdf": "말과글뜻과몸짓_매뉴얼001.pdf",
+    "deliverables": [],
+    "textLength": 621
+  },
+  {
+    "org": "이응노의집",
+    "project": "역대고암미술상 수상작가전",
+    "pdf": "고암의예술정신이란_내부사인물.pdf",
+    "deliverables": [],
+    "textLength": 6725
+  },
+  {
+    "org": "이종우",
+    "project": "고목발영",
+    "pdf": "고목발영_매뉴얼_v1.0.pdf",
+    "deliverables": [],
+    "textLength": 8828
+  },
+  {
+    "org": "자체프로젝트",
+    "project": "마숑",
+    "pdf": "230310마숑_패키지.pdf",
+    "deliverables": [],
+    "textLength": 1541
+  },
+  {
+    "org": "충청남도청",
+    "project": "충청남도청열린미술관포럼",
+    "pdf": "충청남도청포럼_매뉴얼001.pdf",
+    "deliverables": [],
+    "textLength": 1859
+  },
+  {
+    "org": "코리아투모로우",
+    "project": "탁상달력",
+    "pdf": "코리아투모로우캘린더시안_최종.pdf",
+    "deliverables": [],
+    "textLength": 103
+  },
+  {
+    "org": "한국에너지기술연구원",
+    "project": "eTIP,STED",
+    "pdf": "eTIP,STED BI_매뉴얼v1.pdf",
+    "deliverables": [],
+    "textLength": 506
+  },
+  {
+    "org": "한국화학연구원",
+    "project": "콜드체인안심스티커",
+    "pdf": "콜드체인안심스티커_매뉴얼001.pdf",
+    "deliverables": [],
+    "textLength": 1517
+  },
+  {
+    "org": "한밭도서관",
+    "project": "전자자료이용안내서",
+    "pdf": "한밭도서관전자자료_매뉴얼_v1.0.pdf",
+    "deliverables": [],
+    "textLength": 229
+  },
+  {
+    "org": "대전시립미술관",
+    "project": "대전비엔날레2022",
+    "pdf": "대전비엔날레2022_TJB전시장사인물v1.pdf",
+    "deliverables": [],
+    "textLength": 11486
+  },
+  {
+    "org": "대전시립미술관",
+    "project": "트라우마",
+    "pdf": "트라우마_매뉴얼v1.pdf",
+    "deliverables": [],
+    "textLength": 1125
+  },
+  {
+    "org": "대전시립박물관",
+    "project": "쏜살탐험대",
+    "pdf": "쏜살탐험대_공간그래픽매뉴얼v1.pdf",
+    "deliverables": [],
+    "textLength": 3695
+  },
+  {
+    "org": "대전시립박물관",
+    "project": "역사특별전",
+    "pdf": "역사특별전_매뉴얼v1.pdf",
+    "deliverables": [],
+    "textLength": 169
+  },
+  {
+    "org": "문화체육관광부",
+    "project": "문체부2026캘린더",
+    "pdf": "1002_문체부2026캘린더_제안서용.pdf",
+    "deliverables": [
+      {
+        "item": "규격(가로×세로) :",
+        "spec": "180×250mm"
+      },
+      {
+        "item": "펼침 규격",
+        "spec": "180×500mm 용지를 중앙 접지하여, 접었을 때의 규격이 180×250mm가 되도록 제작"
+      }
+    ],
+    "textLength": 731
+  },
+  {
+    "org": "문화체육관광부",
+    "project": "문체부2027캘린더",
+    "pdf": "문체부2027해외홍보달력_예정공정표.pdf",
+    "deliverables": [],
+    "textLength": 585
+  },
+  {
+    "org": "해외문화홍보원",
+    "project": "세계인들이말하는김치",
+    "pdf": "세계인들이말하는김치_cover.pdf",
+    "deliverables": [],
+    "textLength": 1
+  }
+]
