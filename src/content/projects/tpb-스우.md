@@ -32,13 +32,3 @@ credits:
   client: 'Tpb'
 # source: T1/Tpb/스우
 ---
-
-![tpb-스우](/images/projects/tpb-스우/01-page.jpg)
-
-![tpb-스우](/images/projects/tpb-스우/02-page.jpg)
-
-![tpb-스우](/images/projects/tpb-스우/03-page.jpg)
-
-![tpb-스우](/images/projects/tpb-스우/04-page.jpg)
-
-![tpb-스우](/images/projects/tpb-스우/05-page.jpg)

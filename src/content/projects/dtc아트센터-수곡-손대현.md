@@ -24,9 +24,3 @@ credits:
   client: 'DTC아트센터'
 # source: T1/DTC아트센터/수곡 손대현
 ---
-
-![dtc아트센터-수곡-손대현](/images/projects/dtc아트센터-수곡-손대현/01-page.jpg)
-
-![dtc아트센터-수곡-손대현](/images/projects/dtc아트센터-수곡-손대현/02-page.jpg)
-
-![dtc아트센터-수곡-손대현](/images/projects/dtc아트센터-수곡-손대현/03-page.jpg)

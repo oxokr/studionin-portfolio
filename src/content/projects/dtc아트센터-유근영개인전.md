@@ -24,11 +24,3 @@ credits:
   client: 'DTC아트센터'
 # source: T1/DTC아트센터/유근영개인전
 ---
-
-![dtc아트센터-유근영개인전](/images/projects/dtc아트센터-유근영개인전/01-page.jpg)
-
-![dtc아트센터-유근영개인전](/images/projects/dtc아트센터-유근영개인전/02-page.jpg)
-
-![dtc아트센터-유근영개인전](/images/projects/dtc아트센터-유근영개인전/03-page.jpg)
-
-![dtc아트센터-유근영개인전](/images/projects/dtc아트센터-유근영개인전/04-page.jpg)

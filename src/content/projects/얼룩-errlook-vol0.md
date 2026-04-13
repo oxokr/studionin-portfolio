@@ -9,8 +9,8 @@ sector: 'self-initiated'
 type:
   - 'editorial'
   - 'exhibition'
-thumbnail: '/images/projects/얼룩-errlook-vol0/thumbnail.jpg'
-heroImage: '/images/projects/얼룩-errlook-vol0/hero.jpg'
+thumbnail: './얼룩-errlook-vol0/images/thumbnail.jpg'
+heroImage: './얼룩-errlook-vol0/images/hero.jpg'
 heroLayout: 'content-width'
 sortOrder: 50
 collaboration: 'solo'
@@ -31,4 +31,20 @@ credits:
 # source: T1/얼룩/err.look vol0
 ---
 
+![얼룩-errlook-vol0](./얼룩-errlook-vol0/images/01-page.jpg)
 
+![얼룩-errlook-vol0](./얼룩-errlook-vol0/images/02-page.jpg)
+
+![얼룩-errlook-vol0](./얼룩-errlook-vol0/images/03-page.jpg)
+
+![얼룩-errlook-vol0](./얼룩-errlook-vol0/images/04-page.jpg)
+
+![얼룩-errlook-vol0](./얼룩-errlook-vol0/images/05-page.jpg)
+
+![얼룩-errlook-vol0](./얼룩-errlook-vol0/images/06-page.jpg)
+
+![얼룩-errlook-vol0](./얼룩-errlook-vol0/images/07-page.jpg)
+
+![얼룩-errlook-vol0](./얼룩-errlook-vol0/images/08-page.jpg)
+
+![얼룩-errlook-vol0](./얼룩-errlook-vol0/images/09-page.jpg)

@@ -8,8 +8,8 @@ organizationEn: ''
 sector: 'public'
 type:
   - 'identity'
-thumbnail: '/images/projects/한국에너지기술연구원-etipsted/thumbnail.jpg'
-heroImage: '/images/projects/한국에너지기술연구원-etipsted/hero.jpg'
+thumbnail: './한국에너지기술연구원-etipsted/images/thumbnail.jpg'
+heroImage: './한국에너지기술연구원-etipsted/images/hero.jpg'
 heroLayout: 'content-width'
 sortOrder: 50
 collaboration: 'solo'
@@ -27,8 +27,16 @@ credits:
 # source: T1/한국에너지기술연구원/eTIP,STED
 ---
 
-![한국에너지기술연구원-etipsted](/images/projects/한국에너지기술연구원-etipsted/01-page.jpg)
+![한국에너지기술연구원-etipsted](./한국에너지기술연구원-etipsted/images/01-page.jpg)
 
-![한국에너지기술연구원-etipsted](/images/projects/한국에너지기술연구원-etipsted/02-page.jpg)
+![한국에너지기술연구원-etipsted](./한국에너지기술연구원-etipsted/images/02-page.jpg)
 
-![한국에너지기술연구원-etipsted](/images/projects/한국에너지기술연구원-etipsted/03-page.jpg)
+![한국에너지기술연구원-etipsted](./한국에너지기술연구원-etipsted/images/03-page.jpg)
+
+![한국에너지기술연구원-etipsted](./한국에너지기술연구원-etipsted/images/04-page.jpg)
+
+![한국에너지기술연구원-etipsted](./한국에너지기술연구원-etipsted/images/05-page.jpg)
+
+![한국에너지기술연구원-etipsted](./한국에너지기술연구원-etipsted/images/06-page.jpg)
+
+![한국에너지기술연구원-etipsted](./한국에너지기술연구원-etipsted/images/07-page.jpg)

@@ -25,19 +25,3 @@ credits:
   client: '국가기술전략센터'
 # source: T1/국가기술전략센터/NCTS_아이덴티티
 ---
-
-![국가기술전략센터-ncts_아이덴티티](/images/projects/국가기술전략센터-ncts_아이덴티티/01-page.jpg)
-
-![국가기술전략센터-ncts_아이덴티티](/images/projects/국가기술전략센터-ncts_아이덴티티/02-page.jpg)
-
-![국가기술전략센터-ncts_아이덴티티](/images/projects/국가기술전략센터-ncts_아이덴티티/03-page.jpg)
-
-![국가기술전략센터-ncts_아이덴티티](/images/projects/국가기술전략센터-ncts_아이덴티티/04-page.jpg)
-
-![국가기술전략센터-ncts_아이덴티티](/images/projects/국가기술전략센터-ncts_아이덴티티/05-page.jpg)
-
-![국가기술전략센터-ncts_아이덴티티](/images/projects/국가기술전략센터-ncts_아이덴티티/06-page.jpg)
-
-![국가기술전략센터-ncts_아이덴티티](/images/projects/국가기술전략센터-ncts_아이덴티티/07-page.jpg)
-
-![국가기술전략센터-ncts_아이덴티티](/images/projects/국가기술전략센터-ncts_아이덴티티/08-page.jpg)

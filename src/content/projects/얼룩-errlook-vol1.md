@@ -29,32 +29,12 @@ credits:
 # source: T1/얼룩/err.look vol1
 ---
 
-![얼룩-errlook-vol1](/images/projects/얼룩-errlook-vol1/01-page.jpg)
+![얼룩-errlook-vol1](./얼룩-errlook-vol1/images/01-page.jpg)
 
-![얼룩-errlook-vol1](/images/projects/얼룩-errlook-vol1/02-page.jpg)
+![얼룩-errlook-vol1](./얼룩-errlook-vol1/images/02-page.jpg)
 
-![얼룩-errlook-vol1](/images/projects/얼룩-errlook-vol1/03-page.jpg)
+![얼룩-errlook-vol1](./얼룩-errlook-vol1/images/03-page.jpg)
 
-![얼룩-errlook-vol1](/images/projects/얼룩-errlook-vol1/04-page.jpg)
+![얼룩-errlook-vol1](./얼룩-errlook-vol1/images/04-page.jpg)
 
-![얼룩-errlook-vol1](/images/projects/얼룩-errlook-vol1/05-page.jpg)
-
-![얼룩-errlook-vol1](/images/projects/얼룩-errlook-vol1/06-page.jpg)
-
-![얼룩-errlook-vol1](/images/projects/얼룩-errlook-vol1/07-page.jpg)
-
-![얼룩-errlook-vol1](/images/projects/얼룩-errlook-vol1/08-page.jpg)
-
-![얼룩-errlook-vol1](/images/projects/얼룩-errlook-vol1/09-page.jpg)
-
-![얼룩-errlook-vol1](/images/projects/얼룩-errlook-vol1/10-page.jpg)
-
-![얼룩-errlook-vol1](/images/projects/얼룩-errlook-vol1/11-page.jpg)
-
-![얼룩-errlook-vol1](/images/projects/얼룩-errlook-vol1/12-page.jpg)
-
-![얼룩-errlook-vol1](/images/projects/얼룩-errlook-vol1/13-page.jpg)
-
-![얼룩-errlook-vol1](/images/projects/얼룩-errlook-vol1/14-page.jpg)
-
-![얼룩-errlook-vol1](/images/projects/얼룩-errlook-vol1/15-page.jpg)
+![얼룩-errlook-vol1](./얼룩-errlook-vol1/images/05-page.jpg)
