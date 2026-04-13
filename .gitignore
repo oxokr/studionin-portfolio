@@ -21,7 +21,6 @@ pnpm-debug.log*
 .DS_Store
 
 # extracted images (too large for git, managed locally)
-src/content/projects/*/images/
 
 # jetbrains setting folder
 .idea/
