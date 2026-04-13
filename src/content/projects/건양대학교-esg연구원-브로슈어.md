@@ -34,5 +34,3 @@ credits:
 ![건양대학교-esg연구원-브로슈어](/images/projects/건양대학교-esg연구원-브로슈어/03-page.jpg)
 
 ![건양대학교-esg연구원-브로슈어](/images/projects/건양대학교-esg연구원-브로슈어/04-page.jpg)
-
-![건양대학교-esg연구원-브로슈어](/images/projects/건양대학교-esg연구원-브로슈어/05-page.jpg)

@@ -31,32 +31,4 @@ credits:
 # source: T1/얼룩/err.look vol0
 ---
 
-![얼룩-errlook-vol0](/images/projects/얼룩-errlook-vol0/01-page.jpg)
 
-![얼룩-errlook-vol0](/images/projects/얼룩-errlook-vol0/02-page.jpg)
-
-![얼룩-errlook-vol0](/images/projects/얼룩-errlook-vol0/03-page.jpg)
-
-![얼룩-errlook-vol0](/images/projects/얼룩-errlook-vol0/04-page.jpg)
-
-![얼룩-errlook-vol0](/images/projects/얼룩-errlook-vol0/05-page.jpg)
-
-![얼룩-errlook-vol0](/images/projects/얼룩-errlook-vol0/06-page.jpg)
-
-![얼룩-errlook-vol0](/images/projects/얼룩-errlook-vol0/07-page.jpg)
-
-![얼룩-errlook-vol0](/images/projects/얼룩-errlook-vol0/08-page.jpg)
-
-![얼룩-errlook-vol0](/images/projects/얼룩-errlook-vol0/09-page.jpg)
-
-![얼룩-errlook-vol0](/images/projects/얼룩-errlook-vol0/10-page.jpg)
-
-![얼룩-errlook-vol0](/images/projects/얼룩-errlook-vol0/11-page.jpg)
-
-![얼룩-errlook-vol0](/images/projects/얼룩-errlook-vol0/12-page.jpg)
-
-![얼룩-errlook-vol0](/images/projects/얼룩-errlook-vol0/13-page.jpg)
-
-![얼룩-errlook-vol0](/images/projects/얼룩-errlook-vol0/14-page.jpg)
-
-![얼룩-errlook-vol0](/images/projects/얼룩-errlook-vol0/15-page.jpg)

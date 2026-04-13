@@ -50,3 +50,11 @@ credits:
 ![대전예술의전당-ndt2](/images/projects/대전예술의전당-ndt2/10-page.jpg)
 
 ![대전예술의전당-ndt2](/images/projects/대전예술의전당-ndt2/11-page.jpg)
+
+![대전예술의전당-ndt2](/images/projects/대전예술의전당-ndt2/12-page.jpg)
+
+![대전예술의전당-ndt2](/images/projects/대전예술의전당-ndt2/13-page.jpg)
+
+![대전예술의전당-ndt2](/images/projects/대전예술의전당-ndt2/14-page.jpg)
+
+![대전예술의전당-ndt2](/images/projects/대전예술의전당-ndt2/15-page.jpg)

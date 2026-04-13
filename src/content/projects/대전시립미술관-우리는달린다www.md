@@ -53,3 +53,11 @@ credits:
 ![대전시립미술관-우리는달린다www](/images/projects/대전시립미술관-우리는달린다www/10-page.jpg)
 
 ![대전시립미술관-우리는달린다www](/images/projects/대전시립미술관-우리는달린다www/11-page.jpg)
+
+![대전시립미술관-우리는달린다www](/images/projects/대전시립미술관-우리는달린다www/12-page.jpg)
+
+![대전시립미술관-우리는달린다www](/images/projects/대전시립미술관-우리는달린다www/13-page.jpg)
+
+![대전시립미술관-우리는달린다www](/images/projects/대전시립미술관-우리는달린다www/14-page.jpg)
+
+![대전시립미술관-우리는달린다www](/images/projects/대전시립미술관-우리는달린다www/15-page.jpg)

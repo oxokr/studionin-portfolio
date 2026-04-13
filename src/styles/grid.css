@@ -234,15 +234,16 @@
 
 .gallery p {
   margin: 0;
+  max-width: none;
 }
 
 .gallery p + p {
-  margin-top: var(--space-4);
+  margin-top: var(--space-3);
 }
 
 @media (min-width: 768px) {
   .gallery p + p {
-    margin-top: var(--space-6);
+    margin-top: var(--space-4);
   }
 }
 

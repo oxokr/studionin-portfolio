@@ -40,3 +40,17 @@ credits:
 ![대전mbc-애들은가라](/images/projects/대전mbc-애들은가라/07-page.jpg)
 
 ![대전mbc-애들은가라](/images/projects/대전mbc-애들은가라/08-page.jpg)
+
+![대전mbc-애들은가라](/images/projects/대전mbc-애들은가라/09-page.jpg)
+
+![대전mbc-애들은가라](/images/projects/대전mbc-애들은가라/10-page.jpg)
+
+![대전mbc-애들은가라](/images/projects/대전mbc-애들은가라/11-page.jpg)
+
+![대전mbc-애들은가라](/images/projects/대전mbc-애들은가라/12-page.jpg)
+
+![대전mbc-애들은가라](/images/projects/대전mbc-애들은가라/13-page.jpg)
+
+![대전mbc-애들은가라](/images/projects/대전mbc-애들은가라/14-page.jpg)
+
+![대전mbc-애들은가라](/images/projects/대전mbc-애들은가라/15-page.jpg)

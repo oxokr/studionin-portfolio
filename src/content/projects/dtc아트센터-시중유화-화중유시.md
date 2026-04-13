@@ -45,3 +45,19 @@ credits:
 ![dtc아트센터-시중유화-화중유시](/images/projects/dtc아트센터-시중유화-화중유시/06-page.jpg)
 
 ![dtc아트센터-시중유화-화중유시](/images/projects/dtc아트센터-시중유화-화중유시/07-page.jpg)
+
+![dtc아트센터-시중유화-화중유시](/images/projects/dtc아트센터-시중유화-화중유시/08-page.jpg)
+
+![dtc아트센터-시중유화-화중유시](/images/projects/dtc아트센터-시중유화-화중유시/09-page.jpg)
+
+![dtc아트센터-시중유화-화중유시](/images/projects/dtc아트센터-시중유화-화중유시/10-page.jpg)
+
+![dtc아트센터-시중유화-화중유시](/images/projects/dtc아트센터-시중유화-화중유시/11-page.jpg)
+
+![dtc아트센터-시중유화-화중유시](/images/projects/dtc아트센터-시중유화-화중유시/12-page.jpg)
+
+![dtc아트센터-시중유화-화중유시](/images/projects/dtc아트센터-시중유화-화중유시/13-page.jpg)
+
+![dtc아트센터-시중유화-화중유시](/images/projects/dtc아트센터-시중유화-화중유시/14-page.jpg)
+
+![dtc아트센터-시중유화-화중유시](/images/projects/dtc아트센터-시중유화-화중유시/15-page.jpg)

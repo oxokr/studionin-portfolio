@@ -38,3 +38,19 @@ credits:
 ![dtc아트센터-불의숨결흙의몸짓](/images/projects/dtc아트센터-불의숨결흙의몸짓/06-page.jpg)
 
 ![dtc아트센터-불의숨결흙의몸짓](/images/projects/dtc아트센터-불의숨결흙의몸짓/07-page.jpg)
+
+![dtc아트센터-불의숨결흙의몸짓](/images/projects/dtc아트센터-불의숨결흙의몸짓/08-page.jpg)
+
+![dtc아트센터-불의숨결흙의몸짓](/images/projects/dtc아트센터-불의숨결흙의몸짓/09-page.jpg)
+
+![dtc아트센터-불의숨결흙의몸짓](/images/projects/dtc아트센터-불의숨결흙의몸짓/10-page.jpg)
+
+![dtc아트센터-불의숨결흙의몸짓](/images/projects/dtc아트센터-불의숨결흙의몸짓/11-page.jpg)
+
+![dtc아트센터-불의숨결흙의몸짓](/images/projects/dtc아트센터-불의숨결흙의몸짓/12-page.jpg)
+
+![dtc아트센터-불의숨결흙의몸짓](/images/projects/dtc아트센터-불의숨결흙의몸짓/13-page.jpg)
+
+![dtc아트센터-불의숨결흙의몸짓](/images/projects/dtc아트센터-불의숨결흙의몸짓/14-page.jpg)
+
+![dtc아트센터-불의숨결흙의몸짓](/images/projects/dtc아트센터-불의숨결흙의몸짓/15-page.jpg)

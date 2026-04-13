@@ -41,15 +41,3 @@ credits:
 ![국가기술전략센터-ncts_아이덴티티](/images/projects/국가기술전략센터-ncts_아이덴티티/07-page.jpg)
 
 ![국가기술전략센터-ncts_아이덴티티](/images/projects/국가기술전략센터-ncts_아이덴티티/08-page.jpg)
-
-![국가기술전략센터-ncts_아이덴티티](/images/projects/국가기술전략센터-ncts_아이덴티티/09-page.jpg)
-
-![국가기술전략센터-ncts_아이덴티티](/images/projects/국가기술전략센터-ncts_아이덴티티/10-page.jpg)
-
-![국가기술전략센터-ncts_아이덴티티](/images/projects/국가기술전략센터-ncts_아이덴티티/11-page.jpg)
-
-![국가기술전략센터-ncts_아이덴티티](/images/projects/국가기술전략센터-ncts_아이덴티티/12-page.jpg)
-
-![국가기술전략센터-ncts_아이덴티티](/images/projects/국가기술전략센터-ncts_아이덴티티/13-page.jpg)
-
-![국가기술전략센터-ncts_아이덴티티](/images/projects/국가기술전략센터-ncts_아이덴티티/14-page.jpg)

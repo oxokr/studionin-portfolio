@@ -44,3 +44,17 @@ credits:
 ![대전시립미술관-딕테x러브포엠](/images/projects/대전시립미술관-딕테x러브포엠/07-page.jpg)
 
 ![대전시립미술관-딕테x러브포엠](/images/projects/대전시립미술관-딕테x러브포엠/08-page.jpg)
+
+![대전시립미술관-딕테x러브포엠](/images/projects/대전시립미술관-딕테x러브포엠/09-page.jpg)
+
+![대전시립미술관-딕테x러브포엠](/images/projects/대전시립미술관-딕테x러브포엠/10-page.jpg)
+
+![대전시립미술관-딕테x러브포엠](/images/projects/대전시립미술관-딕테x러브포엠/11-page.jpg)
+
+![대전시립미술관-딕테x러브포엠](/images/projects/대전시립미술관-딕테x러브포엠/12-page.jpg)
+
+![대전시립미술관-딕테x러브포엠](/images/projects/대전시립미술관-딕테x러브포엠/13-page.jpg)
+
+![대전시립미술관-딕테x러브포엠](/images/projects/대전시립미술관-딕테x러브포엠/14-page.jpg)
+
+![대전시립미술관-딕테x러브포엠](/images/projects/대전시립미술관-딕테x러브포엠/15-page.jpg)
