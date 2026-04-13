@@ -78,7 +78,8 @@
 }
 
 .project-card__info {
-  padding-top: var(--space-3);
+  padding-top: var(--space-2);
+  padding-bottom: var(--space-4);
 }
 
 .project-card__title {
@@ -113,15 +114,15 @@
    =================================== */
 
 .filter-bar {
-  padding-block: var(--space-5);
+  padding-block: var(--space-4) var(--space-5);
   border-bottom: 1px solid var(--color-gray-200);
-  margin-bottom: var(--space-6);
+  margin-bottom: var(--space-5);
 }
 
 @media (min-width: 768px) {
   .filter-bar {
-    padding-block: var(--space-8);
-    margin-bottom: var(--space-8);
+    padding-block: var(--space-5) var(--space-6);
+    margin-bottom: var(--space-6);
   }
 }
 

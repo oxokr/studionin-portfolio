@@ -101,10 +101,10 @@ ol {
   --space-32: 8rem;
 
   /* Layout */
-  --content-max: 1200px;
-  --content-narrow: 800px;
-  --content-padding: var(--space-6);
-  --grid-gap: var(--space-4);
+  --content-max: 1680px;
+  --content-narrow: 720px;
+  --content-padding: 16px;
+  --grid-gap: 12px;
 
   /* Transitions */
   --ease-out: cubic-bezier(0.25, 0.46, 0.45, 0.94);
@@ -115,15 +115,15 @@ ol {
 
 @media (min-width: 768px) {
   :root {
-    --content-padding: var(--space-10);
-    --grid-gap: var(--space-6);
+    --content-padding: 24px;
+    --grid-gap: 12px;
   }
 }
 
 @media (min-width: 1024px) {
   :root {
-    --content-padding: 60px;
-    --grid-gap: var(--space-8);
+    --content-padding: 24px;
+    --grid-gap: 12px;
   }
 }
 
@@ -204,6 +204,10 @@ small,
 
 .container--narrow {
   max-width: var(--content-narrow);
+}
+
+.container--article {
+  max-width: 1200px;
 }
 
 .full-bleed {
