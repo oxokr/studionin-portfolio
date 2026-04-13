@@ -154,6 +154,12 @@ for (const s of sel) {
 
   const outDir = path.join(PUBLIC_DIR, slug);
 
+  // v3 완료 마커가 있으면 스킵
+  if (fs.existsSync(path.join(outDir, '.v3done'))) {
+    skipped++;
+    continue;
+  }
+
   // 기존 이미지 삭제
   if (fs.existsSync(outDir)) fs.rmSync(outDir, { recursive: true });
   fs.mkdirSync(outDir, { recursive: true });
@@ -190,6 +196,8 @@ for (const s of sel) {
     }
 
     const finalCount = fs.readdirSync(outDir).filter(f => f.endsWith('.jpg')).length;
+    // v3 완료 마커
+    fs.writeFileSync(path.join(outDir, '.v3done'), '', 'utf-8');
     console.log(`  ✓ ${slug}: ${finalCount} images (from ${allImages.length} extracted)`);
     processed++;
 
