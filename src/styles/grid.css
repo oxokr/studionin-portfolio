@@ -225,6 +225,27 @@
   color: var(--color-gray-600);
 }
 
+/* Gallery images from Content component */
+.gallery img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.gallery p {
+  margin: 0;
+}
+
+.gallery p + p {
+  margin-top: var(--space-4);
+}
+
+@media (min-width: 768px) {
+  .gallery p + p {
+    margin-top: var(--space-6);
+  }
+}
+
 /* ===================================
    Two-Column Description
    =================================== */

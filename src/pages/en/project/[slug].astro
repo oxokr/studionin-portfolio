@@ -1,6 +1,6 @@
 ---
 import BaseLayout from '../../../components/layout/BaseLayout.astro';
-import { getCollection } from 'astro:content';
+import { getCollection, render } from 'astro:content';
 
 export async function getStaticPaths() {
   const projects = await getCollection('projects', ({ data }) => !data.draft);
@@ -47,6 +47,7 @@ const sectorLabels: Record<string, string> = {
 const title = data.titleEn || data.title;
 const org = data.organizationEn || data.organization;
 const desc = data.descriptionEn || data.description;
+const { Content } = await render(project);
 ---
 
 <BaseLayout lang="en" title={title} description={desc}>
@@ -99,16 +100,7 @@ const desc = data.descriptionEn || data.description;
 
       <section class="project-gallery">
         <div class="gallery">
-          <div class="gallery__full">
-            <div class="gallery-placeholder"><span>Gallery Image 1</span></div>
-          </div>
-          <div class="gallery__pair">
-            <div class="gallery-placeholder"><span>Gallery Image 2</span></div>
-            <div class="gallery-placeholder"><span>Gallery Image 3</span></div>
-          </div>
-          <div class="gallery__full">
-            <div class="gallery-placeholder"><span>Gallery Image 4</span></div>
-          </div>
+          <Content />
         </div>
       </section>
 

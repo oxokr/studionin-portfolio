@@ -3,8 +3,7 @@ import { glob } from 'astro/loaders';
 
 const projects = defineCollection({
   loader: glob({ pattern: '**/*.md', base: './src/content/projects' }),
-  schema: ({ image }) =>
-    z.object({
+  schema: z.object({
       title: z.string(),
       titleEn: z.string().default(''),
       slug: z.string(),
@@ -24,8 +23,8 @@ const projects = defineCollection({
           z.enum(['exhibition', 'editorial', 'identity', 'space', 'branding'])
         )
         .min(1),
-      thumbnail: image().optional(),
-      heroImage: image().optional(),
+      thumbnail: z.string().optional(),
+      heroImage: z.string().optional(),
       heroLayout: z
         .enum(['full-bleed', 'content-width'])
         .default('content-width'),

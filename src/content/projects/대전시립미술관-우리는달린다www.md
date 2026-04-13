@@ -10,8 +10,8 @@ type:
   - 'editorial'
   - 'exhibition'
   - 'space'
-thumbnail: './대전시립미술관-우리는달린다www/images/thumbnail.jpg'
-heroImage: './대전시립미술관-우리는달린다www/images/hero.jpg'
+thumbnail: '/images/projects/대전시립미술관-우리는달린다www/thumbnail.jpg'
+heroImage: '/images/projects/대전시립미술관-우리는달린다www/hero.jpg'
 heroLayout: 'content-width'
 sortOrder: 50
 collaboration: 'solo'
@@ -32,18 +32,24 @@ credits:
 # source: T1/대전시립미술관/우리는달린다WWW
 ---
 
-![대전시립미술관-우리는달린다www 1](./대전시립미술관-우리는달린다www/images/01-page.jpg)
+![대전시립미술관-우리는달린다www](/images/projects/대전시립미술관-우리는달린다www/01-page.jpg)
 
-![대전시립미술관-우리는달린다www 2](./대전시립미술관-우리는달린다www/images/02-page.jpg)
+![대전시립미술관-우리는달린다www](/images/projects/대전시립미술관-우리는달린다www/02-page.jpg)
 
-![대전시립미술관-우리는달린다www 4](./대전시립미술관-우리는달린다www/images/04-page.jpg)
+![대전시립미술관-우리는달린다www](/images/projects/대전시립미술관-우리는달린다www/03-page.jpg)
 
-![대전시립미술관-우리는달린다www 5](./대전시립미술관-우리는달린다www/images/05-page.jpg)
+![대전시립미술관-우리는달린다www](/images/projects/대전시립미술관-우리는달린다www/04-page.jpg)
 
-![대전시립미술관-우리는달린다www 7](./대전시립미술관-우리는달린다www/images/07-page.jpg)
+![대전시립미술관-우리는달린다www](/images/projects/대전시립미술관-우리는달린다www/05-page.jpg)
 
-![대전시립미술관-우리는달린다www 8](./대전시립미술관-우리는달린다www/images/08-page.jpg)
+![대전시립미술관-우리는달린다www](/images/projects/대전시립미술관-우리는달린다www/06-page.jpg)
 
-![대전시립미술관-우리는달린다www 10](./대전시립미술관-우리는달린다www/images/10-page.jpg)
+![대전시립미술관-우리는달린다www](/images/projects/대전시립미술관-우리는달린다www/07-page.jpg)
 
-![대전시립미술관-우리는달린다www 11](./대전시립미술관-우리는달린다www/images/11-page.jpg)
+![대전시립미술관-우리는달린다www](/images/projects/대전시립미술관-우리는달린다www/08-page.jpg)
+
+![대전시립미술관-우리는달린다www](/images/projects/대전시립미술관-우리는달린다www/09-page.jpg)
+
+![대전시립미술관-우리는달린다www](/images/projects/대전시립미술관-우리는달린다www/10-page.jpg)
+
+![대전시립미술관-우리는달린다www](/images/projects/대전시립미술관-우리는달린다www/11-page.jpg)

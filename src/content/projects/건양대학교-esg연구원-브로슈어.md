@@ -8,8 +8,8 @@ organizationEn: ''
 sector: 'commercial'
 type:
   - 'editorial'
-thumbnail: './건양대학교-esg연구원-브로슈어/images/thumbnail.jpg'
-heroImage: './건양대학교-esg연구원-브로슈어/images/hero.jpg'
+thumbnail: '/images/projects/건양대학교-esg연구원-브로슈어/thumbnail.jpg'
+heroImage: '/images/projects/건양대학교-esg연구원-브로슈어/hero.jpg'
 heroLayout: 'content-width'
 sortOrder: 50
 collaboration: 'solo'
@@ -27,10 +27,12 @@ credits:
 # source: T1/건양대학교/ESG연구원 브로슈어
 ---
 
-![건양대학교-esg연구원-브로슈어 1](./건양대학교-esg연구원-브로슈어/images/01-page.jpg)
+![건양대학교-esg연구원-브로슈어](/images/projects/건양대학교-esg연구원-브로슈어/01-page.jpg)
 
-![건양대학교-esg연구원-브로슈어 2](./건양대학교-esg연구원-브로슈어/images/02-page.jpg)
+![건양대학교-esg연구원-브로슈어](/images/projects/건양대학교-esg연구원-브로슈어/02-page.jpg)
 
-![건양대학교-esg연구원-브로슈어 4](./건양대학교-esg연구원-브로슈어/images/04-page.jpg)
+![건양대학교-esg연구원-브로슈어](/images/projects/건양대학교-esg연구원-브로슈어/03-page.jpg)
 
-![건양대학교-esg연구원-브로슈어 5](./건양대학교-esg연구원-브로슈어/images/05-page.jpg)
+![건양대학교-esg연구원-브로슈어](/images/projects/건양대학교-esg연구원-브로슈어/04-page.jpg)
+
+![건양대학교-esg연구원-브로슈어](/images/projects/건양대학교-esg연구원-브로슈어/05-page.jpg)

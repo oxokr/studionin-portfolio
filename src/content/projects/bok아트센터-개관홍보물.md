@@ -8,8 +8,8 @@ organizationEn: ''
 sector: 'museum'
 type:
   - 'exhibition'
-thumbnail: './bok아트센터-개관홍보물/images/thumbnail.jpg'
-heroImage: './bok아트센터-개관홍보물/images/hero.jpg'
+thumbnail: '/images/projects/bok아트센터-개관홍보물/thumbnail.jpg'
+heroImage: '/images/projects/bok아트센터-개관홍보물/hero.jpg'
 heroLayout: 'content-width'
 sortOrder: 50
 collaboration: 'solo'
@@ -33,14 +33,10 @@ credits:
 # source: T1/bok아트센터/개관홍보물
 ---
 
-![bok아트센터-개관홍보물 1](./bok아트센터-개관홍보물/images/01-page.jpg)
+![bok아트센터-개관홍보물](/images/projects/bok아트센터-개관홍보물/01-page.jpg)
 
-![bok아트센터-개관홍보물 2](./bok아트센터-개관홍보물/images/02-page.jpg)
+![bok아트센터-개관홍보물](/images/projects/bok아트센터-개관홍보물/02-page.jpg)
 
-![bok아트센터-개관홍보물 4](./bok아트센터-개관홍보물/images/04-page.jpg)
+![bok아트센터-개관홍보물](/images/projects/bok아트센터-개관홍보물/03-page.jpg)
 
-![bok아트센터-개관홍보물 5](./bok아트센터-개관홍보물/images/05-page.jpg)
-
-![bok아트센터-개관홍보물 7](./bok아트센터-개관홍보물/images/07-page.jpg)
-
-![bok아트센터-개관홍보물 8](./bok아트센터-개관홍보물/images/08-page.jpg)
+![bok아트센터-개관홍보물](/images/projects/bok아트센터-개관홍보물/04-page.jpg)

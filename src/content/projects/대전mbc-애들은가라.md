@@ -8,8 +8,8 @@ organizationEn: ''
 sector: 'public'
 type:
   - 'exhibition'
-thumbnail: './대전mbc-애들은가라/images/thumbnail.jpg'
-heroImage: './대전mbc-애들은가라/images/hero.jpg'
+thumbnail: '/images/projects/대전mbc-애들은가라/thumbnail.jpg'
+heroImage: '/images/projects/대전mbc-애들은가라/hero.jpg'
 heroLayout: 'content-width'
 sortOrder: 50
 collaboration: 'solo'
@@ -25,22 +25,18 @@ credits:
 # source: T1/대전MBC/애들은가라
 ---
 
-![대전mbc-애들은가라 1](./대전mbc-애들은가라/images/01-page.jpg)
+![대전mbc-애들은가라](/images/projects/대전mbc-애들은가라/01-page.jpg)
 
-![대전mbc-애들은가라 2](./대전mbc-애들은가라/images/02-page.jpg)
+![대전mbc-애들은가라](/images/projects/대전mbc-애들은가라/02-page.jpg)
 
-![대전mbc-애들은가라 4](./대전mbc-애들은가라/images/04-page.jpg)
+![대전mbc-애들은가라](/images/projects/대전mbc-애들은가라/03-page.jpg)
 
-![대전mbc-애들은가라 5](./대전mbc-애들은가라/images/05-page.jpg)
+![대전mbc-애들은가라](/images/projects/대전mbc-애들은가라/04-page.jpg)
 
-![대전mbc-애들은가라 7](./대전mbc-애들은가라/images/07-page.jpg)
+![대전mbc-애들은가라](/images/projects/대전mbc-애들은가라/05-page.jpg)
 
-![대전mbc-애들은가라 8](./대전mbc-애들은가라/images/08-page.jpg)
+![대전mbc-애들은가라](/images/projects/대전mbc-애들은가라/06-page.jpg)
 
-![대전mbc-애들은가라 10](./대전mbc-애들은가라/images/10-page.jpg)
+![대전mbc-애들은가라](/images/projects/대전mbc-애들은가라/07-page.jpg)
 
-![대전mbc-애들은가라 11](./대전mbc-애들은가라/images/11-page.jpg)
-
-![대전mbc-애들은가라 13](./대전mbc-애들은가라/images/13-page.jpg)
-
-![대전mbc-애들은가라 14](./대전mbc-애들은가라/images/14-page.jpg)
+![대전mbc-애들은가라](/images/projects/대전mbc-애들은가라/08-page.jpg)

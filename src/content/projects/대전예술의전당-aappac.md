@@ -8,8 +8,8 @@ organizationEn: ''
 sector: 'performing-arts'
 type:
   - 'exhibition'
-thumbnail: './대전예술의전당-aappac/images/thumbnail.jpg'
-heroImage: './대전예술의전당-aappac/images/hero.jpg'
+thumbnail: '/images/projects/대전예술의전당-aappac/thumbnail.jpg'
+heroImage: '/images/projects/대전예술의전당-aappac/hero.jpg'
 heroLayout: 'content-width'
 sortOrder: 50
 collaboration: 'solo'
@@ -25,22 +25,32 @@ credits:
 # source: T1/대전예술의전당/AAPPAC
 ---
 
-![대전예술의전당-aappac 1](./대전예술의전당-aappac/images/01-page.jpg)
+![대전예술의전당-aappac](/images/projects/대전예술의전당-aappac/01-page.jpg)
 
-![대전예술의전당-aappac 2](./대전예술의전당-aappac/images/02-page.jpg)
+![대전예술의전당-aappac](/images/projects/대전예술의전당-aappac/02-page.jpg)
 
-![대전예술의전당-aappac 4](./대전예술의전당-aappac/images/04-page.jpg)
+![대전예술의전당-aappac](/images/projects/대전예술의전당-aappac/03-page.jpg)
 
-![대전예술의전당-aappac 5](./대전예술의전당-aappac/images/05-page.jpg)
+![대전예술의전당-aappac](/images/projects/대전예술의전당-aappac/04-page.jpg)
 
-![대전예술의전당-aappac 7](./대전예술의전당-aappac/images/07-page.jpg)
+![대전예술의전당-aappac](/images/projects/대전예술의전당-aappac/05-page.jpg)
 
-![대전예술의전당-aappac 8](./대전예술의전당-aappac/images/08-page.jpg)
+![대전예술의전당-aappac](/images/projects/대전예술의전당-aappac/06-page.jpg)
 
-![대전예술의전당-aappac 10](./대전예술의전당-aappac/images/10-page.jpg)
+![대전예술의전당-aappac](/images/projects/대전예술의전당-aappac/07-page.jpg)
 
-![대전예술의전당-aappac 11](./대전예술의전당-aappac/images/11-page.jpg)
+![대전예술의전당-aappac](/images/projects/대전예술의전당-aappac/08-page.jpg)
 
-![대전예술의전당-aappac 13](./대전예술의전당-aappac/images/13-page.jpg)
+![대전예술의전당-aappac](/images/projects/대전예술의전당-aappac/09-page.jpg)
 
-![대전예술의전당-aappac 14](./대전예술의전당-aappac/images/14-page.jpg)
+![대전예술의전당-aappac](/images/projects/대전예술의전당-aappac/10-page.jpg)
+
+![대전예술의전당-aappac](/images/projects/대전예술의전당-aappac/11-page.jpg)
+
+![대전예술의전당-aappac](/images/projects/대전예술의전당-aappac/12-page.jpg)
+
+![대전예술의전당-aappac](/images/projects/대전예술의전당-aappac/13-page.jpg)
+
+![대전예술의전당-aappac](/images/projects/대전예술의전당-aappac/14-page.jpg)
+
+![대전예술의전당-aappac](/images/projects/대전예술의전당-aappac/15-page.jpg)

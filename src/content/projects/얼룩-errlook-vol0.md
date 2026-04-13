@@ -9,8 +9,8 @@ sector: 'self-initiated'
 type:
   - 'editorial'
   - 'exhibition'
-thumbnail: './얼룩-errlook-vol0/images/thumbnail.jpg'
-heroImage: './얼룩-errlook-vol0/images/hero.jpg'
+thumbnail: '/images/projects/얼룩-errlook-vol0/thumbnail.jpg'
+heroImage: '/images/projects/얼룩-errlook-vol0/hero.jpg'
 heroLayout: 'content-width'
 sortOrder: 50
 collaboration: 'solo'
@@ -31,22 +31,32 @@ credits:
 # source: T1/얼룩/err.look vol0
 ---
 
-![얼룩-errlook-vol0 1](./얼룩-errlook-vol0/images/01-page.jpg)
+![얼룩-errlook-vol0](/images/projects/얼룩-errlook-vol0/01-page.jpg)
 
-![얼룩-errlook-vol0 2](./얼룩-errlook-vol0/images/02-page.jpg)
+![얼룩-errlook-vol0](/images/projects/얼룩-errlook-vol0/02-page.jpg)
 
-![얼룩-errlook-vol0 4](./얼룩-errlook-vol0/images/04-page.jpg)
+![얼룩-errlook-vol0](/images/projects/얼룩-errlook-vol0/03-page.jpg)
 
-![얼룩-errlook-vol0 5](./얼룩-errlook-vol0/images/05-page.jpg)
+![얼룩-errlook-vol0](/images/projects/얼룩-errlook-vol0/04-page.jpg)
 
-![얼룩-errlook-vol0 7](./얼룩-errlook-vol0/images/07-page.jpg)
+![얼룩-errlook-vol0](/images/projects/얼룩-errlook-vol0/05-page.jpg)
 
-![얼룩-errlook-vol0 8](./얼룩-errlook-vol0/images/08-page.jpg)
+![얼룩-errlook-vol0](/images/projects/얼룩-errlook-vol0/06-page.jpg)
 
-![얼룩-errlook-vol0 10](./얼룩-errlook-vol0/images/10-page.jpg)
+![얼룩-errlook-vol0](/images/projects/얼룩-errlook-vol0/07-page.jpg)
 
-![얼룩-errlook-vol0 11](./얼룩-errlook-vol0/images/11-page.jpg)
+![얼룩-errlook-vol0](/images/projects/얼룩-errlook-vol0/08-page.jpg)
 
-![얼룩-errlook-vol0 13](./얼룩-errlook-vol0/images/13-page.jpg)
+![얼룩-errlook-vol0](/images/projects/얼룩-errlook-vol0/09-page.jpg)
 
-![얼룩-errlook-vol0 14](./얼룩-errlook-vol0/images/14-page.jpg)
+![얼룩-errlook-vol0](/images/projects/얼룩-errlook-vol0/10-page.jpg)
+
+![얼룩-errlook-vol0](/images/projects/얼룩-errlook-vol0/11-page.jpg)
+
+![얼룩-errlook-vol0](/images/projects/얼룩-errlook-vol0/12-page.jpg)
+
+![얼룩-errlook-vol0](/images/projects/얼룩-errlook-vol0/13-page.jpg)
+
+![얼룩-errlook-vol0](/images/projects/얼룩-errlook-vol0/14-page.jpg)
+
+![얼룩-errlook-vol0](/images/projects/얼룩-errlook-vol0/15-page.jpg)

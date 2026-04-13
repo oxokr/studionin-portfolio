@@ -9,8 +9,8 @@ sector: 'performing-arts'
 type:
   - 'exhibition'
   - 'editorial'
-thumbnail: './대전예술의전당-ndt2/images/thumbnail.jpg'
-heroImage: './대전예술의전당-ndt2/images/hero.jpg'
+thumbnail: '/images/projects/대전예술의전당-ndt2/thumbnail.jpg'
+heroImage: '/images/projects/대전예술의전당-ndt2/hero.jpg'
 heroLayout: 'content-width'
 sortOrder: 50
 collaboration: 'solo'
@@ -29,18 +29,24 @@ credits:
 # source: T1/대전예술의전당/NDT2
 ---
 
-![대전예술의전당-ndt2 1](./대전예술의전당-ndt2/images/01-page.jpg)
+![대전예술의전당-ndt2](/images/projects/대전예술의전당-ndt2/01-page.jpg)
 
-![대전예술의전당-ndt2 2](./대전예술의전당-ndt2/images/02-page.jpg)
+![대전예술의전당-ndt2](/images/projects/대전예술의전당-ndt2/02-page.jpg)
 
-![대전예술의전당-ndt2 4](./대전예술의전당-ndt2/images/04-page.jpg)
+![대전예술의전당-ndt2](/images/projects/대전예술의전당-ndt2/03-page.jpg)
 
-![대전예술의전당-ndt2 5](./대전예술의전당-ndt2/images/05-page.jpg)
+![대전예술의전당-ndt2](/images/projects/대전예술의전당-ndt2/04-page.jpg)
 
-![대전예술의전당-ndt2 7](./대전예술의전당-ndt2/images/07-page.jpg)
+![대전예술의전당-ndt2](/images/projects/대전예술의전당-ndt2/05-page.jpg)
 
-![대전예술의전당-ndt2 8](./대전예술의전당-ndt2/images/08-page.jpg)
+![대전예술의전당-ndt2](/images/projects/대전예술의전당-ndt2/06-page.jpg)
 
-![대전예술의전당-ndt2 10](./대전예술의전당-ndt2/images/10-page.jpg)
+![대전예술의전당-ndt2](/images/projects/대전예술의전당-ndt2/07-page.jpg)
 
-![대전예술의전당-ndt2 11](./대전예술의전당-ndt2/images/11-page.jpg)
+![대전예술의전당-ndt2](/images/projects/대전예술의전당-ndt2/08-page.jpg)
+
+![대전예술의전당-ndt2](/images/projects/대전예술의전당-ndt2/09-page.jpg)
+
+![대전예술의전당-ndt2](/images/projects/대전예술의전당-ndt2/10-page.jpg)
+
+![대전예술의전당-ndt2](/images/projects/대전예술의전당-ndt2/11-page.jpg)

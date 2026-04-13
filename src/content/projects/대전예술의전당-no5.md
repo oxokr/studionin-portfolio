@@ -9,8 +9,8 @@ sector: 'performing-arts'
 type:
   - 'exhibition'
   - 'editorial'
-thumbnail: './대전예술의전당-no5/images/thumbnail.jpg'
-heroImage: './대전예술의전당-no5/images/hero.jpg'
+thumbnail: '/images/projects/대전예술의전당-no5/thumbnail.jpg'
+heroImage: '/images/projects/대전예술의전당-no5/hero.jpg'
 heroLayout: 'content-width'
 sortOrder: 50
 collaboration: 'solo'
@@ -30,14 +30,10 @@ credits:
 # source: T1/대전예술의전당/No.5
 ---
 
-![대전예술의전당-no5 1](./대전예술의전당-no5/images/01-page.jpg)
+![대전예술의전당-no5](/images/projects/대전예술의전당-no5/01-page.jpg)
 
-![대전예술의전당-no5 2](./대전예술의전당-no5/images/02-page.jpg)
+![대전예술의전당-no5](/images/projects/대전예술의전당-no5/02-page.jpg)
 
-![대전예술의전당-no5 4](./대전예술의전당-no5/images/04-page.jpg)
+![대전예술의전당-no5](/images/projects/대전예술의전당-no5/03-page.jpg)
 
-![대전예술의전당-no5 5](./대전예술의전당-no5/images/05-page.jpg)
-
-![대전예술의전당-no5 7](./대전예술의전당-no5/images/07-page.jpg)
-
-![대전예술의전당-no5 8](./대전예술의전당-no5/images/08-page.jpg)
+![대전예술의전당-no5](/images/projects/대전예술의전당-no5/04-page.jpg)

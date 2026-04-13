@@ -1,6 +1,6 @@
 ---
 import BaseLayout from '../../components/layout/BaseLayout.astro';
-import { getCollection } from 'astro:content';
+import { getCollection, render } from 'astro:content';
 
 export async function getStaticPaths() {
   const projects = await getCollection('projects', ({ data }) => !data.draft);
@@ -12,6 +12,7 @@ export async function getStaticPaths() {
 
 const { project } = Astro.props;
 const { data } = project;
+const { Content } = await render(project);
 
 // Get all projects for prev/next navigation
 const allProjects = await getCollection('projects', ({ data }) => {
@@ -101,27 +102,10 @@ const sectorLabels: Record<string, string> = {
         </section>
       )}
 
-      <!-- Block 5: Gallery placeholder -->
+      <!-- Block 5: Gallery (from markdown body) -->
       <section class="project-gallery">
         <div class="gallery">
-          <div class="gallery__full">
-            <div class="gallery-placeholder">
-              <span>Gallery Image 1</span>
-            </div>
-          </div>
-          <div class="gallery__pair">
-            <div class="gallery-placeholder">
-              <span>Gallery Image 2</span>
-            </div>
-            <div class="gallery-placeholder">
-              <span>Gallery Image 3</span>
-            </div>
-          </div>
-          <div class="gallery__full">
-            <div class="gallery-placeholder">
-              <span>Gallery Image 4</span>
-            </div>
-          </div>
+          <Content />
         </div>
       </section>
 

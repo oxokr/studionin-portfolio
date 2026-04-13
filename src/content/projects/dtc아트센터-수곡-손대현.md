@@ -8,8 +8,8 @@ organizationEn: ''
 sector: 'museum'
 type:
   - 'exhibition'
-thumbnail: './dtc아트센터-수곡-손대현/images/thumbnail.jpg'
-heroImage: './dtc아트센터-수곡-손대현/images/hero.jpg'
+thumbnail: '/images/projects/dtc아트센터-수곡-손대현/thumbnail.jpg'
+heroImage: '/images/projects/dtc아트센터-수곡-손대현/hero.jpg'
 heroLayout: 'content-width'
 sortOrder: 50
 collaboration: 'solo'
@@ -25,10 +25,8 @@ credits:
 # source: T1/DTC아트센터/수곡 손대현
 ---
 
-![dtc아트센터-수곡-손대현 1](./dtc아트센터-수곡-손대현/images/01-page.jpg)
+![dtc아트센터-수곡-손대현](/images/projects/dtc아트센터-수곡-손대현/01-page.jpg)
 
-![dtc아트센터-수곡-손대현 2](./dtc아트센터-수곡-손대현/images/02-page.jpg)
+![dtc아트센터-수곡-손대현](/images/projects/dtc아트센터-수곡-손대현/02-page.jpg)
 
-![dtc아트센터-수곡-손대현 3](./dtc아트센터-수곡-손대현/images/03-page.jpg)
-
-![dtc아트센터-수곡-손대현 4](./dtc아트센터-수곡-손대현/images/04-page.jpg)
+![dtc아트센터-수곡-손대현](/images/projects/dtc아트센터-수곡-손대현/03-page.jpg)

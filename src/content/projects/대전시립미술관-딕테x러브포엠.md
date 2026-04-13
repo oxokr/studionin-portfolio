@@ -9,8 +9,8 @@ sector: 'museum'
 type:
   - 'editorial'
   - 'exhibition'
-thumbnail: './대전시립미술관-딕테x러브포엠/images/thumbnail.jpg'
-heroImage: './대전시립미술관-딕테x러브포엠/images/hero.jpg'
+thumbnail: '/images/projects/대전시립미술관-딕테x러브포엠/thumbnail.jpg'
+heroImage: '/images/projects/대전시립미술관-딕테x러브포엠/hero.jpg'
 heroLayout: 'content-width'
 sortOrder: 50
 collaboration: 'solo'
@@ -29,14 +29,18 @@ credits:
 # source: T1/대전시립미술관/딕테x러브포엠
 ---
 
-![대전시립미술관-딕테x러브포엠 1](./대전시립미술관-딕테x러브포엠/images/01-page.jpg)
+![대전시립미술관-딕테x러브포엠](/images/projects/대전시립미술관-딕테x러브포엠/01-page.jpg)
 
-![대전시립미술관-딕테x러브포엠 2](./대전시립미술관-딕테x러브포엠/images/02-page.jpg)
+![대전시립미술관-딕테x러브포엠](/images/projects/대전시립미술관-딕테x러브포엠/02-page.jpg)
 
-![대전시립미술관-딕테x러브포엠 4](./대전시립미술관-딕테x러브포엠/images/04-page.jpg)
+![대전시립미술관-딕테x러브포엠](/images/projects/대전시립미술관-딕테x러브포엠/03-page.jpg)
 
-![대전시립미술관-딕테x러브포엠 5](./대전시립미술관-딕테x러브포엠/images/05-page.jpg)
+![대전시립미술관-딕테x러브포엠](/images/projects/대전시립미술관-딕테x러브포엠/04-page.jpg)
 
-![대전시립미술관-딕테x러브포엠 7](./대전시립미술관-딕테x러브포엠/images/07-page.jpg)
+![대전시립미술관-딕테x러브포엠](/images/projects/대전시립미술관-딕테x러브포엠/05-page.jpg)
 
-![대전시립미술관-딕테x러브포엠 8](./대전시립미술관-딕테x러브포엠/images/08-page.jpg)
+![대전시립미술관-딕테x러브포엠](/images/projects/대전시립미술관-딕테x러브포엠/06-page.jpg)
+
+![대전시립미술관-딕테x러브포엠](/images/projects/대전시립미술관-딕테x러브포엠/07-page.jpg)
+
+![대전시립미술관-딕테x러브포엠](/images/projects/대전시립미술관-딕테x러브포엠/08-page.jpg)
