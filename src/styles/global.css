@@ -206,9 +206,6 @@ small,
   max-width: var(--content-narrow);
 }
 
-.container--article {
-  max-width: 1200px;
-}
 
 .full-bleed {
   width: 100vw;
