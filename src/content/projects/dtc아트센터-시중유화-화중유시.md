@@ -8,6 +8,8 @@ organizationEn: ''
 sector: 'museum'
 type:
   - 'exhibition'
+thumbnail: './dtc아트센터-시중유화-화중유시/images/thumbnail.jpg'
+heroImage: './dtc아트센터-시중유화-화중유시/images/hero.jpg'
 heroLayout: 'content-width'
 sortOrder: 50
 collaboration: 'solo'
@@ -29,3 +31,23 @@ credits:
   client: 'DTC아트센터'
 # source: T1/DTC아트센터/시중유화 화중유시
 ---
+
+![dtc아트센터-시중유화-화중유시 1](./dtc아트센터-시중유화-화중유시/images/01-page.jpg)
+
+![dtc아트센터-시중유화-화중유시 2](./dtc아트센터-시중유화-화중유시/images/02-page.jpg)
+
+![dtc아트센터-시중유화-화중유시 4](./dtc아트센터-시중유화-화중유시/images/04-page.jpg)
+
+![dtc아트센터-시중유화-화중유시 5](./dtc아트센터-시중유화-화중유시/images/05-page.jpg)
+
+![dtc아트센터-시중유화-화중유시 7](./dtc아트센터-시중유화-화중유시/images/07-page.jpg)
+
+![dtc아트센터-시중유화-화중유시 8](./dtc아트센터-시중유화-화중유시/images/08-page.jpg)
+
+![dtc아트센터-시중유화-화중유시 10](./dtc아트센터-시중유화-화중유시/images/10-page.jpg)
+
+![dtc아트센터-시중유화-화중유시 11](./dtc아트센터-시중유화-화중유시/images/11-page.jpg)
+
+![dtc아트센터-시중유화-화중유시 13](./dtc아트센터-시중유화-화중유시/images/13-page.jpg)
+
+![dtc아트센터-시중유화-화중유시 14](./dtc아트센터-시중유화-화중유시/images/14-page.jpg)

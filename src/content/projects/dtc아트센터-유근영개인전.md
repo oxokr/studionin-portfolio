@@ -8,6 +8,8 @@ organizationEn: ''
 sector: 'museum'
 type:
   - 'exhibition'
+thumbnail: './dtc아트센터-유근영개인전/images/thumbnail.jpg'
+heroImage: './dtc아트센터-유근영개인전/images/hero.jpg'
 heroLayout: 'content-width'
 sortOrder: 50
 collaboration: 'solo'
@@ -22,3 +24,7 @@ credits:
   client: 'DTC아트센터'
 # source: T1/DTC아트센터/유근영개인전
 ---
+
+![dtc아트센터-유근영개인전 1](./dtc아트센터-유근영개인전/images/01-page.jpg)
+
+![dtc아트센터-유근영개인전 2](./dtc아트센터-유근영개인전/images/02-page.jpg)

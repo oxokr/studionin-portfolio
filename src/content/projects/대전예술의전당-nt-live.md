@@ -8,6 +8,8 @@ organizationEn: ''
 sector: 'performing-arts'
 type:
   - 'exhibition'
+thumbnail: './대전예술의전당-nt-live/images/thumbnail.jpg'
+heroImage: './대전예술의전당-nt-live/images/hero.jpg'
 heroLayout: 'content-width'
 sortOrder: 50
 collaboration: 'solo'
@@ -25,3 +27,15 @@ credits:
   client: '대전예술의전당'
 # source: T1/대전예술의전당/NT live
 ---
+
+![대전예술의전당-nt-live 1](./대전예술의전당-nt-live/images/01-page.jpg)
+
+![대전예술의전당-nt-live 2](./대전예술의전당-nt-live/images/02-page.jpg)
+
+![대전예술의전당-nt-live 4](./대전예술의전당-nt-live/images/04-page.jpg)
+
+![대전예술의전당-nt-live 5](./대전예술의전당-nt-live/images/05-page.jpg)
+
+![대전예술의전당-nt-live 7](./대전예술의전당-nt-live/images/07-page.jpg)
+
+![대전예술의전당-nt-live 8](./대전예술의전당-nt-live/images/08-page.jpg)
